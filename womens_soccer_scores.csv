@@ -1,0 +1,3953 @@
+"date","team","opponent","goals_scored","location","match_weight"
+2013-01-12,"Cyprus","Malta",1,"H",1
+2013-01-12,"Kuwait","Nepal",0,"H",1
+2013-01-12,"China PR","Canada",0,"H",1
+2013-01-12,"Norway","Korea Republic",2,"N",1
+2013-01-14,"Canada","Korea Republic",1,"N",1
+2013-01-14,"China PR","Norway",0,"H",1
+2013-01-15,"Greece","Wales",0,"H",1
+2013-01-16,"China PR","Korea Republic",2,"H",1
+2013-01-16,"Norway","Canada",0,"N",1
+2013-01-16,"Spain","Russia",2,"H",1
+2013-02-09,"Belgium","Netherlands",2,"H",1
+2013-02-09,"USA","Scotland",4,"H",1
+2013-02-11,"Iran","Jordan",2,"H",1
+2013-02-12,"Spain","Denmark",0,"H",1
+2013-02-13,"Cyprus","Greece",1,"H",1
+2013-02-13,"Iran","Jordan",2,"H",1
+2013-02-13,"USA","Scotland",3,"H",1
+2013-02-13,"Belgium","Austria",2,"H",1
+2013-02-13,"France","Germany",3,"H",2
+2013-02-14,"Finland","Russia",5,"H",1
+2013-02-16,"Latvia","Lithuania",2,"H",1
+2013-03-05,"Uruguay","Zimbabwe",3,"H",1
+2013-03-06,"France","Brazil",2,"H",2
+2013-03-06,"Guatemala","Panama",3,"N",1
+2013-03-06,"Costa Rica","Belize",14,"H",1
+2013-03-06,"Nicaragua","El Salvador",3,"N",1
+2013-03-06,"Japan","Norway",0,"N",1
+2013-03-06,"Sweden","China PR",1,"N",1
+2013-03-06,"Denmark","Germany",0,"N",1
+2013-03-06,"USA","Iceland",3,"N",1
+2013-03-06,"Hungary","Mexico",0,"N",1
+2013-03-06,"Northern Ireland","Republic of Ireland",1,"N",1
+2013-03-06,"New Zealand","Scotland",1,"N",1
+2013-03-06,"Canada","Switzerland",2,"N",1
+2013-03-06,"South Africa","Korea Republic",0,"N",1
+2013-03-06,"England","Italy",4,"N",1
+2013-03-06,"Netherlands","Finland",1,"N",1
+2013-03-06,"Portugal","Wales",2,"H",1
+2013-03-07,"Russia","Bosnia and Herzegovina",1,"N",1
+2013-03-07,"Croatia","Czech Republic",1,"H",1
+2013-03-08,"Republic of Ireland","South Africa",1,"N",1
+2013-03-08,"Slovakia","Bosnia and Herzegovina",1,"N",1
+2013-03-08,"Costa Rica","Nicaragua",3,"H",1
+2013-03-08,"Croatia","Slovenia",0,"H",1
+2013-03-08,"Panama","Honduras",3,"N",1
+2013-03-08,"Korea Republic","Northern Ireland",3,"N",1
+2013-03-08,"Germany","Japan",2,"N",2
+2013-03-08,"China PR","USA",0,"N",1
+2013-03-08,"Iceland","Sweden",1,"N",1
+2013-03-08,"Norway","Denmark",0,"N",1
+2013-03-08,"El Salvador","Belize",9,"N",1
+2013-03-08,"Italy","New Zealand",0,"N",1
+2013-03-08,"Switzerland","Netherlands",1,"N",1
+2013-03-08,"Finland","Canada",1,"N",1
+2013-03-08,"Scotland","England",4,"N",1
+2013-03-08,"Portugal","Hungary",0,"H",1
+2013-03-08,"Mexico","Wales",0,"N",1
+2013-03-09,"Russia","Slovakia",1,"N",1
+2013-03-09,"France","Brazil",1,"H",2
+2013-03-09,"Uruguay","Zimbabwe",1,"H",1
+2013-03-09,"Czech Republic","Slovenia",5,"N",1
+2013-03-10,"Honduras","Guatemala",2,"N",1
+2013-03-10,"Costa Rica","El Salvador",3,"H",1
+2013-03-10,"Belize","Nicaragua",1,"N",1
+2013-03-11,"Slovenia","Bosnia and Herzegovina",0,"N",1
+2013-03-11,"Russia","Czech Republic",0,"N",1
+2013-03-11,"Croatia","Slovakia",1,"H",1
+2013-03-11,"South Africa","Northern Ireland",2,"N",1
+2013-03-11,"Korea Republic","Republic of Ireland",0,"N",1
+2013-03-11,"Portugal","Mexico",0,"H",1
+2013-03-11,"Wales","Hungary",1,"N",1
+2013-03-11,"Denmark","Japan",0,"N",1
+2013-03-11,"China PR","Iceland",1,"N",1
+2013-03-11,"Germany","Norway",2,"N",1
+2013-03-11,"Italy","Scotland",1,"N",1
+2013-03-11,"England","New Zealand",3,"N",1
+2013-03-11,"Sweden","USA",1,"N",2
+2013-03-11,"Netherlands","Canada",0,"N",1
+2013-03-11,"Finland","Switzerland",2,"N",1
+2013-03-12,"Costa Rica","Panama",3,"H",1
+2013-03-12,"Guatemala","Nicaragua",1,"N",1
+2013-03-13,"South Africa","Northern Ireland",1,"N",1
+2013-03-13,"Korea Republic","Italy",0,"N",1
+2013-03-13,"Hungary","Iceland",1,"N",1
+2013-03-13,"Germany","USA",0,"N",2
+2013-03-13,"Republic of Ireland","Finland",0,"N",1
+2013-03-13,"Portugal","Wales",1,"H",1
+2013-03-13,"Japan","China PR",1,"N",1
+2013-03-13,"Norway","Sweden",2,"N",1
+2013-03-13,"New Zealand","Switzerland",2,"N",1
+2013-03-13,"Scotland","Netherlands",1,"N",1
+2013-03-13,"Mexico","Denmark",0,"N",1
+2013-03-13,"England","Canada",1,"N",2
+2013-03-14,"Panama","Guatemala",3,"N",1
+2013-03-15,"Costa Rica","Nicaragua",4,"H",1
+2013-03-20,"Luxembourg","Estonia",1,"H",1
+2013-03-30,"Latvia","Estonia",3,"H",1
+2013-04-04,"Malta","Albania",1,"H",3
+2013-04-04,"Luxembourg","Latvia",0,"N",3
+2013-04-04,"Faroe Islands","Montenegro",3,"N",3
+2013-04-04,"Lithuania","Georgia",3,"H",3
+2013-04-06,"Albania","Latvia",2,"N",3
+2013-04-06,"Malta","Luxembourg",6,"H",3
+2013-04-06,"Georgia","Montenegro",0,"N",3
+2013-04-06,"Lithuania","Faroe Islands",0,"H",3
+2013-04-09,"Luxembourg","Albania",1,"N",3
+2013-04-09,"Malta","Latvia",2,"H",3
+2013-04-09,"Faroe Islands","Georgia",2,"N",3
+2013-04-09,"Lithuania","Montenegro",1,"H",3
+2013-04-01,"Jordan","Palestine",4,"H",1
+2013-04-03,"Jordan","Palestine",6,"H",1
+2013-04-04,"France","Canada",1,"H",2
+2013-04-04,"Slovakia","Finland",0,"H",1
+2013-04-05,"Germany","USA",3,"H",2
+2013-04-05,"Denmark","Netherlands",0,"H",1
+2013-04-06,"Sweden","Iceland",2,"H",1
+2013-04-06,"Switzerland","Norway",3,"H",1
+2013-04-07,"Austria","Italy",1,"H",1
+2013-04-07,"England","Canada",1,"H",2
+2013-04-07,"Scotland","Wales",2,"H",1
+2013-04-07,"Slovakia","Finland",3,"H",1
+2013-04-07,"Mozambique","Swaziland",2,"H",1
+2013-04-08,"Denmark","Russia",5,"H",1
+2013-04-09,"Netherlands","USA",1,"H",1
+2013-04-17,"Slovenia","Hungary",1,"H",1
+2013-04-26,"Vietnam","Jordan",1,"H",1
+2013-04-28,"Vietnam","Jordan",1,"H",1
+2013-05-21,"Iran","Philippines",0,"N",3
+2013-05-21,"Bangladesh","Thailand",0,"H",3
+2013-05-21,"Palestine","Chinese Taipei",0,"H",3
+2013-05-21,"Myanmar","India",2,"N",3
+2013-05-22,"Bahrain","Vietnam",0,"H",3
+2013-05-22,"Hong Kong","Kyrgyzstan",2,"N",3
+2013-05-23,"Philippines","Thailand",0,"N",3
+2013-05-23,"Bangladesh","Iran",0,"H",3
+2013-05-23,"Palestine","Myanmar",0,"H",3
+2013-05-23,"India","Chinese Taipei",1,"N",3
+2013-05-24,"Bahrain","Hong Kong",1,"H",3
+2013-05-24,"Kyrgyzstan","Vietnam",0,"N",3
+2013-05-25,"Thailand","Iran",5,"N",3
+2013-05-25,"Bangladesh","Philippines",0,"H",3
+2013-05-25,"Palestine","India",1,"H",3
+2013-05-25,"Myanmar","Chinese Taipei",0,"N",3
+2013-05-26,"Vietnam","Hong Kong",4,"N",3
+2013-05-26,"Bahrain","Kyrgyzstan",4,"H",3
+2013-05-14,"Bahrain","India",1,"H",1
+2013-05-16,"Jordan","Vietnam",1,"H",1
+2013-05-16,"Bahrain","India",0,"H",1
+2013-05-18,"Jordan","Vietnam",0,"H",1
+2013-05-29,"Albania","FYR Macedonia",3,"H",1
+2013-06-01,"Iceland","Scotland",2,"H",1
+2013-06-01,"France","Finland",3,"H",1
+2013-06-01,"Sweden","Norway",2,"H",1
+2013-06-01,"Romania","Greece",4,"H",1
+2013-06-05,"Uzbekistan","Kuwait",18,"N",3
+2013-06-05,"Jordan","Lebanon",5,"H",3
+2013-06-07,"Lebanon","Uzbekistan",0,"N",3
+2013-06-07,"Jordan","Kuwait",21,"H",3
+2013-06-09,"Lebanon","Kuwait",12,"N",3
+2013-06-09,"Jordan","Uzbekistan",4,"H",3
+2013-06-01,"Iceland","Scotland",2,"H",1
+2013-06-01,"France","Finland",3,"H",1
+2013-06-01,"Sweden","Norway",2,"H",1
+2013-06-01,"Romania","Greece",4,"H",1
+2013-06-02,"Canada","USA",0,"H",2
+2013-06-02,"Belgium","Ukraine",3,"H",1
+2013-06-02,"Slovenia","Austria",1,"H",1
+2013-06-02,"Zambia","Zimbabwe",1,"H",1
+2013-06-09,"South Africa","Mozambique",5,"H",1
+2013-06-13,"Australia","New Zealand",1,"H",1
+2013-06-15,"USA","Korea Republic",4,"H",1
+2013-06-15,"South Africa","Zimbabwe",1,"H",1
+2013-06-15,"Germany","Scotland",3,"H",1
+2013-06-16,"Australia","New Zealand",1,"H",1
+2013-06-17,"Slovakia","Wales",2,"H",1
+2013-06-18,"Republic of Ireland","Austria",2,"H",1
+2013-06-19,"Serbia","Romania",3,"H",1
+2013-06-19,"Germany","Canada",1,"H",2
+2013-06-19,"Finland","Switzerland",2,"H",1
+2013-06-19,"Slovakia","Wales",1,"H",1
+2013-06-19,"Sweden","Brazil",1,"H",2
+2013-06-20,"USA","Korea Republic",5,"H",1
+2013-06-20,"Denmark","Iceland",2,"H",1
+2013-06-20,"Japan","New Zealand",1,"H",1
+2013-06-22,"Poland","Czech Republic",4,"H",1
+2013-06-22,"Russia","Ukraine",1,"H",1
+2013-06-25,"Maldives","Qatar",1,"H",1
+2013-06-26,"England","Japan",1,"H",2
+2013-06-27,"Maldives","Qatar",3,"H",1
+2013-06-27,"Namibia","Lesotho",2,"H",1
+2013-06-28,"Denmark","Spain",2,"H",1
+2013-06-29,"Germany","Japan",4,"H",2
+2013-06-29,"France","Norway",1,"H",1
+2013-06-29,"Namibia","Lesotho",3,"H",1
+2013-06-29,"Netherlands","Australia",3,"H",1
+2013-07-10,"Italy","Finland",0,"N",3
+2013-07-10,"Sweden","Denmark",1,"H",3
+2013-07-11,"Germany","Netherlands",0,"N",3
+2013-07-11,"Norway","Iceland",1,"N",3
+2013-07-12,"England","Spain",2,"N",3
+2013-07-12,"France","Russia",3,"N",3
+2013-07-13,"Italy","Denmark",2,"N",3
+2013-07-13,"Finland","Sweden",0,"A",3
+2013-07-14,"Iceland","Germany",0,"N",3
+2013-07-14,"Norway","Netherlands",1,"N",3
+2013-07-15,"England","Russia",1,"N",3
+2013-07-15,"Spain","France",0,"N",3
+2013-07-16,"Sweden","Italy",3,"H",3
+2013-07-16,"Denmark","Finland",1,"N",3
+2013-07-17,"Netherlands","Iceland",0,"N",3
+2013-07-17,"Germany","Norway",0,"N",3
+2013-07-18,"Russia","Spain",1,"N",3
+2013-07-18,"France","England",3,"N",3
+2013-07-21,"Sweden","Iceland",4,"H",3
+2013-07-21,"Italy","Germany",0,"N",3
+2013-07-22,"Norway","Spain",3,"N",3
+2013-07-22,"France","Denmark",1,"N",3
+2013-07-24,"Sweden","Germany",0,"H",3
+2013-07-25,"Norway","Denmark",1,"N",3
+2013-07-28,"Germany","Norway",1,"N",3
+2013-07-04,"Sweden","England",4,"H",2
+2013-07-05,"Norway","Russia",2,"H",1
+2013-07-06,"France","Australia",0,"H",2
+2013-07-11,"Thailand","Malaysia",1,"H",1
+2013-07-13,"Thailand","Malaysia",3,"H",1
+2013-07-20,"Japan","China PR",2,"N",1
+2013-07-21,"Korea Republic","Korea DPR",1,"H",1
+2013-07-24,"Korea Republic","China PR",1,"H",1
+2013-07-25,"Japan","Korea DPR",0,"N",2
+2013-07-27,"Korea DPR","China PR",1,"N",1
+2013-07-27,"Korea Republic","Japan",2,"H",1
+2013-08-14,"Austria","Belgium",2,"H",1
+2013-08-20,"Czech Republic","Poland",1,"N",1
+2013-08-20,"Hungary","Slovakia",2,"H",1
+2013-08-20,"FYR Macedonia","Bulgaria",2,"H",1
+2013-08-20,"Slovenia","Bosnia and Herzegovina",1,"H",1
+2013-08-21,"Serbia","Scotland",1,"H",1
+2013-08-22,"Slovenia","Bosnia and Herzegovina",0,"H",1
+2013-08-22,"FYR Macedonia","Bulgaria",2,"H",1
+2013-08-22,"Poland","Slovakia",1,"N",1
+2013-08-22,"Hungary","Czech Republic",1,"H",1
+2013-08-23,"Lithuania","Latvia",2,"H",1
+2013-08-24,"Estonia","Latvia",0,"N",1
+2013-08-25,"Lithuania","Estonia",0,"H",1
+2013-09-20,"FYR Macedonia","Romania",1,"H",3
+2013-09-20,"Estonia","Italy",1,"H",3
+2013-09-21,"Germany","Russia",9,"H",3
+2013-09-21,"Switzerland","Serbia",9,"H",3
+2013-09-21,"Sweden","Poland",2,"H",3
+2013-09-21,"Belgium","Albania",2,"H",3
+2013-09-21,"England","Belarus",6,"H",3
+2013-09-21,"Kazakhstan","Finland",0,"H",3
+2013-09-21,"Austria","Bulgaria",4,"H",3
+2013-09-22,"Republic of Ireland","Slovakia",2,"H",3
+2013-09-22,"Faroe Islands","Scotland",2,"H",3
+2013-09-25,"Norway","Belgium",4,"H",3
+2013-09-25,"Kazakhstan","France",0,"H",3
+2013-09-25,"Finland","Austria",2,"H",3
+2013-09-26,"Croatia","Republic of Ireland",1,"H",3
+2013-09-26,"Slovakia","Slovenia",1,"H",3
+2013-09-26,"Italy","Romania",1,"H",3
+2013-09-26,"Iceland","Switzerland",0,"H",3
+2013-09-26,"Poland","Faroe Islands",6,"H",3
+2013-09-26,"Scotland","Bosnia and Herzegovina",7,"H",3
+2013-09-26,"Albania","Netherlands",0,"H",3
+2013-09-26,"Greece","Portugal",1,"H",3
+2013-09-26,"Wales","Belarus",1,"H",3
+2013-09-26,"England","Turkey",8,"H",3
+2013-09-03,"USA","Mexico",7,"H",1
+2013-09-03,"Hungary","Romania",3,"H",1
+2013-09-03,"Laos","Jordan",0,"H",1
+2013-09-05,"Laos","Jordan",4,"H",1
+2013-09-05,"Hungary","Romania",5,"H",1
+2013-09-09,"Thailand","Vietnam",0,"N",1
+2013-09-09,"Jordan","Malaysia",1,"N",1
+2013-09-10,"Estonia","Wales",2,"H",1
+2013-09-10,"Myanmar","Laos",5,"H",1
+2013-09-10,"Indonesia","Philippines",0,"N",1
+2013-09-11,"Jordan","Thailand",0,"N",1
+2013-09-12,"Indonesia","Laos",1,"N",1
+2013-09-13,"Vietnam","Malaysia",1,"N",1
+2013-09-14,"Myanmar","Philippines",5,"H",1
+2013-09-15,"Jordan","Vietnam",0,"N",1
+2013-09-16,"Myanmar","Indonesia",4,"H",1
+2013-09-17,"Malaysia","Thailand",0,"N",1
+2013-09-18,"Philippines","Laos",7,"N",1
+2013-09-20,"France","Czech Republic",2,"H",1
+2013-09-22,"Japan","Nigeria",2,"H",1
+2013-09-22,"Brazil","New Zealand",0,"N",1
+2013-09-22,"China PR","Mexico",1,"N",1
+2013-09-22,"Myanmar","Vietnam",1,"H",1
+2013-09-25,"China PR","New Zealand",0,"N",1
+2013-09-25,"Mexico","Brazil",0,"N",1
+2013-09-25,"Hungary","Denmark",0,"H",1
+2013-09-26,"Japan","Nigeria",2,"H",1
+2013-09-28,"Namibia","Swaziland",5,"H",1
+2013-10-26,"Croatia","Slovakia",0,"H",3
+2013-10-26,"Slovenia","Germany",0,"H",3
+2013-10-26,"FYR Macedonia","Czech Republic",1,"H",3
+2013-10-26,"Serbia","Denmark",1,"H",3
+2013-10-26,"Bosnia and Herzegovina","Sweden",0,"H",3
+2013-10-26,"Scotland","Northern Ireland",2,"H",3
+2013-10-26,"Greece","Belgium",1,"H",3
+2013-10-26,"Norway","Albania",7,"H",3
+2013-10-26,"Portugal","Netherlands",0,"H",3
+2013-10-26,"Belarus","Montenegro",3,"H",3
+2013-10-26,"England","Wales",2,"H",3
+2013-10-26,"Bulgaria","Kazakhstan",1,"H",3
+2013-10-26,"Hungary","Austria",0,"H",3
+2013-10-27,"Spain","Estonia",6,"H",3
+2013-10-27,"Israel","Malta",2,"H",3
+2013-10-30,"Slovenia","Republic of Ireland",0,"H",3
+2013-10-30,"Germany","Croatia",4,"H",3
+2013-10-30,"FYR Macedonia","Estonia",0,"H",3
+2013-10-30,"Romania","Czech Republic",0,"H",3
+2013-10-30,"Northern Ireland","Bosnia and Herzegovina",0,"H",3
+2013-10-30,"Albania","Greece",1,"H",3
+2013-10-30,"Netherlands","Norway",1,"H",3
+2013-10-31,"Slovakia","Russia",0,"H",3
+2013-10-31,"Spain","Italy",2,"H",3
+2013-10-31,"Serbia","Iceland",1,"H",3
+2013-10-31,"Denmark","Switzerland",0,"H",3
+2013-10-31,"Poland","Scotland",0,"H",3
+2013-10-31,"Sweden","Faroe Islands",5,"H",3
+2013-10-31,"Belgium","Portugal",4,"H",3
+2013-10-31,"Montenegro","Ukraine",1,"H",3
+2013-10-31,"Turkey","England",0,"H",3
+2013-10-31,"Finland","Kazakhstan",1,"H",3
+2013-10-31,"Hungary","Bulgaria",4,"H",3
+2013-10-31,"Austria","France",1,"H",3
+2013-10-19,"Malaysia","Singapore",2,"H",1
+2013-10-20,"USA","Australia",4,"H",2
+2013-10-23,"Malaysia","Laos",1,"H",1
+2013-10-24,"Qatar","Nepal",0,"H",1
+2013-10-25,"France","Poland",6,"H",1
+2013-10-25,"Malaysia","Laos",1,"H",1
+2013-10-26,"Qatar","Nepal",0,"H",1
+2013-10-27,"USA","New Zealand",4,"H",1
+2013-10-30,"Canada","Korea Republic",3,"H",1
+2013-10-30,"USA","New Zealand",1,"H",1
+2013-11-01,"Lesotho","Zimbabwe",1,"H",1
+2013-11-23,"Slovakia","Germany",0,"H",3
+2013-11-23,"Spain","Romania",1,"H",3
+2013-11-23,"Northern Ireland","Poland",0,"H",3
+2013-11-23,"Netherlands","Greece",7,"H",3
+2013-11-23,"Montenegro","Wales",0,"H",3
+2013-11-23,"Hungary","Kazakhstan",4,"H",3
+2013-11-23,"Bulgaria","France",0,"H",3
+2013-11-24,"Malta","Denmark",0,"H",3
+2013-11-24,"Israel","Serbia",3,"H",3
+2013-11-27,"Croatia","Germany",0,"H",3
+2013-11-27,"Spain","Czech Republic",3,"H",3
+2013-11-28,"Turkey","Montenegro",3,"H",3
+2013-11-28,"France","Bulgaria",14,"H",3
+2013-11-01,"Lesotho","Zimbabwe",1,"H",1
+2013-11-03,"Lesotho","Zimbabwe",1,"H",1
+2013-11-03,"Qatar","Bahrain",0,"H",1
+2013-11-05,"Qatar","Bahrain",0,"H",1
+2013-11-10,"USA","Brazil",4,"H",2
+2013-11-24,"Australia","China PR",2,"H",1
+2013-11-24,"Canada","Mexico",0,"H",1
+2013-11-27,"Australia","China PR",2,"H",1
+2013-12-09,"Vietnam","Laos",11,"N",1
+2013-12-10,"Myanmar","Philippines",2,"H",1
+2013-12-12,"Laos","Malaysia",1,"N",1
+2013-12-12,"Brazil","Chile",2,"H",1
+2013-12-12,"Canada","Scotland",2,"N",1
+2013-12-13,"Philippines","Vietnam",0,"N",1
+2013-12-14,"Malaysia","Thailand",1,"N",1
+2013-12-15,"Myanmar","Vietnam",0,"H",1
+2013-12-15,"Brazil","Scotland",3,"H",1
+2013-12-15,"Chile","Canada",1,"N",1
+2013-12-16,"Thailand","Laos",5,"N",1
+2013-12-18,"Vietnam","Malaysia",4,"N",1
+2013-12-18,"Myanmar","Thailand",2,"H",1
+2013-12-18,"Brazil","Canada",0,"H",2
+2013-12-18,"Chile","Scotland",4,"N",1
+2013-12-20,"Thailand","Vietnam",2,"N",1
+2013-12-20,"Myanmar","Malaysia",6,"H",1
+2013-12-21,"Zimbabwe","Lesotho",8,"H",1
+2013-12-22,"Canada","Scotland",1,"N",1
+2013-12-22,"Brazil","Chile",5,"H",1
+2014-01-12,"China PR","Hong Kong",4,"H",1
+2014-01-14,"Algeria","Senegal",1,"H",1
+2014-01-14,"Portugal","Switzerland",1,"H",1
+2014-01-14,"Spain","Norway",1,"H",1
+2014-01-15,"Greece","Romania",0,"H",1
+2014-01-16,"Portugal","Switzerland",1,"H",1
+2014-01-17,"England","Norway",1,"N",1
+2014-01-17,"Algeria","Senegal",3,"H",1
+2014-01-22,"Egypt","Zimbabwe",3,"H",1
+2014-01-25,"Egypt","Zimbabwe",1,"H",1
+2014-01-31,"USA","Canada",1,"H",2
+2014-02-12,"Israel","Switzerland",0,"H",3
+2014-02-12,"Netherlands","Belgium",1,"H",3
+2014-02-12,"Portugal","Albania",7,"H",3
+2014-02-13,"Italy","Czech Republic",6,"H",3
+2014-02-13,"Spain","FYR Macedonia",12,"H",3
+2014-02-13,"Malta","Serbia",0,"H",3
+2014-02-13,"Greece","Norway",0,"H",3
+2014-02-13,"Turkey","Ukraine",0,"H",3
+2014-02-14,"Zambia","Tanzania",2,"H",3
+2014-02-14,"Algeria","Morocco",2,"H",3
+2014-02-14,"Botswana","Zimbabwe",0,"H",3
+2014-02-15,"C担te d'Ivoire","Mali",4,"H",3
+2014-02-16,"Egypt","Tunisia",0,"H",3
+2014-02-16,"Rwanda","Kenya",1,"H",3
+2014-02-16,"Burkina Faso","Ghana",0,"H",3
+2014-02-28,"Mali","C担te d'Ivoire",0,"H",3
+2014-02-28,"Tanzania","Zambia",1,"H",3
+2014-02-07,"Swaziland","Botswana",0,"H",1
+2014-02-08,"Swaziland","Botswana",1,"H",1
+2014-02-08,"France","Sweden",3,"H",2
+2014-02-08,"Belgium","Poland",1,"H",1
+2014-02-08,"USA","Russia",7,"H",1
+2014-02-11,"China PR","New Zealand",1,"H",1
+2014-02-11,"Korea DPR","Mexico",2,"N",1
+2014-02-12,"Luxembourg","Poland",0,"H",1
+2014-02-13,"China PR","Mexico",3,"H",1
+2014-02-13,"New Zealand","Korea DPR",0,"N",1
+2014-02-13,"Finland","Scotland",3,"H",1
+2014-02-15,"China PR","Korea DPR",1,"H",1
+2014-02-15,"Mexico","New Zealand",2,"N",1
+2014-03-15,"Costa Rica","Venezuela",0,"N",NA
+2014-03-15,"Italy","Zambia",2,"N",NA
+2014-03-15,"Germany","Canada",2,"N",NA
+2014-03-15,"Ghana","Korea DPR",2,"N",NA
+2014-03-16,"New Zealand","Paraguay",1,"N",NA
+2014-03-16,"Spain","Japan",0,"N",NA
+2014-03-16,"Mexico","Colombia",4,"N",NA
+2014-03-16,"China PR","Nigeria",1,"N",NA
+2014-03-18,"Costa Rica","Italy",0,"N",NA
+2014-03-18,"Venezuela","Zambia",4,"N",NA
+2014-03-18,"Korea DPR","Canada",1,"N",NA
+2014-03-18,"Ghana","Germany",1,"N",NA
+2014-03-19,"Paraguay","Japan",0,"N",NA
+2014-03-19,"New Zealand","Spain",0,"N",NA
+2014-03-19,"Colombia","Nigeria",1,"N",NA
+2014-03-19,"Mexico","China PR",4,"N",NA
+2014-03-22,"Venezuela","Italy",1,"N",NA
+2014-03-22,"Zambia","Costa Rica",2,"N",NA
+2014-03-22,"Korea DPR","Germany",4,"N",NA
+2014-03-22,"Canada","Ghana",2,"N",NA
+2014-03-23,"Japan","New Zealand",3,"N",NA
+2014-03-23,"Paraguay","Spain",1,"N",NA
+2014-03-23,"Nigeria","Mexico",3,"N",NA
+2014-03-23,"Colombia","China PR",1,"N",NA
+2014-03-27,"Nigeria","Spain",0,"N",NA
+2014-03-27,"Venezuela","Canada",3,"N",NA
+2014-03-27,"Ghana","Italy",2,"N",NA
+2014-03-27,"Japan","Mexico",2,"N",NA
+2014-03-31,"Italy","Spain",0,"N",NA
+2014-03-31,"Venezuela","Japan",1,"N",NA
+2014-03-01,"Ghana","Burkina Faso",3,"H",3
+2014-03-01,"Morocco","Algeria",0,"H",3
+2014-03-01,"Tunisia","Egypt",2,"H",3
+2014-03-02,"Kenya","Rwanda",2,"H",3
+2014-03-02,"Zimbabwe","Botswana",2,"H",3
+2014-03-01,"Estonia","Latvia",8,"H",1
+2014-03-03,"Northern Ireland","Estonia",1,"H",1
+2014-03-05,"Northern Ireland","Estonia",1,"H",1
+2014-03-05,"New Zealand","Republic of Ireland",1,"N",1
+2014-03-05,"Sweden","Denmark",2,"N",1
+2014-03-05,"Portugal","Austria",3,"H",1
+2014-03-05,"Germany","Iceland",5,"N",1
+2014-03-05,"Japan","USA",1,"N",2
+2014-03-05,"Switzerland","Korea Republic",1,"N",1
+2014-03-05,"Netherlands","Australia",2,"N",1
+2014-03-05,"Canada","Finland",3,"N",1
+2014-03-05,"England","Italy",2,"N",1
+2014-03-05,"France","Scotland",1,"N",1
+2014-03-05,"Russia","Korea DPR",1,"N",1
+2014-03-05,"Norway","China PR",0,"N",1
+2014-03-06,"Chinese Taipei","Slovakia",5,"N",1
+2014-03-06,"Bosnia and Herzegovina","Slovenia",1,"H",1
+2014-03-07,"Switzerland","New Zealand",2,"N",1
+2014-03-07,"Croatia","Hungary",2,"H",1
+2014-03-07,"Republic of Ireland","Korea Republic",1,"N",1
+2014-03-07,"Japan","Denmark",1,"N",1
+2014-03-07,"Sweden","USA",1,"N",2
+2014-03-07,"Germany","China PR",1,"N",1
+2014-03-07,"Portugal","Russia",1,"H",1
+2014-03-07,"Wales","Romania",1,"H",1
+2014-03-07,"Finland","England",0,"N",1
+2014-03-07,"Scotland","Netherlands",4,"N",1
+2014-03-07,"Norway","Iceland",1,"N",1
+2014-03-07,"Australia","France",2,"N",2
+2014-03-07,"Italy","Canada",1,"N",1
+2014-03-07,"Austria","Korea DPR",0,"N",1
+2014-03-08,"Belarus","Slovakia",2,"N",1
+2014-03-08,"Chile","Argentina",1,"H",1
+2014-03-08,"Colombia","Venezuela",0,"N",1
+2014-03-08,"Brazil","Uruguay",0,"N",1
+2014-03-08,"Sierra Leone","Liberia",0,"H",1
+2014-03-09,"Croatia","Poland",1,"H",1
+2014-03-09,"Wales","Romania",0,"H",1
+2014-03-10,"Norway","Germany",1,"N",2
+2014-03-10,"Japan","Sweden",2,"N",2
+2014-03-10,"USA","Denmark",3,"N",1
+2014-03-10,"Switzerland","Republic of Ireland",1,"N",1
+2014-03-10,"Korea Republic","New Zealand",4,"N",1
+2014-03-10,"Brazil","Venezuela",5,"N",1
+2014-03-10,"Belarus","Chinese Taipei",0,"N",1
+2014-03-10,"Argentina","Bolivia",4,"N",1
+2014-03-10,"Colombia","Uruguay",2,"N",1
+2014-03-10,"Italy","Finland",1,"N",1
+2014-03-10,"England","Canada",2,"N",1
+2014-03-10,"Australia","Scotland",2,"N",1
+2014-03-10,"Netherlands","France",0,"N",1
+2014-03-10,"Portugal","Korea DPR",0,"H",1
+2014-03-10,"China PR","Iceland",0,"N",1
+2014-03-10,"Austria","Russia",3,"N",1
+2014-03-11,"Poland","Hungary",1,"N",1
+2014-03-12,"Brazil","Colombia",2,"N",1
+2014-03-12,"Uruguay","Venezuela",0,"N",1
+2014-03-12,"Greece","Cyprus",3,"H",1
+2014-03-12,"USA","Korea DPR",3,"N",2
+2014-03-12,"China PR","Denmark",1,"N",1
+2014-03-12,"Portugal","Austria",1,"H",1
+2014-03-12,"Germany","Japan",3,"N",2
+2014-03-12,"Norway","Russia",0,"N",1
+2014-03-12,"Australia","Italy",5,"N",1
+2014-03-12,"New Zealand","Finland",1,"N",1
+2014-03-12,"Switzerland","Netherlands",1,"N",1
+2014-03-12,"Iceland","Sweden",2,"N",1
+2014-03-12,"Canada","Republic of Ireland",2,"N",1
+2014-03-12,"Korea Republic","Scotland",1,"N",1
+2014-03-12,"England","France",0,"N",1
+2014-03-12,"Chile","Bolivia",2,"H",1
+2014-03-14,"Brazil","Argentina",0,"N",1
+2014-03-14,"Chile","Venezuela",0,"H",1
+2014-03-16,"Chile","Argentina",1,"H",1
+2014-03-16,"Venezuela","Brazil",0,"N",1
+2014-03-21,"Namibia","Ghana",1,"H",1
+2014-03-25,"Namibia","Ghana",0,"H",1
+2014-03-30,"Namibia","Ethiopia",1,"H",1
+2014-04-04,"Venezuela","Italy",4,"N",NA
+2014-04-04,"Japan","Spain",2,"N",NA
+2014-04-04,"Turkey","Wales",1,"H",3
+2014-04-05,"Republic of Ireland","Germany",2,"H",3
+2014-04-05,"Russia","Slovenia",4,"H",3
+2014-04-05,"Italy","Spain",0,"H",3
+2014-04-05,"Israel","Iceland",0,"H",3
+2014-04-05,"Switzerland","Malta",11,"H",3
+2014-04-05,"Scotland","Poland",2,"H",3
+2014-04-05,"Faroe Islands","Bosnia and Herzegovina",1,"H",3
+2014-04-05,"Northern Ireland","Sweden",0,"H",3
+2014-04-05,"Albania","Belgium",0,"H",3
+2014-04-05,"Greece","Netherlands",0,"H",3
+2014-04-05,"England","Montenegro",9,"H",3
+2014-04-05,"Bulgaria","Austria",1,"H",3
+2014-04-05,"Hungary","Finland",0,"H",3
+2014-04-05,"France","Kazakhstan",7,"H",3
+2014-04-09,"Russia","Croatia",1,"H",3
+2014-04-09,"Portugal","Greece",1,"H",3
+2014-04-09,"Wales","Ukraine",1,"H",3
+2014-04-09,"France","Austria",3,"H",3
+2014-04-10,"Germany","Slovenia",4,"H",3
+2014-04-10,"FYR Macedonia","Spain",0,"H",3
+2014-04-10,"Romania","Italy",1,"H",3
+2014-04-10,"Malta","Iceland",0,"H",3
+2014-04-10,"Switzerland","Denmark",1,"H",3
+2014-04-10,"Bosnia and Herzegovina","Scotland",1,"H",3
+2014-04-10,"Faroe Islands","Northern Ireland",0,"H",3
+2014-04-10,"Netherlands","Albania",10,"H",3
+2014-04-10,"Belgium","Norway",1,"H",3
+2014-04-10,"Montenegro","Belarus",1,"H",3
+2014-04-10,"Finland","Hungary",4,"H",3
+2014-04-26,"Czech Republic","Estonia",6,"H",3
+2014-04-06,"USA","China PR",2,"H",1
+2014-04-06,"Ethiopia","Cameroon",0,"H",1
+2014-04-06,"Australia","Brazil",0,"H",1
+2014-04-08,"Luxembourg","Cyprus",0,"H",1
+2014-04-09,"Australia","Brazil",2,"H",1
+2014-04-10,"USA","China PR",3,"H",1
+2014-04-12,"South Africa","Zimbabwe",2,"H",1
+2014-04-15,"Palestine","Qatar",4,"N",1
+2014-04-15,"Jordan","Bahrain",5,"H",1
+2014-04-17,"Jordan","Qatar",7,"H",1
+2014-04-17,"Bahrain","Palestine",0,"N",1
+2014-04-19,"Jordan","Palestine",10,"H",1
+2014-04-19,"Bahrain","Qatar",8,"N",1
+2014-04-29,"Nigeria","Cameroon",1,"H",1
+2014-04-30,"Algeria","C担te d'Ivoire",1,"H",1
+2014-05-07,"Republic of Ireland","Russia",1,"H",3
+2014-05-07,"Czech Republic","Romania",0,"H",3
+2014-05-07,"Malta","Israel",0,"H",3
+2014-05-07,"Norway","Portugal",2,"H",3
+2014-05-07,"Belgium","Netherlands",0,"H",3
+2014-05-07,"Belarus","Turkey",1,"H",3
+2014-05-07,"Kazakhstan","Bulgaria",4,"H",3
+2014-05-07,"France","Hungary",4,"H",3
+2014-05-08,"Slovenia","Croatia",0,"H",3
+2014-05-08,"Germany","Slovakia",9,"H",3
+2014-05-08,"FYR Macedonia","Italy",0,"H",3
+2014-05-08,"Estonia","Spain",0,"H",3
+2014-05-08,"Switzerland","Iceland",3,"H",3
+2014-05-08,"Denmark","Serbia",3,"H",3
+2014-05-08,"Faroe Islands","Poland",0,"H",3
+2014-05-08,"Sweden","Northern Ireland",3,"H",3
+2014-05-08,"Wales","Montenegro",4,"H",3
+2014-05-08,"England","Ukraine",4,"H",3
+2014-05-14,"Vietnam","Jordan",3,"H",3
+2014-05-14,"Australia","Japan",2,"N",3
+2014-05-15,"Myanmar","Korea Republic",0,"N",3
+2014-05-15,"China PR","Thailand",7,"N",3
+2014-05-16,"Australia","Jordan",3,"N",3
+2014-05-16,"Vietnam","Japan",0,"H",3
+2014-05-17,"China PR","Myanmar",3,"N",3
+2014-05-17,"Korea Republic","Thailand",4,"N",3
+2014-05-18,"Vietnam","Australia",0,"H",3
+2014-05-18,"Japan","Jordan",7,"N",3
+2014-05-19,"Myanmar","Thailand",1,"N",3
+2014-05-19,"China PR","Korea Republic",0,"N",3
+2014-05-21,"Vietnam","Thailand",1,"H",3
+2014-05-22,"Japan","China PR",2,"N",3
+2014-05-22,"Korea Republic","Australia",1,"N",3
+2014-05-25,"China PR","Korea Republic",2,"N",3
+2014-05-25,"Japan","Australia",1,"N",3
+2014-05-23,"Comoros","South Africa",0,"H",3
+2014-05-23,"C担te d'Ivoire","Equatorial Guinea",1,"H",3
+2014-05-23,"Algeria","Tunisia",2,"H",3
+2014-05-24,"Rwanda","Nigeria",1,"H",3
+2014-05-24,"Senegal","Cameroon",1,"H",3
+2014-05-25,"Zimbabwe","Zambia",0,"H",3
+2014-05-25,"Ethiopia","Ghana",0,"H",3
+2014-05-20,"Honduras","Belize",8,"N",3
+2014-05-20,"Guatemala","Panama",1,"H",3
+2014-05-20,"Nicaragua","El Salvador",0,"N",3
+2014-05-22,"Belize","Panama",1,"N",3
+2014-05-22,"Guatemala","Honduras",3,"H",3
+2014-05-22,"El Salvador","Costa Rica",0,"N",3
+2014-05-23,"Aruba","St. Vincent / Grenadines",0,"N",3
+2014-05-23,"Antigua and Barbuda","US Virgin Islands",1,"H",3
+2014-05-23,"Martinique","Barbados",3,"N",3
+2014-05-23,"Cayman Islands","St. Kitts and Nevis",0,"N",3
+2014-05-23,"Turks and Caicos Islands","Bermuda",0,"H",3
+2014-05-24,"Panama","Honduras",4,"N",3
+2014-05-24,"Guatemala","Belize",5,"H",3
+2014-05-24,"Costa Rica","Nicaragua",3,"N",3
+2014-05-25,"St. Vincent / Grenadines","US Virgin Islands",0,"N",3
+2014-05-25,"Antigua and Barbuda","Aruba",1,"H",3
+2014-05-25,"Puerto Rico","Barbados",1,"H",3
+2014-05-25,"Bermuda","Cayman Islands",2,"N",3
+2014-05-25,"Turks and Caicos Islands","St. Kitts and Nevis",0,"H",3
+2014-05-26,"Guatemala","Costa Rica",0,"H",3
+2014-05-27,"US Virgin Islands","Aruba",1,"N",3
+2014-05-27,"Antigua and Barbuda","St. Vincent / Grenadines",1,"H",3
+2014-05-27,"Puerto Rico","Martinique",1,"H",3
+2014-05-27,"St. Kitts and Nevis","Bermuda",1,"N",3
+2014-05-27,"Turks and Caicos Islands","Cayman Islands",0,"H",3
+2014-05-30,"Cuba","Suriname",2,"N",3
+2014-06-01,"Haiti","Suriname",3,"H",3
+2014-05-03,"Algeria","C担te d'Ivoire",1,"H",1
+2014-05-05,"China PR","Hong Kong",6,"H",1
+2014-05-08,"Japan","New Zealand",2,"H",1
+2014-05-08,"Canada","USA",1,"H",2
+2014-05-08,"Korea Republic","Vietnam",5,"H",1
+2014-05-09,"China PR","Chinese Taipei",4,"H",1
+2014-05-10,"El Salvador","Guatemala",2,"H",1
+2014-05-13,"Zambia","Rwanda",3,"H",1
+2014-05-17,"Guatemala","El Salvador",2,"H",1
+2014-06-14,"Republic of Ireland","Croatia",1,"H",3
+2014-06-14,"Slovenia","Russia",1,"H",3
+2014-06-14,"Czech Republic","Italy",0,"H",3
+2014-06-14,"Switzerland","Israel",9,"H",3
+2014-06-14,"Serbia","Malta",5,"H",3
+2014-06-14,"Bosnia and Herzegovina","Northern Ireland",1,"H",3
+2014-06-14,"Scotland","Sweden",1,"H",3
+2014-06-14,"Norway","Greece",6,"H",3
+2014-06-14,"Albania","Portugal",0,"H",3
+2014-06-14,"Belarus","England",0,"H",3
+2014-06-14,"Wales","Turkey",1,"H",3
+2014-06-14,"Ukraine","Montenegro",7,"H",3
+2014-06-14,"Kazakhstan","Hungary",1,"H",3
+2014-06-14,"Austria","Finland",3,"H",3
+2014-06-15,"Estonia","FYR Macedonia",1,"H",3
+2014-06-15,"Denmark","Iceland",1,"H",3
+2014-06-18,"Czech Republic","FYR Macedonia",5,"H",3
+2014-06-18,"Bosnia and Herzegovina","Poland",1,"H",3
+2014-06-18,"Portugal","Norway",0,"H",3
+2014-06-18,"Finland","Bulgaria",4,"H",3
+2014-06-19,"Russia","Republic of Ireland",0,"H",3
+2014-06-19,"Slovakia","Croatia",1,"H",3
+2014-06-19,"Estonia","Romania",0,"H",3
+2014-06-19,"Israel","Denmark",0,"H",3
+2014-06-19,"Serbia","Switzerland",0,"H",3
+2014-06-19,"Iceland","Malta",5,"H",3
+2014-06-19,"Faroe Islands","Sweden",0,"H",3
+2014-06-19,"Northern Ireland","Scotland",0,"H",3
+2014-06-19,"Belarus","Wales",0,"H",3
+2014-06-19,"Montenegro","Turkey",2,"H",3
+2014-06-19,"Ukraine","England",1,"H",3
+2014-06-19,"Kazakhstan","Austria",0,"H",3
+2014-06-07,"Equatorial Guinea","C担te d'Ivoire",2,"H",3
+2014-06-07,"Nigeria","Rwanda",8,"H",3
+2014-06-08,"Zambia","Zimbabwe",1,"H",3
+2014-06-08,"Cameroon","Senegal",1,"H",3
+2014-06-08,"Tunisia","Algeria",2,"H",3
+2014-06-08,"Ghana","Ethiopia",3,"H",3
+2014-06-01,"Haiti","Suriname",3,"H",3
+2014-06-03,"Haiti","Cuba",1,"H",3
+2014-06-18,"Dominican Republic","St. Lucia",7,"H",3
+2014-06-20,"Jamaica","St. Lucia",14,"N",3
+2014-06-22,"Dominican Republic","Jamaica",0,"H",3
+2014-06-06,"Lithuania","Latvia",1,"H",1
+2014-06-07,"Estonia","Latvia",4,"N",1
+2014-06-07,"South Africa","Botswana",4,"H",1
+2014-06-08,"Lithuania","Estonia",0,"H",1
+2014-06-11,"France","Brazil",0,"N",2
+2014-06-14,"USA","France",1,"H",2
+2014-06-16,"New Zealand","Brazil",1,"H",1
+2014-06-18,"Canada","Germany",1,"H",2
+2014-06-19,"USA","France",2,"H",2
+2014-06-19,"New Zealand","Brazil",0,"H",1
+2014-07-02,"Andorra","Luxembourg",0,"N",1
+2014-07-05,"Namibia","South Africa",1,"H",1
+2014-07-06,"Trinidad and Tobago","Venezuela",5,"H",1
+2014-07-08,"Trinidad and Tobago","Venezuela",0,"H",1
+2014-07-11,"Zimbabwe","South Africa",0,"H",1
+2014-07-16,"Poland","Estonia",5,"H",1
+2014-07-22,"Guam","Macau",11,"H",1
+2014-07-23,"Romania","Hungary",5,"H",1
+2014-07-27,"Myanmar","Thailand",1,"H",1
+2014-08-14,"Papua New Guinea","Venezuela",0,"N",NA
+2014-08-14,"China PR","Mexico",2,"H",NA
+2014-08-17,"Venezuela","Slovakia",6,"N",NA
+2014-08-17,"Mexico","Namibia",9,"N",NA
+2014-08-20,"Slovakia","Papua New Guinea",4,"N",NA
+2014-08-20,"Namibia","China PR",0,"A",NA
+2014-08-23,"Venezuela","Mexico",1,"N",NA
+2014-08-23,"China PR","Slovakia",0,"H",NA
+2014-08-25,"Papua New Guinea","Namibia",3,"N",NA
+2014-08-26,"Venezuela","China PR",0,"A",NA
+2014-08-26,"Mexico","Slovakia",3,"N",NA
+2014-08-05,"Canada","Ghana",0,"N",NA
+2014-08-05,"Finland","Korea DPR",1,"N",NA
+2014-08-05,"China PR","Brazil",1,"N",NA
+2014-08-05,"Germany","USA",2,"N",NA
+2014-08-06,"England","Korea Republic",1,"N",NA
+2014-08-06,"Mexico","Nigeria",1,"N",NA
+2014-08-06,"New Zealand","Paraguay",2,"N",NA
+2014-08-06,"France","Costa Rica",5,"N",NA
+2014-08-08,"Canada","Finland",3,"N",NA
+2014-08-08,"Ghana","Korea DPR",0,"N",NA
+2014-08-08,"USA","Brazil",1,"N",NA
+2014-08-08,"Germany","China PR",5,"N",NA
+2014-08-09,"England","Mexico",1,"N",NA
+2014-08-09,"Korea Republic","Nigeria",1,"N",NA
+2014-08-09,"Paraguay","Costa Rica",2,"N",NA
+2014-08-09,"New Zealand","France",0,"N",NA
+2014-08-12,"Korea DPR","Canada",0,"N",NA
+2014-08-12,"Ghana","Finland",2,"N",NA
+2014-08-12,"Brazil","Germany",1,"N",NA
+2014-08-12,"USA","China PR",3,"N",NA
+2014-08-13,"Nigeria","England",2,"N",NA
+2014-08-13,"Korea Republic","Mexico",2,"N",NA
+2014-08-13,"Costa Rica","New Zealand",0,"N",NA
+2014-08-13,"Paraguay","France",0,"N",NA
+2014-08-16,"Germany","Canada",2,"N",NA
+2014-08-16,"Korea DPR","USA",1,"N",NA
+2014-08-17,"Nigeria","New Zealand",4,"N",NA
+2014-08-17,"France","Korea Republic",0,"N",NA
+2014-08-20,"Korea DPR","Nigeria",2,"N",NA
+2014-08-20,"Germany","France",2,"N",NA
+2014-08-24,"Korea DPR","France",2,"N",NA
+2014-08-24,"Nigeria","Germany",0,"N",NA
+2014-08-02,"Ukraine","Belarus",8,"H",3
+2014-08-20,"Republic of Ireland","Slovenia",2,"H",3
+2014-08-20,"Estonia","Czech Republic",1,"H",3
+2014-08-20,"Bosnia and Herzegovina","Faroe Islands",2,"H",3
+2014-08-20,"Belarus","Ukraine",1,"H",3
+2014-08-20,"Hungary","France",0,"H",3
+2014-08-21,"Russia","Slovakia",3,"H",3
+2014-08-21,"Romania","FYR Macedonia",6,"H",3
+2014-08-21,"Serbia","Israel",3,"H",3
+2014-08-21,"Iceland","Denmark",0,"H",3
+2014-08-21,"Poland","Sweden",0,"H",3
+2014-08-21,"Wales","England",0,"H",3
+2014-08-21,"Bulgaria","Finland",0,"H",3
+2014-08-19,"Jamaica","Puerto Rico",4,"N",3
+2014-08-19,"Haiti","Bermuda",5,"N",3
+2014-08-20,"Trinidad and Tobago","St. Kitts and Nevis",10,"H",3
+2014-08-21,"Bermuda","Jamaica",1,"N",3
+2014-08-21,"Puerto Rico","Haiti",0,"N",3
+2014-08-22,"Trinidad and Tobago","Antigua and Barbuda",3,"H",3
+2014-08-23,"Puerto Rico","Bermuda",5,"N",3
+2014-08-23,"Haiti","Jamaica",0,"N",3
+2014-08-24,"Antigua and Barbuda","St. Kitts and Nevis",1,"N",3
+2014-08-26,"Trinidad and Tobago","Jamaica",1,"H",3
+2014-08-03,"Scotland","Wales",1,"H",1
+2014-08-03,"England","Sweden",4,"H",2
+2014-08-10,"South Africa","Namibia",2,"H",1
+2014-08-20,"Netherlands","Brazil",0,"H",1
+2014-08-20,"USA","Switzerland",4,"H",1
+2014-08-20,"Namibia","Botswana",5,"H",1
+2014-08-24,"Zambia","South Africa",0,"H",1
+2014-08-28,"Egypt","Jordan",2,"H",1
+2014-08-30,"Chinese Taipei","Hong Kong",2,"H",1
+2014-08-31,"Egypt","Jordan",0,"H",1
+2014-08-31,"South Africa","Tanzania",6,"H",1
+2014-09-13,"Russia","Germany",1,"H",3
+2014-09-13,"Slovakia","Republic of Ireland",0,"H",3
+2014-09-13,"Croatia","Slovenia",1,"H",3
+2014-09-13,"Romania","Spain",0,"H",3
+2014-09-13,"Italy","Estonia",4,"H",3
+2014-09-13,"Denmark","Malta",8,"H",3
+2014-09-13,"Iceland","Israel",3,"H",3
+2014-09-13,"Sweden","Bosnia and Herzegovina",3,"H",3
+2014-09-13,"Poland","Northern Ireland",4,"H",3
+2014-09-13,"Scotland","Faroe Islands",9,"H",3
+2014-09-13,"Albania","Norway",0,"H",3
+2014-09-13,"Belgium","Greece",11,"H",3
+2014-09-13,"Netherlands","Portugal",3,"H",3
+2014-09-13,"Ukraine","Turkey",8,"H",3
+2014-09-13,"Finland","France",0,"H",3
+2014-09-13,"Austria","Hungary",4,"H",3
+2014-09-17,"Slovenia","Slovakia",2,"H",3
+2014-09-17,"Germany","Republic of Ireland",2,"H",3
+2014-09-17,"Croatia","Russia",1,"H",3
+2014-09-17,"Italy","FYR Macedonia",15,"H",3
+2014-09-17,"Czech Republic","Spain",0,"H",3
+2014-09-17,"Malta","Switzerland",0,"H",3
+2014-09-17,"Denmark","Israel",0,"H",3
+2014-09-17,"Iceland","Serbia",9,"H",3
+2014-09-17,"Sweden","Scotland",2,"H",3
+2014-09-17,"Poland","Bosnia and Herzegovina",3,"H",3
+2014-09-17,"Northern Ireland","Faroe Islands",3,"H",3
+2014-09-17,"Greece","Albania",4,"H",3
+2014-09-17,"Norway","Netherlands",0,"H",3
+2014-09-17,"Portugal","Belgium",0,"H",3
+2014-09-17,"Turkey","Belarus",3,"H",3
+2014-09-17,"Ukraine","Wales",1,"H",3
+2014-09-17,"Montenegro","England",0,"H",3
+2014-09-17,"Bulgaria","Hungary",0,"H",3
+2014-09-17,"Austria","Kazakhstan",5,"H",3
+2014-09-17,"France","Finland",3,"H",3
+2014-09-11,"Ecuador","Peru",1,"H",3
+2014-09-11,"Uruguay","Venezuela",1,"N",3
+2014-09-12,"Brazil","Bolivia",6,"N",3
+2014-09-12,"Argentina","Chile",0,"N",3
+2014-09-13,"Colombia","Uruguay",4,"N",3
+2014-09-13,"Ecuador","Venezuela",1,"H",3
+2014-09-14,"Bolivia","Argentina",0,"N",3
+2014-09-14,"Paraguay","Brazil",1,"N",3
+2014-09-15,"Uruguay","Peru",2,"N",3
+2014-09-15,"Colombia","Venezuela",4,"N",3
+2014-09-16,"Argentina","Paraguay",1,"N",3
+2014-09-16,"Chile","Bolivia",3,"N",3
+2014-09-17,"Venezuela","Peru",0,"N",3
+2014-09-17,"Ecuador","Colombia",0,"H",3
+2014-09-18,"Chile","Brazil",0,"N",3
+2014-09-18,"Bolivia","Paraguay",2,"N",3
+2014-09-19,"Ecuador","Uruguay",1,"H",3
+2014-09-19,"Colombia","Peru",1,"N",3
+2014-09-20,"Paraguay","Chile",3,"N",3
+2014-09-20,"Brazil","Argentina",0,"N",3
+2014-09-24,"Colombia","Argentina",0,"N",3
+2014-09-24,"Brazil","Ecuador",4,"A",3
+2014-09-26,"Colombia","Ecuador",2,"A",3
+2014-09-26,"Brazil","Argentina",6,"N",3
+2014-09-28,"Argentina","Ecuador",2,"A",3
+2014-09-28,"Colombia","Brazil",0,"N",3
+2014-09-05,"China PR","Vietnam",5,"H",1
+2014-09-07,"Ecuador","Bolivia",3,"H",1
+2014-09-09,"China PR","Thailand",2,"H",1
+2014-09-13,"South Africa","Botswana",10,"H",1
+2014-09-13,"Japan","Ghana",5,"H",1
+2014-09-13,"USA","Mexico",8,"H",1
+2014-09-14,"British Virgin Islands","US Virgin Islands",0,"H",1
+2014-09-14,"India","Maldives",15,"N",1
+2014-09-14,"Korea Republic","Thailand",5,"H",1
+2014-09-15,"Jordan","Chinese Taipei",2,"N",1
+2014-09-15,"Japan","China PR",0,"N",1
+2014-09-16,"Korea DPR","Vietnam",5,"N",1
+2014-09-17,"Thailand","Maldives",10,"N",1
+2014-09-17,"Korea Republic","India",10,"H",1
+2014-09-18,"China PR","Chinese Taipei",4,"N",1
+2014-09-18,"Japan","Jordan",12,"N",1
+2014-09-18,"USA","Mexico",4,"H",1
+2014-09-20,"Hong Kong","Korea DPR",0,"N",1
+2014-09-21,"Thailand","India",10,"N",1
+2014-09-21,"Korea Republic","Maldives",13,"H",1
+2014-09-22,"Chinese Taipei","Japan",0,"N",1
+2014-09-22,"China PR","Jordan",5,"N",1
+2014-09-23,"Vietnam","Hong Kong",5,"N",1
+2014-09-24,"South Africa","C担te d'Ivoire",2,"H",1
+2014-09-26,"Japan","Hong Kong",9,"N",1
+2014-09-26,"Korea DPR","China PR",1,"N",1
+2014-09-26,"Thailand","Vietnam",1,"N",1
+2014-09-26,"Korea Republic","Chinese Taipei",1,"H",1
+2014-09-29,"Vietnam","Japan",0,"N",1
+2014-09-29,"Korea Republic","Korea DPR",1,"H",1
+2014-10-25,"Italy","Ukraine",2,"H",3
+2014-10-25,"Scotland","Netherlands",1,"H",3
+2014-10-29,"Ukraine","Italy",2,"H",3
+2014-10-30,"Netherlands","Scotland",2,"H",3
+2014-10-11,"Namibia","Zambia",2,"H",3
+2014-10-11,"Nigeria","C担te d'Ivoire",4,"N",3
+2014-10-12,"South Africa","Cameroon",0,"N",3
+2014-10-12,"Algeria","Ghana",1,"N",3
+2014-10-14,"Zambia","Nigeria",0,"N",3
+2014-10-14,"Namibia","C担te d'Ivoire",1,"H",3
+2014-10-15,"Cameroon","Algeria",2,"N",3
+2014-10-15,"Ghana","South Africa",1,"N",3
+2014-10-17,"Zambia","C担te d'Ivoire",1,"N",3
+2014-10-17,"Namibia","Nigeria",0,"H",3
+2014-10-18,"South Africa","Algeria",5,"N",3
+2014-10-18,"Cameroon","Ghana",0,"N",3
+2014-10-22,"Nigeria","South Africa",2,"N",3
+2014-10-22,"Cameroon","C担te d'Ivoire",2,"N",3
+2014-10-25,"South Africa","C担te d'Ivoire",0,"N",3
+2014-10-25,"Nigeria","Cameroon",2,"N",3
+2014-10-15,"USA","Trinidad and Tobago",1,"H",3
+2014-10-15,"Guatemala","Haiti",0,"N",3
+2014-10-16,"Costa Rica","Mexico",1,"N",3
+2014-10-17,"USA","Guatemala",5,"H",3
+2014-10-17,"Haiti","Trinidad and Tobago",0,"N",3
+2014-10-18,"Costa Rica","Jamaica",2,"N",3
+2014-10-20,"Trinidad and Tobago","Guatemala",2,"N",3
+2014-10-20,"USA","Haiti",6,"H",3
+2014-10-21,"Mexico","Jamaica",3,"N",3
+2014-10-24,"Costa Rica","Trinidad and Tobago",1,"N",3
+2014-10-24,"USA","Mexico",3,"H",3
+2014-10-26,"Trinidad and Tobago","Mexico",2,"N",3
+2014-10-26,"USA","Costa Rica",6,"H",3
+2014-10-25,"New Zealand","Tonga",16,"N",3
+2014-10-25,"Papua New Guinea","Cook Islands",4,"H",3
+2014-10-27,"Tonga","Cook Islands",1,"N",3
+2014-10-27,"Papua New Guinea","New Zealand",0,"H",3
+2014-10-29,"Cook Islands","New Zealand",0,"N",3
+2014-10-29,"Papua New Guinea","Tonga",3,"H",3
+2014-10-01,"Zambia","Cameroon",0,"H",1
+2014-10-01,"Korea Republic","Vietnam",3,"H",1
+2014-10-01,"Japan","Korea DPR",1,"N",1
+2014-10-04,"Zambia","Cameroon",0,"H",1
+2014-10-04,"Namibia","Algeria",3,"H",1
+2014-10-23,"Bahrain","Pakistan",5,"H",1
+2014-10-25,"Germany","France",0,"H",2
+2014-10-25,"Canada","Japan",0,"H",2
+2014-10-26,"Bahrain","Pakistan",5,"H",1
+2014-10-28,"Czech Republic","Poland",1,"H",1
+2014-10-28,"Canada","Japan",2,"H",2
+2014-10-29,"Luxembourg","Lithuania",1,"H",1
+2014-10-29,"Bahrain","Pakistan",10,"H",1
+2014-10-29,"Sweden","Germany",1,"H",2
+2014-10-30,"Poland","Slovakia",4,"H",1
+2014-11-22,"Netherlands","Italy",1,"H",3
+2014-11-27,"Italy","Netherlands",1,"H",3
+2014-11-08,"Ecuador","Trinidad and Tobago",0,"H",3
+2014-11-11,"Pakistan","Sri Lanka",1,"H",1
+2014-11-12,"Guam","Korea Republic",0,"N",1
+2014-11-12,"Chinese Taipei","Hong Kong",2,"H",1
+2014-11-12,"Nepal","Bhutan",8,"N",1
+2014-11-13,"India","Maldives",8,"N",1
+2014-11-13,"Afghanistan","Bangladesh",1,"N",1
+2014-11-14,"Bhutan","Sri Lanka",0,"N",1
+2014-11-14,"Pakistan","Nepal",0,"H",1
+2014-11-15,"Korea Republic","Hong Kong",9,"N",1
+2014-11-15,"Maldives","Afghanistan",1,"N",1
+2014-11-15,"Chinese Taipei","Guam",4,"H",1
+2014-11-15,"Bangladesh","India",1,"N",1
+2014-11-16,"Nepal","Sri Lanka",3,"N",1
+2014-11-16,"Pakistan","Bhutan",4,"H",1
+2014-11-17,"India","Afghanistan",12,"N",1
+2014-11-17,"Bangladesh","Maldives",3,"N",1
+2014-11-17,"Haiti","Trinidad and Tobago",1,"N",1
+2014-11-17,"Mexico","Colombia",1,"H",1
+2014-11-18,"Hong Kong","Guam",3,"N",1
+2014-11-18,"Chinese Taipei","Korea Republic",0,"H",1
+2014-11-18,"Nicaragua","Dominican Republic",1,"N",1
+2014-11-18,"Costa Rica","Venezuela",2,"N",1
+2014-11-19,"Haiti","Colombia",0,"N",1
+2014-11-19,"India","Sri Lanka",5,"N",1
+2014-11-19,"Nepal","Bangladesh",1,"N",1
+2014-11-19,"Mexico","Trinidad and Tobago",6,"H",1
+2014-11-20,"Venezuela","Dominican Republic",6,"N",1
+2014-11-20,"Nicaragua","Costa Rica",0,"N",1
+2014-11-21,"India","Nepal",6,"N",1
+2014-11-21,"Colombia","Trinidad and Tobago",7,"N",1
+2014-11-21,"Mexico","Haiti",1,"H",1
+2014-11-22,"Poland","Belgium",1,"H",1
+2014-11-22,"Venezuela","Nicaragua",3,"N",1
+2014-11-22,"France","New Zealand",2,"H",1
+2014-11-22,"Costa Rica","Dominican Republic",6,"N",1
+2014-11-23,"Serbia","Bosnia and Herzegovina",1,"H",1
+2014-11-23,"England","Germany",0,"H",2
+2014-11-24,"Sweden","Canada",0,"N",2
+2014-11-25,"Norway","New Zealand",1,"H",1
+2014-11-25,"Colombia","Venezuela",1,"N",1
+2014-11-25,"Mexico","Costa Rica",1,"H",1
+2014-11-26,"Hungary","FYR Macedonia",8,"H",1
+2014-11-26,"France","Brazil",2,"H",2
+2014-11-26,"Sweden","Canada",1,"N",2
+2014-11-27,"Norway","New Zealand",2,"H",1
+2014-11-27,"Mexico","Colombia",2,"H",1
+2014-11-27,"Venezuela","Costa Rica",2,"N",1
+2014-12-02,"Trinidad and Tobago","Ecuador",0,"H",3
+2014-12-10,"Brazil","Argentina",4,"H",1
+2014-12-10,"USA","China PR",1,"N",1
+2014-12-11,"Cyprus","Luxembourg",3,"H",1
+2014-12-14,"China PR","Argentina",6,"N",1
+2014-12-14,"Brazil","USA",3,"H",2
+2014-12-18,"Brazil","China PR",4,"H",1
+2014-12-18,"USA","Argentina",7,"N",1
+2014-12-21,"China PR","Argentina",0,"N",1
+2014-12-21,"Brazil","USA",0,"H",2
+2014-12-23,"Barbados","Grenada",1,"H",1
+2015-01-11,"Barbados","Dominica",1,"H",1
+2015-01-11,"Canada","Korea Republic",2,"N",1
+2015-01-11,"China PR","Mexico",0,"H",1
+2015-01-12,"Denmark","New Zealand",1,"N",1
+2015-01-13,"Canada","Mexico",2,"N",1
+2015-01-13,"China PR","Korea Republic",2,"H",1
+2015-01-15,"Korea Republic","Mexico",2,"N",1
+2015-01-15,"China PR","Canada",1,"H",1
+2015-01-15,"Denmark","New Zealand",2,"N",1
+2015-02-05,"Mexico","Ecuador",1,"H",1
+2015-02-06,"Estonia","Latvia",2,"H",1
+2015-02-07,"Netherlands","Thailand",7,"H",1
+2015-02-07,"Mexico","Ecuador",2,"H",1
+2015-02-08,"Iran","Uzbekistan",0,"H",1
+2015-02-08,"New Zealand","Korea DPR",1,"H",1
+2015-02-08,"Northern Ireland","Scotland",0,"H",1
+2015-02-08,"France","USA",2,"H",2
+2015-02-10,"Korea DPR","Australia",1,"N",2
+2015-02-10,"Spain","Austria",2,"H",1
+2015-02-10,"Portugal","Switzerland",2,"H",1
+2015-02-11,"Spain","Belgium",2,"H",1
+2015-02-11,"Hungary","Poland",2,"H",1
+2015-02-12,"New Zealand","Australia",2,"H",1
+2015-02-12,"Portugal","Switzerland",1,"H",1
+2015-02-12,"Finland","Sweden",0,"H",1
+2015-02-13,"England","USA",0,"H",2
+2015-02-22,"Madagascar","Botswana",1,"H",1
+2015-02-23,"Bahrain","Hong Kong",2,"H",1
+2015-02-24,"Turkey","Georgia",4,"H",1
+2015-02-26,"Turkey","Georgia",6,"H",1
+2015-03-11,"Uzbekistan","Palestine",6,"N",3
+2015-03-11,"Sri Lanka","Myanmar",0,"A",3
+2015-03-11,"Jordan","Hong Kong",1,"H",3
+2015-03-13,"Hong Kong","Uzbekistan",0,"N",3
+2015-03-13,"India","Sri Lanka",4,"N",3
+2015-03-13,"Palestine","Jordan",0,"A",3
+2015-03-15,"Hong Kong","Palestine",2,"N",3
+2015-03-15,"Myanmar","India",7,"H",3
+2015-03-15,"Uzbekistan","Jordan",0,"A",3
+2015-03-20,"Laos","Chinese Taipei",0,"A",3
+2015-03-22,"Iran","Laos",5,"N",3
+2015-03-24,"Chinese Taipei","Iran",1,"H",3
+2015-03-01,"Kenya","Egypt",0,"H",1
+2015-03-04,"Poland","Northern Ireland",2,"N",1
+2015-03-04,"Costa Rica","Bosnia and Herzegovina",1,"N",1
+2015-03-04,"Republic of Ireland","Hungary",1,"N",1
+2015-03-04,"Korea Republic","Italy",1,"N",1
+2015-03-04,"Finland","England",1,"N",1
+2015-03-04,"Mexico","South Africa",2,"N",1
+2015-03-04,"Austria","Slovakia",1,"N",1
+2015-03-04,"Croatia","Romania",0,"H",1
+2015-03-04,"Switzerland","Iceland",2,"N",1
+2015-03-04,"Japan","Denmark",1,"N",1
+2015-03-04,"Scotland","Canada",0,"N",1
+2015-03-04,"Netherlands","Australia",0,"N",1
+2015-03-04,"Brazil","China PR",0,"N",1
+2015-03-04,"Czech Republic","Belgium",2,"N",1
+2015-03-04,"Germany","Sweden",2,"N",2
+2015-03-04,"Portugal","France",0,"H",1
+2015-03-04,"Norway","USA",1,"N",1
+2015-03-05,"Spain","New Zealand",0,"H",1
+2015-03-06,"Croatia","Poland",0,"H",1
+2015-03-06,"Bosnia and Herzegovina","Wales",0,"N",1
+2015-03-06,"Northern Ireland","Romania",0,"N",1
+2015-03-06,"Slovakia","Republic of Ireland",2,"N",1
+2015-03-06,"Portugal","Japan",0,"H",1
+2015-03-06,"Canada","Korea Republic",1,"N",1
+2015-03-06,"Finland","Netherlands",0,"N",1
+2015-03-06,"Sweden","Brazil",0,"N",2
+2015-03-06,"Belgium","South Africa",0,"N",1
+2015-03-06,"Germany","China PR",2,"N",1
+2015-03-06,"Austria","Hungary",1,"N",1
+2015-03-06,"France","Denmark",4,"N",1
+2015-03-06,"Australia","England",0,"N",2
+2015-03-06,"Italy","Scotland",3,"N",1
+2015-03-06,"Czech Republic","Mexico",0,"N",1
+2015-03-06,"Botswana","Madagascar",0,"H",1
+2015-03-06,"USA","Switzerland",3,"N",1
+2015-03-06,"Norway","Iceland",1,"N",1
+2015-03-09,"Hungary","Slovakia",1,"N",1
+2015-03-09,"Romania","Poland",0,"N",1
+2015-03-09,"Netherlands","England",1,"N",1
+2015-03-09,"Italy","Canada",0,"N",1
+2015-03-09,"South Africa","Czech Republic",0,"N",1
+2015-03-09,"Croatia","Northern Ireland",2,"H",1
+2015-03-09,"Wales","Costa Rica",1,"N",1
+2015-03-09,"Republic of Ireland","Austria",0,"N",1
+2015-03-09,"Portugal","Denmark",2,"H",1
+2015-03-09,"Japan","France",1,"N",2
+2015-03-09,"Scotland","Korea Republic",2,"N",1
+2015-03-09,"Australia","Finland",3,"N",1
+2015-03-09,"Mexico","Belgium",0,"N",1
+2015-03-09,"USA","Iceland",0,"N",1
+2015-03-09,"Sweden","China PR",3,"N",1
+2015-03-09,"Norway","Switzerland",2,"N",1
+2015-03-09,"Brazil","Germany",1,"N",2
+2015-03-11,"Finland","South Africa",2,"N",1
+2015-03-11,"Korea Republic","Belgium",1,"N",1
+2015-03-11,"Scotland","Netherlands",3,"N",1
+2015-03-11,"Costa Rica","Republic of Ireland",1,"N",1
+2015-03-11,"Hungary","Romania",3,"N",1
+2015-03-11,"Northern Ireland","Bosnia and Herzegovina",0,"N",1
+2015-03-11,"Italy","Mexico",2,"N",1
+2015-03-11,"Japan","Iceland",2,"N",1
+2015-03-11,"Sweden","Germany",1,"N",2
+2015-03-11,"Australia","Czech Republic",6,"N",1
+2015-03-11,"Croatia","Wales",1,"H",1
+2015-03-11,"Slovakia","Poland",0,"N",1
+2015-03-11,"Brazil","Switzerland",4,"N",1
+2015-03-11,"France","USA",0,"N",2
+2015-03-11,"Portugal","China PR",3,"H",1
+2015-03-11,"Canada","England",0,"N",2
+2015-03-11,"Norway","Denmark",5,"N",1
+2015-03-12,"Greece","Lebanon",14,"N",1
+2015-03-12,"Latvia","United Arab Emirates",2,"N",1
+2015-03-12,"Cyprus","Bahrain",1,"H",1
+2015-03-12,"Thailand","Papua New Guinea",11,"H",1
+2015-03-13,"Latvia","Lebanon",6,"N",1
+2015-03-13,"Greece","United Arab Emirates",7,"N",1
+2015-03-13,"Cyprus","Malta",2,"H",1
+2015-03-14,"Thailand","Papua New Guinea",7,"H",1
+2015-03-15,"Bahrain","Malta",1,"N",1
+2015-03-15,"Lebanon","United Arab Emirates",0,"N",1
+2015-03-15,"Greece","Latvia",4,"N",1
+2015-03-17,"Colombia","Venezuela",3,"H",1
+2015-03-18,"Bahrain","Lebanon",3,"N",1
+2015-03-18,"Latvia","Malta",0,"N",1
+2015-03-18,"Cyprus","Greece",0,"H",1
+2015-03-19,"Colombia","Venezuela",3,"H",1
+2015-03-21,"Mali","Nigeria",1,"H",1
+2015-03-21,"Ethiopia","Cameroon",1,"H",1
+2015-03-21,"Namibia","Swaziland",6,"H",1
+2015-03-21,"Egypt","Senegal",0,"H",1
+2015-03-21,"Botswana","South Africa",0,"H",1
+2015-03-21,"Ghana","Zimbabwe",2,"H",1
+2015-03-22,"Zambia","Tanzania",2,"H",1
+2015-03-24,"Luxembourg","Albania",0,"H",1
+2015-04-04,"Georgia","Faroe Islands",2,"N",2
+2015-04-04,"Luxembourg","Latvia",4,"N",2
+2015-04-04,"Malta","Andorra",5,"H",2
+2015-04-04,"Moldova","Lithuania",2,"H",2
+2015-04-06,"Faroe Islands","Andorra",8,"N",2
+2015-04-06,"Lithuania","Luxembourg",2,"N",2
+2015-04-06,"Malta","Georgia",2,"H",2
+2015-04-06,"Moldova","Latvia",0,"H",2
+2015-04-09,"Andorra","Georgia",0,"N",2
+2015-04-09,"Malta","Faroe Islands",2,"H",2
+2015-04-09,"Latvia","Lithuania",1,"N",2
+2015-04-09,"Moldova","Luxembourg",3,"H",2
+2015-04-04,"Iceland","Netherlands",2,"H",1
+2015-04-04,"USA","New Zealand",4,"H",1
+2015-04-05,"Korea Republic","Russia",1,"H",1
+2015-04-05,"Sweden","Switzerland",1,"H",1
+2015-04-06,"Finland","Poland",1,"H",1
+2015-04-07,"Austria","Australia",2,"H",1
+2015-04-08,"Korea Republic","Russia",2,"H",1
+2015-04-08,"Sweden","Denmark",3,"H",1
+2015-04-08,"Norway","Netherlands",2,"H",1
+2015-04-08,"Germany","Brazil",4,"H",2
+2015-04-08,"Spain","Republic of Ireland",1,"H",1
+2015-04-08,"Wales","Slovakia",1,"H",1
+2015-04-09,"Scotland","Australia",1,"H",1
+2015-04-09,"England","China PR",2,"H",1
+2015-04-10,"Nigeria","Mali",8,"H",1
+2015-04-10,"Tanzania","Zambia",2,"H",1
+2015-04-11,"Cameroon","Ethiopia",2,"H",1
+2015-04-11,"Senegal","Egypt",1,"H",1
+2015-04-11,"South Africa","Botswana",5,"H",1
+2015-04-11,"Ecuador","Colombia",1,"H",1
+2015-04-12,"Zimbabwe","Ghana",2,"H",1
+2015-04-15,"Colombia","Ecuador",2,"H",1
+2015-04-18,"Thailand","Malaysia",5,"H",1
+2015-04-28,"FYR Macedonia","Montenegro",0,"H",1
+2015-04-29,"FYR Macedonia","Montenegro",1,"H",1
+2015-05-22,"Botswana","Kenya",2,"H",3
+2015-05-23,"Congo","Equatorial Guinea",0,"H",3
+2015-05-23,"Gabon","South Africa",2,"H",3
+2015-05-23,"Egypt","Ghana",1,"H",3
+2015-05-24,"Zambia","Zimbabwe",2,"H",3
+2015-05-31,"Kenya","Botswana",1,"H",3
+2015-05-31,"South Africa","Gabon",5,"H",3
+2015-05-31,"Zimbabwe","Zambia",1,"H",3
+2015-05-31,"Equatorial Guinea","Congo",4,"H",3
+2015-05-31,"Ghana","Egypt",3,"H",3
+2015-05-01,"Indonesia","Laos",0,"N",1
+2015-05-02,"Malaysia","Philippines",0,"N",1
+2015-05-02,"Vietnam","Myanmar",3,"H",1
+2015-05-03,"Indonesia","Thailand",1,"N",1
+2015-05-04,"Myanmar","Philippines",4,"N",1
+2015-05-04,"Vietnam","Malaysia",7,"H",1
+2015-05-05,"Laos","Thailand",0,"N",1
+2015-05-06,"Myanmar","Malaysia",4,"N",1
+2015-05-06,"Vietnam","Philippines",4,"H",1
+2015-05-08,"Vietnam","Thailand",1,"H",1
+2015-05-10,"Myanmar","Thailand",2,"N",1
+2015-05-10,"C担te d'Ivoire","Cameroon",2,"H",1
+2015-05-10,"USA","Republic of Ireland",3,"H",1
+2015-05-17,"USA","Mexico",5,"H",1
+2015-05-19,"Australia","Vietnam",4,"H",1
+2015-05-20,"Netherlands","Estonia",7,"H",1
+2015-05-21,"Australia","Vietnam",11,"H",1
+2015-05-22,"Bahrain","Kyrgyzstan",2,"H",1
+2015-05-22,"France","Russia",2,"H",1
+2015-05-23,"Belgium","Norway",3,"H",1
+2015-05-24,"Japan","New Zealand",1,"H",1
+2015-05-25,"Mexico","Costa Rica",2,"H",1
+2015-05-25,"Bahrain","Kyrgyzstan",1,"H",1
+2015-05-27,"Switzerland","Germany",1,"H",1
+2015-05-28,"Mexico","Costa Rica",3,"H",1
+2015-05-28,"Japan","Italy",1,"H",1
+2015-05-28,"France","Scotland",1,"H",1
+2015-05-29,"Norway","Finland",2,"H",1
+2015-05-29,"Canada","England",1,"N",2
+2015-05-30,"Sweden","Netherlands",2,"N",1
+2015-05-30,"USA","Korea Republic",0,"H",1
+2015-06-06,"New Zealand","Netherlands",0,"N",4
+2015-06-06,"Canada","China PR",1,"H",4
+2015-06-07,"Norway","Thailand",4,"N",4
+2015-06-07,"Germany","C担te d'Ivoire",10,"N",4
+2015-06-08,"Japan","Switzerland",1,"N",4
+2015-06-08,"Cameroon","Ecuador",6,"N",4
+2015-06-08,"Sweden","Nigeria",3,"N",4
+2015-06-08,"USA","Australia",3,"N",4
+2015-06-09,"Spain","Costa Rica",1,"N",4
+2015-06-09,"Brazil","Korea Republic",2,"N",4
+2015-06-09,"France","England",1,"N",4
+2015-06-09,"Colombia","Mexico",1,"N",4
+2015-06-11,"Canada","New Zealand",0,"H",4
+2015-06-11,"China PR","Netherlands",1,"N",4
+2015-06-11,"Germany","Norway",1,"N",4
+2015-06-11,"C担te d'Ivoire","Thailand",2,"N",4
+2015-06-12,"Japan","Cameroon",2,"N",4
+2015-06-12,"Switzerland","Ecuador",10,"N",4
+2015-06-12,"USA","Sweden",0,"N",4
+2015-06-12,"Australia","Nigeria",2,"N",4
+2015-06-13,"Brazil","Spain",1,"N",4
+2015-06-13,"Korea Republic","Costa Rica",2,"N",4
+2015-06-13,"France","Colombia",0,"N",4
+2015-06-13,"England","Mexico",2,"N",4
+2015-06-15,"Netherlands","Canada",1,"A",4
+2015-06-15,"China PR","New Zealand",2,"N",4
+2015-06-15,"C担te d'Ivoire","Norway",1,"N",4
+2015-06-15,"Thailand","Germany",0,"N",4
+2015-06-16,"Ecuador","Japan",0,"N",4
+2015-06-16,"Switzerland","Cameroon",1,"N",4
+2015-06-16,"Australia","Sweden",1,"N",4
+2015-06-16,"Nigeria","USA",0,"N",4
+2015-06-17,"Korea Republic","Spain",2,"N",4
+2015-06-17,"Costa Rica","Brazil",0,"N",4
+2015-06-17,"Mexico","France",0,"N",4
+2015-06-17,"England","Colombia",2,"N",4
+2015-06-20,"Germany","Sweden",4,"N",4
+2015-06-20,"China PR","Cameroon",1,"N",4
+2015-06-21,"Brazil","Australia",0,"N",4
+2015-06-21,"France","Korea Republic",3,"N",4
+2015-06-21,"Canada","Switzerland",1,"H",4
+2015-06-22,"USA","Colombia",2,"N",4
+2015-06-22,"Norway","England",1,"N",4
+2015-06-23,"Japan","Netherlands",2,"N",4
+2015-06-26,"Germany","France",1,"N",4
+2015-06-26,"China PR","USA",0,"N",4
+2015-06-27,"Australia","Japan",0,"N",4
+2015-06-27,"England","Canada",2,"A",4
+2015-06-30,"USA","Germany",2,"N",4
+2015-06-02,"Bosnia and Herzegovina","Croatia",1,"H",1
+2015-06-04,"Croatia","Bosnia and Herzegovina",1,"H",1
+2015-06-11,"Hungary","Slovenia",2,"N",1
+2015-06-23,"Serbia","Romania",1,"H",1
+2015-06-25,"Serbia","Romania",1,"H",1
+2015-06-25,"Montenegro","Albania",1,"H",1
+2015-07-01,"Japan","England",2,"N",4
+2015-07-04,"Germany","England",0,"N",4
+2015-07-05,"USA","Japan",5,"N",4
+2015-07-18,"South Africa","Kenya",1,"H",3
+2015-07-18,"Cameroon","Ghana",1,"H",3
+2015-07-18,"Nigeria","Equatorial Guinea",1,"H",3
+2015-07-06,"Papua New Guinea","Fiji",5,"H",3
+2015-07-06,"Solomon Islands","New Caledonia",1,"N",3
+2015-07-06,"Tonga","Samoa",0,"N",3
+2015-07-08,"Solomon Islands","Tonga",0,"N",3
+2015-07-08,"Fiji","Cook Islands",1,"N",3
+2015-07-08,"New Caledonia","Samoa",2,"N",3
+2015-07-11,"Papua New Guinea","Cook Islands",2,"H",3
+2015-07-11,"New Caledonia","Tonga",6,"N",3
+2015-07-11,"Samoa","Solomon Islands",2,"N",3
+2015-07-13,"Papua New Guinea","Samoa",3,"H",3
+2015-07-13,"New Caledonia","Cook Islands",5,"N",3
+2015-07-16,"Papua New Guinea","New Caledonia",1,"H",3
+2015-07-16,"Cook Islands","Samoa",2,"N",3
+2015-08-01,"Ghana","Cameroon",2,"H",3
+2015-08-02,"Kenya","South Africa",0,"H",3
+2015-08-02,"Equatorial Guinea","Nigeria",2,"H",3
+2015-08-21,"Puerto Rico","Grenada",12,"H",3
+2015-08-21,"St. Kitts and Nevis","Guyana",0,"N",3
+2015-08-21,"Aruba","Haiti",0,"N",3
+2015-08-21,"Dominican Republic","Dominica",11,"H",3
+2015-08-23,"Guyana","Cuba",1,"N",3
+2015-08-23,"Haiti","Grenada",13,"N",3
+2015-08-23,"Dominican Republic","Jamaica",0,"H",3
+2015-08-23,"Puerto Rico","Aruba",9,"H",3
+2015-08-25,"Puerto Rico","Haiti",3,"H",3
+2015-08-25,"St. Kitts and Nevis","Cuba",0,"N",3
+2015-08-25,"Grenada","Aruba",2,"N",3
+2015-08-25,"Dominica","Jamaica",0,"N",3
+2015-08-01,"Vietnam","Chinese Taipei",3,"H",1
+2015-08-01,"Hungary","Slovakia",4,"H",1
+2015-08-01,"Poland","Belarus",2,"N",1
+2015-08-01,"Korea DPR","Japan",4,"N",2
+2015-08-01,"China PR","Korea Republic",0,"H",1
+2015-08-03,"Poland","Slovakia",0,"N",1
+2015-08-03,"Hungary","Belarus",2,"H",1
+2015-08-04,"Vietnam","Chinese Taipei",0,"H",1
+2015-08-04,"Japan","Korea Republic",1,"N",1
+2015-08-04,"China PR","Korea DPR",2,"H",1
+2015-08-05,"Slovakia","United Arab Emirates",9,"H",1
+2015-08-07,"Slovakia","United Arab Emirates",6,"H",1
+2015-08-08,"Korea Republic","Korea DPR",0,"N",1
+2015-08-08,"China PR","Japan",0,"H",1
+2015-08-16,"USA","Costa Rica",8,"H",1
+2015-08-19,"USA","Costa Rica",7,"H",1
+2015-08-19,"Albania","Turkey",1,"H",1
+2015-08-21,"Albania","Turkey",0,"H",1
+2015-08-23,"Tanzania","Kenya",1,"H",1
+2015-08-24,"Jordan","Morocco",2,"H",1
+2015-08-26,"Jordan","Morocco",2,"H",1
+2015-08-27,"Romania","Moldova",5,"H",1
+2015-08-27,"Serbia","Slovenia",2,"H",1
+2015-08-28,"Estonia","Latvia",1,"H",1
+2015-08-29,"Latvia","Lithuania",0,"N",1
+2015-08-30,"Estonia","Lithuania",1,"H",1
+2015-08-31,"Croatia","Albania",7,"H",1
+2015-09-14,"Chinese Taipei","Vietnam",1,"N",3
+2015-09-14,"Jordan","Myanmar",0,"A",3
+2015-09-16,"Jordan","Chinese Taipei",0,"N",3
+2015-09-16,"Myanmar","Thailand",1,"H",3
+2015-09-18,"Thailand","Jordan",1,"N",3
+2015-09-18,"Vietnam","Myanmar",4,"A",3
+2015-09-20,"Vietnam","Jordan",2,"N",3
+2015-09-20,"Chinese Taipei","Thailand",0,"N",3
+2015-09-22,"Thailand","Vietnam",0,"N",3
+2015-09-22,"Myanmar","Chinese Taipei",3,"H",3
+2015-09-17,"Kazakhstan","Austria",0,"H",2
+2015-09-17,"Moldova","Sweden",0,"H",2
+2015-09-17,"Turkey","Croatia",1,"H",2
+2015-09-17,"Finland","Montenegro",1,"H",2
+2015-09-17,"Estonia","Serbia",0,"H",2
+2015-09-18,"Germany","Hungary",12,"H",2
+2015-09-18,"Italy","Georgia",6,"H",2
+2015-09-21,"Estonia","England",0,"H",2
+2015-09-21,"Republic of Ireland","Finland",0,"H",2
+2015-09-22,"Kazakhstan","Norway",0,"H",2
+2015-09-22,"Slovenia","Scotland",0,"H",2
+2015-09-22,"Georgia","Czech Republic",0,"H",2
+2015-09-22,"Austria","Wales",3,"H",2
+2015-09-22,"Sweden","Poland",3,"H",2
+2015-09-22,"Croatia","Germany",0,"H",2
+2015-09-22,"Iceland","Belarus",2,"H",2
+2015-09-22,"Belgium","Bosnia and Herzegovina",6,"H",2
+2015-09-22,"France","Romania",3,"H",2
+2015-09-30,"Nicaragua","El Salvador",0,"H",3
+2015-09-30,"Guatemala","Costa Rica",1,"N",3
+2015-09-02,"Croatia","Albania",3,"H",1
+2015-09-06,"Tanzania","C担te d'Ivoire",0,"N",1
+2015-09-06,"Congo","Nigeria",1,"H",1
+2015-09-07,"Cameroon","South Africa",1,"N",1
+2015-09-09,"Nigeria","Tanzania",3,"N",1
+2015-09-09,"Congo","C担te d'Ivoire",0,"H",1
+2015-09-10,"South Africa","Ghana",0,"N",1
+2015-09-12,"Nigeria","C担te d'Ivoire",1,"N",1
+2015-09-12,"Congo","Tanzania",1,"H",1
+2015-09-13,"Cameroon","Ghana",1,"N",1
+2015-09-15,"C担te d'Ivoire","Ghana",0,"N",1
+2015-09-15,"Cameroon","Nigeria",2,"N",1
+2015-09-16,"Belgium","Poland",5,"H",1
+2015-09-17,"Romania","Denmark",0,"H",1
+2015-09-17,"C担te d'Ivoire","Nigeria",2,"N",1
+2015-09-17,"Iceland","Slovakia",4,"H",1
+2015-09-17,"Netherlands","Belarus",8,"H",1
+2015-09-17,"Scotland","Norway",0,"H",1
+2015-09-17,"USA","Haiti",5,"H",1
+2015-09-18,"China PR","Spain",1,"H",1
+2015-09-18,"Ghana","Cameroon",1,"N",1
+2015-09-19,"Portugal","Ukraine",1,"H",1
+2015-09-19,"France","Brazil",2,"H",2
+2015-09-20,"USA","Haiti",8,"H",1
+2015-09-21,"China PR","Spain",1,"H",1
+2015-09-21,"Portugal","Ukraine",0,"H",1
+2015-09-22,"Switzerland","Denmark",4,"H",1
+2015-10-03,"South Africa","Equatorial Guinea",0,"H",3
+2015-10-03,"Cameroon","Zimbabwe",2,"H",3
+2015-10-18,"Zimbabwe","Cameroon",1,"H",3
+2015-10-18,"Equatorial Guinea","South Africa",0,"H",3
+2015-10-19,"Slovenia","Belarus",3,"H",2
+2015-10-21,"Hungary","Turkey",1,"H",2
+2015-10-22,"Israel","Kazakhstan",0,"H",2
+2015-10-22,"FYR Macedonia","Iceland",0,"H",2
+2015-10-22,"Albania","Greece",1,"H",2
+2015-10-22,"Germany","Russia",2,"H",2
+2015-10-22,"Poland","Slovakia",2,"H",2
+2015-10-22,"Ukraine","Romania",2,"H",2
+2015-10-22,"Denmark","Moldova",4,"H",2
+2015-10-23,"Bosnia and Herzegovina","Estonia",4,"H",2
+2015-10-23,"Norway","Wales",4,"H",2
+2015-10-23,"Scotland","Belarus",7,"H",2
+2015-10-24,"Italy","Switzerland",0,"H",2
+2015-10-24,"Georgia","Northern Ireland",0,"H",2
+2015-10-25,"Israel","Austria",0,"H",2
+2015-10-25,"Germany","Turkey",7,"H",2
+2015-10-25,"Croatia","Hungary",1,"H",2
+2015-10-26,"Slovakia","Moldova",4,"H",2
+2015-10-26,"Slovenia","Iceland",0,"H",2
+2015-10-27,"Romania","Albania",3,"H",2
+2015-10-27,"FYR Macedonia","Scotland",1,"H",2
+2015-10-27,"Bosnia and Herzegovina","Belgium",0,"H",2
+2015-10-27,"Serbia","Estonia",3,"H",2
+2015-10-27,"Portugal","Republic of Ireland",1,"H",2
+2015-10-27,"Finland","Spain",1,"H",2
+2015-10-27,"Switzerland","Georgia",4,"H",2
+2015-10-27,"Sweden","Denmark",1,"H",2
+2015-10-27,"Czech Republic","Italy",0,"H",2
+2015-10-27,"Ukraine","France",0,"H",2
+2015-10-02,"Nicaragua","Guatemala",1,"H",3
+2015-10-02,"Costa Rica","El Salvador",3,"N",3
+2015-10-04,"Nicaragua","Costa Rica",0,"H",3
+2015-10-04,"El Salvador","Guatemala",0,"N",3
+2015-10-13,"Estonia","Malta",1,"H",1
+2015-10-15,"Estonia","Malta",0,"H",1
+2015-10-21,"USA","Brazil",1,"H",2
+2015-10-23,"China PR","England",2,"H",1
+2015-10-23,"France","Netherlands",1,"H",1
+2015-10-25,"China PR","Australia",1,"H",1
+2015-10-25,"USA","Brazil",3,"H",2
+2015-10-27,"England","Australia",1,"N",2
+2015-11-25,"Turkey","Russia",0,"H",2
+2015-11-25,"Serbia","Bosnia and Herzegovina",0,"H",2
+2015-11-26,"FYR Macedonia","Belarus",0,"H",2
+2015-11-26,"Republic of Ireland","Spain",0,"H",2
+2015-11-26,"Wales","Kazakhstan",4,"H",2
+2015-11-26,"Portugal","Montenegro",6,"H",2
+2015-11-26,"Slovakia","Denmark",0,"H",2
+2015-11-27,"Moldova","Poland",1,"H",2
+2015-11-27,"Greece","Romania",1,"H",2
+2015-11-27,"Northern Ireland","Switzerland",1,"H",2
+2015-11-27,"Albania","France",0,"H",2
+2015-11-29,"Hungary","Russia",0,"H",2
+2015-11-29,"Scotland","FYR Macedonia",10,"H",2
+2015-11-29,"England","Bosnia and Herzegovina",1,"H",2
+2015-11-30,"Belgium","Serbia",1,"H",2
+2015-11-30,"Croatia","Turkey",3,"H",2
+2015-11-13,"Trinidad and Tobago","St. Lucia",6,"H",3
+2015-11-15,"St. Lucia","Trinidad and Tobago",1,"A",3
+2015-11-18,"Puerto Rico","Guyana",1,"N",3
+2015-11-18,"Trinidad and Tobago","Jamaica",2,"H",3
+2015-11-20,"Guyana","Jamaica",2,"N",3
+2015-11-20,"Trinidad and Tobago","Puerto Rico",1,"H",3
+2015-11-07,"Tanzania","Malawi",2,"H",1
+2015-11-26,"Germany","England",0,"H",2
+2015-11-28,"Brazil","New Zealand",0,"H",1
+2015-11-29,"Korea Republic","Australia",0,"H",1
+2015-11-29,"Netherlands","Japan",3,"H",1
+2015-12-01,"Spain","Portugal",2,"H",2
+2015-12-01,"Greece","France",0,"H",2
+2015-12-01,"Switzerland","Czech Republic",5,"H",2
+2015-12-01,"Israel","Wales",2,"H",2
+2015-12-01,"Moldova","Slovakia",0,"H",2
+2015-12-01,"Brazil","New Zealand",5,"H",1
+2015-12-03,"China PR","Italy",1,"H",1
+2015-12-06,"China PR","Italy",2,"H",1
+2015-12-09,"Canada","Mexico",3,"N",1
+2015-12-09,"Brazil","Trinidad and Tobago",11,"H",1
+2015-12-10,"USA","Trinidad and Tobago",6,"H",1
+2015-12-13,"USA","China PR",2,"H",1
+2015-12-13,"Brazil","Mexico",6,"H",1
+2015-12-13,"Trinidad and Tobago","Canada",0,"N",1
+2015-12-15,"Algeria","Tunisia",1,"H",1
+2015-12-16,"USA","China PR",0,"H",1
+2015-12-16,"Trinidad and Tobago","Mexico",0,"N",1
+2015-12-16,"Brazil","Canada",2,"H",1
+2015-12-18,"Algeria","Tunisia",1,"H",1
+2015-12-20,"Mexico","Trinidad and Tobago",2,"N",1
+2015-12-20,"Brazil","Canada",3,"H",1
+2016-01-24,"Montenegro","Spain",0,"H",2
+2016-01-26,"Greece","Albania",3,"H",2
+2016-01-23,"Papua New Guinea","New Zealand",1,"H",3
+2016-01-12,"Mali","Burkina Faso",5,"H",1
+2016-01-19,"Portugal","Poland",1,"H",1
+2016-01-19,"Malta","Latvia",3,"H",1
+2016-01-21,"China PR","Mexico",0,"H",1
+2016-01-21,"Korea Republic","Vietnam",5,"N",1
+2016-01-21,"Israel","Ukraine",0,"H",1
+2016-01-21,"Portugal","Poland",0,"H",1
+2016-01-21,"Malta","Latvia",1,"H",1
+2016-01-22,"Denmark","Netherlands",0,"N",1
+2016-01-22,"Norway","Romania",6,"N",1
+2016-01-23,"USA","Republic of Ireland",5,"H",1
+2016-01-23,"Mexico","Korea Republic",2,"N",1
+2016-01-23,"China PR","Vietnam",8,"H",1
+2016-01-23,"Israel","Ukraine",1,"H",1
+2016-01-24,"Bahrain","Maldives",4,"H",1
+2016-01-25,"Denmark","Netherlands",1,"N",1
+2016-01-26,"China PR","Korea Republic",2,"H",1
+2016-01-26,"Mexico","Vietnam",1,"N",1
+2016-01-26,"Sweden","Scotland",6,"H",1
+2016-01-26,"Norway","France",0,"N",2
+2016-01-28,"Bahrain","Maldives",1,"H",1
+2016-01-29,"Singapore","Sri Lanka",0,"H",1
+2016-02-29,"China PR","Vietnam",2,"N",3
+2016-02-29,"Korea DPR","Korea Republic",1,"N",3
+2016-02-29,"Japan","Australia",1,"H",3
+2016-02-10,"USA","Costa Rica",5,"H",3
+2016-02-10,"Puerto Rico","Mexico",0,"N",3
+2016-02-11,"Canada","Guyana",5,"N",3
+2016-02-11,"Guatemala","Trinidad and Tobago",1,"N",3
+2016-02-13,"Costa Rica","Puerto Rico",9,"N",3
+2016-02-13,"USA","Mexico",1,"H",3
+2016-02-14,"Guyana","Guatemala",2,"N",3
+2016-02-14,"Trinidad and Tobago","Canada",0,"N",3
+2016-02-15,"USA","Puerto Rico",10,"H",3
+2016-02-15,"Mexico","Costa Rica",1,"N",3
+2016-02-16,"Canada","Guatemala",10,"N",3
+2016-02-16,"Trinidad and Tobago","Guyana",5,"N",3
+2016-02-19,"USA","Trinidad and Tobago",5,"H",3
+2016-02-19,"Canada","Costa Rica",3,"N",3
+2016-02-21,"USA","Canada",2,"H",3
+2016-02-02,"Algeria","Mali",2,"H",1
+2016-02-05,"India","Maldives",0,"H",1
+2016-02-05,"Algeria","Mali",5,"H",1
+2016-02-09,"India","Sri Lanka",5,"H",1
+2016-02-11,"India","Nepal",0,"H",1
+2016-02-13,"India","Bangladesh",5,"H",1
+2016-02-14,"Poland","Iceland",1,"H",1
+2016-02-15,"India","Nepal",4,"H",1
+2016-02-24,"United Arab Emirates","Georgia",0,"H",1
+2016-02-27,"United Arab Emirates","Georgia",1,"H",1
+2016-03-02,"Australia","Vietnam",9,"N",3
+2016-03-02,"Korea DPR","China PR",1,"N",3
+2016-03-02,"Japan","Korea Republic",1,"H",3
+2016-03-04,"Vietnam","Korea DPR",0,"N",3
+2016-03-04,"Korea Republic","Australia",0,"N",3
+2016-03-04,"Japan","China PR",1,"H",3
+2016-03-07,"China PR","Korea Republic",1,"N",3
+2016-03-07,"Korea DPR","Australia",1,"N",3
+2016-03-07,"Japan","Vietnam",6,"H",3
+2016-03-09,"Korea Republic","Vietnam",4,"N",3
+2016-03-09,"Australia","China PR",1,"N",3
+2016-03-09,"Japan","Korea DPR",1,"H",3
+2016-03-04,"Albania","Ukraine",0,"H",2
+2016-03-08,"Greece","Ukraine",1,"H",2
+2016-03-02,"Sweden","Norway",1,"N",3
+2016-03-02,"Netherlands","Switzerland",4,"H",3
+2016-03-05,"Netherlands","Norway",1,"H",3
+2016-03-05,"Sweden","Switzerland",1,"N",3
+2016-03-09,"Netherlands","Sweden",1,"H",3
+2016-03-09,"Norway","Switzerland",1,"N",3
+2016-03-04,"Tanzania","Zimbabwe",1,"H",2
+2016-03-05,"Senegal","Guinea",1,"H",2
+2016-03-05,"Botswana","Mauritius",6,"H",2
+2016-03-05,"Burkina Faso","Tunisia",0,"H",2
+2016-03-05,"Mali","Morocco",0,"H",2
+2016-03-06,"Zambia","Namibia",3,"H",2
+2016-03-06,"Libya","Egypt",0,"N",2
+2016-03-06,"Algeria","Ethiopia",1,"H",2
+2016-03-18,"Namibia","Zambia",2,"H",2
+2016-03-19,"Morocco","Mali",1,"H",2
+2016-03-19,"Mauritius","Botswana",0,"H",2
+2016-03-19,"Guinea","Senegal",1,"H",2
+2016-03-19,"Tunisia","Burkina Faso",2,"H",2
+2016-03-20,"Egypt","Libya",5,"H",2
+2016-03-20,"Zimbabwe","Tanzania",1,"H",2
+2016-03-26,"Ethiopia","Algeria",1,"H",2
+2016-03-02,"Austria","Republic of Ireland",2,"N",1
+2016-03-02,"Hungary","Italy",0,"N",1
+2016-03-02,"Wales","Finland",2,"N",1
+2016-03-02,"Slovakia","Northern Ireland",1,"N",1
+2016-03-02,"Poland","Czech Republic",1,"N",1
+2016-03-02,"Iceland","Belgium",2,"N",1
+2016-03-02,"Canada","Denmark",0,"N",1
+2016-03-02,"Portugal","Russia",0,"H",1
+2016-03-02,"Brazil","New Zealand",1,"N",1
+2016-03-03,"United Arab Emirates","Maldives",2,"H",1
+2016-03-03,"Germany","France",1,"N",2
+2016-03-03,"USA","England",1,"H",2
+2016-03-04,"Romania","Spain",0,"H",1
+2016-03-04,"Croatia","Northern Ireland",0,"H",1
+2016-03-04,"Austria","Hungary",2,"N",1
+2016-03-04,"Poland","Wales",1,"N",1
+2016-03-04,"Italy","Republic of Ireland",1,"N",1
+2016-03-04,"Canada","Belgium",1,"N",1
+2016-03-04,"Denmark","Iceland",1,"N",1
+2016-03-04,"Finland","Czech Republic",1,"N",1
+2016-03-04,"New Zealand","Russia",0,"N",1
+2016-03-04,"Portugal","Brazil",1,"H",1
+2016-03-06,"United Arab Emirates","Maldives",1,"H",1
+2016-03-06,"USA","France",1,"H",2
+2016-03-06,"Germany","England",2,"N",2
+2016-03-07,"Finland","Poland",0,"N",1
+2016-03-07,"Czech Republic","Wales",1,"N",1
+2016-03-07,"Croatia","Slovakia",0,"H",1
+2016-03-07,"Italy","Austria",0,"N",1
+2016-03-07,"Brazil","Russia",3,"N",1
+2016-03-07,"Portugal","New Zealand",0,"H",1
+2016-03-07,"Republic of Ireland","Hungary",0,"N",1
+2016-03-07,"Denmark","Belgium",1,"N",1
+2016-03-07,"Canada","Iceland",1,"N",1
+2016-03-08,"Scotland","Spain",1,"H",1
+2016-03-09,"Republic of Ireland","Finland",2,"N",1
+2016-03-09,"Italy","Czech Republic",3,"N",1
+2016-03-09,"Hungary","Wales",2,"N",1
+2016-03-09,"Austria","Poland",2,"N",1
+2016-03-09,"Belgium","Russia",5,"N",1
+2016-03-09,"Portugal","Denmark",1,"H",1
+2016-03-09,"Iceland","New Zealand",1,"N",1
+2016-03-09,"Canada","Brazil",2,"N",1
+2016-03-09,"France","England",0,"N",2
+2016-03-09,"USA","Germany",2,"H",2
+2016-03-10,"Cyprus","Lithuania",3,"H",1
+2016-03-10,"Malta","Israel",1,"N",1
+2016-03-11,"Malta","Lithuania",2,"N",1
+2016-03-11,"Cyprus","Estonia",1,"H",1
+2016-03-13,"Israel","Lithuania",2,"N",1
+2016-03-13,"Estonia","Malta",0,"N",1
+2016-03-15,"Israel","Estonia",2,"N",1
+2016-03-15,"Cyprus","Malta",1,"H",1
+2016-03-16,"Cyprus","Israel",0,"H",1
+2016-03-16,"Estonia","Lithuania",3,"N",1
+2016-03-25,"Cameroon","South Africa",0,"H",1
+2016-03-28,"Cameroon","South Africa",2,"H",1
+2016-04-06,"Israel","Norway",0,"H",2
+2016-04-06,"Austria","Kazakhstan",6,"H",2
+2016-04-07,"Montenegro","Republic of Ireland",0,"H",2
+2016-04-07,"Poland","Denmark",0,"H",2
+2016-04-08,"Turkey","Germany",0,"H",2
+2016-04-08,"Slovakia","Sweden",0,"H",2
+2016-04-08,"Ukraine","Albania",2,"H",2
+2016-04-08,"Romania","France",0,"H",2
+2016-04-08,"Portugal","Spain",1,"H",2
+2016-04-08,"Scotland","Slovenia",3,"H",2
+2016-04-08,"England","Belgium",1,"H",2
+2016-04-08,"Hungary","Croatia",2,"H",2
+2016-04-09,"Switzerland","Italy",2,"H",2
+2016-04-10,"Austria","Norway",0,"H",2
+2016-04-11,"France","Ukraine",4,"H",2
+2016-04-12,"Belarus","Iceland",0,"H",2
+2016-04-12,"Spain","Republic of Ireland",3,"H",2
+2016-04-12,"Kazakhstan","Wales",0,"H",2
+2016-04-12,"Montenegro","Finland",1,"H",2
+2016-04-12,"Bosnia and Herzegovina","England",0,"H",2
+2016-04-12,"Czech Republic","Georgia",4,"H",2
+2016-04-12,"Russia","Hungary",3,"H",2
+2016-04-12,"Slovakia","Poland",2,"H",2
+2016-04-12,"Germany","Croatia",2,"H",2
+2016-04-12,"Italy","Northern Ireland",3,"H",2
+2016-04-12,"Slovenia","FYR Macedonia",8,"H",2
+2016-04-12,"Belgium","Estonia",6,"H",2
+2016-04-06,"Zimbabwe","Zambia",1,"H",2
+2016-04-06,"Tunisia","Ghana",1,"H",2
+2016-04-06,"Mali","Equatorial Guinea",1,"H",2
+2016-04-07,"Egypt","C担te d'Ivoire",1,"H",2
+2016-04-08,"Algeria","Kenya",2,"H",2
+2016-04-08,"Senegal","Nigeria",1,"H",2
+2016-04-09,"Botswana","South Africa",0,"H",2
+2016-04-10,"Zambia","Zimbabwe",2,"H",2
+2016-04-10,"Equatorial Guinea","Mali",2,"H",2
+2016-04-11,"C担te d'Ivoire","Egypt",2,"H",2
+2016-04-12,"Ghana","Tunisia",4,"H",2
+2016-04-12,"Kenya","Algeria",1,"H",2
+2016-04-12,"Nigeria","Senegal",2,"H",2
+2016-04-12,"South Africa","Botswana",3,"H",2
+2016-04-06,"USA","Colombia",7,"H",1
+2016-04-07,"Netherlands","New Zealand",2,"H",1
+2016-04-08,"Bulgaria","Cyprus",3,"H",1
+2016-04-08,"China PR","Costa Rica",2,"H",1
+2016-04-10,"USA","Colombia",3,"H",1
+2016-04-10,"Netherlands","Canada",1,"H",1
+2016-04-11,"China PR","Costa Rica",1,"H",1
+2016-04-26,"Hungary","Albania",6,"H",1
+2016-05-15,"South Africa","Zimbabwe",1,"H",1
+2016-05-17,"Georgia","United Arab Emirates",3,"H",1
+2016-05-20,"Georgia","United Arab Emirates",3,"H",1
+2016-05-25,"Venezuela","Colombia",0,"H",1
+2016-05-27,"Venezuela","Colombia",0,"H",1
+2016-05-31,"Hungary","Bosnia and Herzegovina",0,"H",1
+2016-06-02,"Kazakhstan","Israel",1,"H",2
+2016-06-02,"Albania","Romania",0,"H",2
+2016-06-02,"Russia","Turkey",2,"H",2
+2016-06-02,"Poland","Sweden",0,"H",2
+2016-06-02,"Norway","Austria",2,"H",2
+2016-06-02,"Denmark","Slovakia",4,"H",2
+2016-06-03,"Finland","Republic of Ireland",4,"H",2
+2016-06-03,"FYR Macedonia","Slovenia",0,"H",2
+2016-06-03,"Estonia","Belgium",0,"H",2
+2016-06-03,"Scotland","Iceland",0,"H",2
+2016-06-03,"Montenegro","Portugal",0,"H",2
+2016-06-03,"Northern Ireland","Georgia",4,"H",2
+2016-06-03,"France","Greece",1,"H",2
+2016-06-04,"Czech Republic","Switzerland",0,"H",2
+2016-06-04,"England","Serbia",7,"H",2
+2016-06-06,"Sweden","Moldova",6,"H",2
+2016-06-06,"Turkey","Hungary",2,"H",2
+2016-06-06,"Estonia","Bosnia and Herzegovina",0,"H",2
+2016-06-06,"Austria","Israel",4,"H",2
+2016-06-06,"Croatia","Russia",0,"H",2
+2016-06-07,"Belarus","Scotland",0,"H",2
+2016-06-07,"Georgia","Italy",0,"H",2
+2016-06-07,"Serbia","England",0,"H",2
+2016-06-07,"Finland","Portugal",0,"H",2
+2016-06-07,"Ukraine","Greece",2,"H",2
+2016-06-07,"Wales","Norway",0,"H",2
+2016-06-07,"Denmark","Poland",6,"H",2
+2016-06-07,"Czech Republic","Northern Ireland",3,"H",2
+2016-06-07,"Republic of Ireland","Montenegro",9,"H",2
+2016-06-07,"Iceland","FYR Macedonia",8,"H",2
+2016-06-02,"China PR","Thailand",6,"H",1
+2016-06-02,"USA","Japan",3,"H",2
+2016-06-04,"Australia","New Zealand",2,"H",1
+2016-06-04,"Myanmar","Korea Republic",0,"H",1
+2016-06-04,"Canada","Brazil",0,"H",2
+2016-06-05,"China PR","Thailand",3,"H",1
+2016-06-05,"USA","Japan",2,"H",2
+2016-06-07,"Australia","New Zealand",1,"H",1
+2016-06-07,"Myanmar","Korea Republic",1,"H",1
+2016-06-07,"Netherlands","South Africa",2,"H",1
+2016-06-07,"Canada","Brazil",1,"H",2
+2016-06-24,"Nicaragua","El Salvador",0,"H",1
+2016-06-26,"Nicaragua","El Salvador",0,"H",1
+2016-06-26,"Luxembourg","United Arab Emirates",6,"H",1
+2016-06-29,"Guam","Macau",5,"H",1
+2016-06-29,"Luxembourg","United Arab Emirates",5,"H",1
+2016-07-03,"Kenya","Uganda",4,"H",1
+2016-07-09,"Myanmar","Thailand",1,"H",1
+2016-07-09,"USA","South Africa",1,"H",1
+2016-07-11,"Malaysia","Singapore",2,"H",1
+2016-09-11,"Uganda","Kenya",0,"H",1
+2016-09-12,"Tanzania","Rwanda",3,"N",1
+2016-09-13,"Burundi","Kenya",0,"N",1
+2016-09-14,"Rwanda","Ethiopia",2,"N",1
+2016-09-15,"Uganda","Burundi",1,"H",1
+2016-10-21,"Portugal","Romania",0,"H",2
+2016-10-25,"Romania","Portugal",1,"H",2
+2016-11-19,"Cameroon","Egypt",2,"H",3
+2016-11-19,"South Africa","Zimbabwe",0,"N",3
+2016-11-20,"Nigeria","Mali",6,"N",3
+2016-11-20,"Ghana","Kenya",3,"N",3
+2016-11-22,"Zimbabwe","Egypt",0,"N",3
+2016-11-22,"Cameroon","South Africa",1,"H",3
+2016-11-23,"Nigeria","Ghana",1,"N",3
+2016-11-23,"Kenya","Mali",1,"N",3
+2016-11-25,"Cameroon","Zimbabwe",2,"H",3
+2016-11-25,"Egypt","South Africa",0,"N",3
+2016-11-26,"Mali","Ghana",1,"N",3
+2016-11-26,"Kenya","Nigeria",0,"N",3
+2016-11-29,"Cameroon","Ghana",1,"H",3
+2016-11-29,"Nigeria","South Africa",1,"N",3
+2016-12-02,"Ghana","South Africa",1,"N",3
+2016-12-03,"Cameroon","Nigeria",0,"H",3
+2016-12-05,"Madagascar","Comoros",4,"H",1
+2016-12-07,"Brazil","Costa Rica",6,"H",1
+2016-12-07,"Russia","Italy",0,"N",1
+2016-12-08,"Madagascar","Comoros",4,"H",1
+2016-12-11,"Italy","Costa Rica",3,"N",1
+2016-12-11,"Brazil","Russia",4,"H",1
+2016-12-14,"Brazil","Italy",3,"H",1
+2016-12-14,"Costa Rica","Russia",1,"N",1
+2016-12-17,"Nepal","Malaysia",1,"H",1
+2016-12-18,"United Arab Emirates","Maldives",0,"H",1
+2016-12-18,"Brazil","Italy",5,"H",1
+2016-12-18,"Russia","Costa Rica",1,"N",1
+2016-12-21,"United Arab Emirates","Maldives",1,"H",1
+2016-12-26,"Nepal","Bhutan",8,"N",1
+2016-12-26,"Sri Lanka","Maldives",2,"N",1
+2016-12-27,"India","Afghanistan",5,"H",1
+2016-12-28,"Bhutan","Sri Lanka",0,"N",1
+2016-12-28,"Maldives","Nepal",0,"N",1
+2016-12-29,"Bangladesh","Afghanistan",6,"N",1
+2016-12-30,"Nepal","Sri Lanka",1,"N",1
+2016-12-30,"Maldives","Bhutan",3,"N",1
+2016-12-31,"India","Bangladesh",0,"H",1
+2017-01-02,"Bangladesh","Maldives",6,"N",1
+2017-01-02,"India","Nepal",3,"H",1
+2017-01-04,"Singapore","United Arab Emirates",0,"H",1
+2017-01-04,"India","Bangladesh",3,"H",1
+2017-01-06,"Singapore","United Arab Emirates",0,"H",1
+2017-01-18,"Russia","Finland",0,"N",1
+2017-01-19,"Norway","Sweden",2,"N",1
+2017-01-19,"Myanmar","Ukraine",0,"N",1
+2017-01-19,"China PR","Thailand",2,"H",1
+2017-01-20,"Netherlands","Romania",7,"N",1
+2017-01-21,"Bahrain","Maldives",5,"H",1
+2017-01-21,"China PR","Myanmar",2,"H",1
+2017-01-21,"Thailand","Ukraine",1,"N",1
+2017-01-22,"Finland","Slovakia",3,"N",1
+2017-01-22,"France","South Africa",2,"N",1
+2017-01-22,"England","Norway",0,"N",1
+2017-01-23,"Denmark","Scotland",1,"N",1
+2017-01-23,"Romania","Slovakia",2,"N",1
+2017-01-24,"Thailand","Myanmar",3,"N",1
+2017-01-24,"Ukraine","China PR",0,"A",1
+2017-01-24,"Russia","Netherlands",0,"N",1
+2017-01-24,"Bahrain","Maldives",3,"H",1
+2017-01-24,"England","Sweden",0,"N",2
+2017-02-04,"Canada","Mexico",3,"H",1
+2017-02-16,"Singapore","Bangladesh",3,"H",1
+2017-02-17,"Malaysia","Bangladesh",2,"N",1
+2017-02-18,"Singapore","Malaysia",0,"H",1
+2017-02-28,"Albania","Montenegro",5,"H",1
+2017-03-01,"Belgium","Switzerland",2,"N",1
+2017-03-01,"Korea DPR","Italy",3,"N",1
+2017-03-01,"Korea Republic","Austria",0,"N",1
+2017-03-01,"New Zealand","Scotland",2,"N",1
+2017-03-01,"England","France",1,"N",2
+2017-03-01,"USA","Germany",1,"H",2
+2017-03-01,"Denmark","Canada",0,"N",1
+2017-03-01,"Netherlands","China PR",1,"N",1
+2017-03-01,"Norway","Iceland",1,"N",1
+2017-03-01,"Australia","Sweden",0,"N",2
+2017-03-01,"Myanmar","Thailand",0,"H",1
+2017-03-01,"Slovakia","Northern Ireland",0,"N",1
+2017-03-01,"Czech Republic","Republic of Ireland",0,"N",1
+2017-03-01,"Chinese Taipei","Slovenia",1,"N",1
+2017-03-01,"Japan","Spain",1,"N",1
+2017-03-01,"Portugal","Russia",0,"H",1
+2017-03-01,"Hungary","Wales",0,"N",1
+2017-03-02,"United Arab Emirates","Azerbaijan",2,"H",1
+2017-03-03,"Republic of Ireland","Hungary",0,"N",1
+2017-03-03,"Italy","Belgium",1,"N",1
+2017-03-03,"Switzerland","Korea DPR",1,"N",1
+2017-03-03,"Portugal","Denmark",0,"H",1
+2017-03-03,"China PR","Sweden",0,"N",1
+2017-03-03,"Slovenia","Slovakia",1,"N",1
+2017-03-03,"Wales","Czech Republic",0,"N",1
+2017-03-03,"Austria","New Zealand",3,"N",1
+2017-03-03,"Northern Ireland","Chinese Taipei",8,"N",1
+2017-03-03,"Romania","Kosovo",3,"N",1
+2017-03-03,"Japan","Iceland",2,"N",1
+2017-03-03,"Australia","Netherlands",3,"N",1
+2017-03-03,"Russia","Canada",1,"N",1
+2017-03-03,"Scotland","Korea Republic",0,"N",1
+2017-03-03,"Spain","Norway",3,"N",1
+2017-03-04,"USA","England",0,"H",2
+2017-03-04,"France","Germany",0,"N",2
+2017-03-05,"United Arab Emirates","Azerbaijan",0,"H",1
+2017-03-05,"Serbia","Finland",2,"H",1
+2017-03-05,"Turkey","Kosovo",4,"H",1
+2017-03-05,"Poland","Romania",2,"N",1
+2017-03-06,"Korea DPR","Belgium",4,"N",1
+2017-03-06,"Italy","Switzerland",0,"N",1
+2017-03-06,"New Zealand","Korea Republic",0,"N",1
+2017-03-06,"Austria","Scotland",1,"N",1
+2017-03-06,"Slovakia","Chinese Taipei",1,"N",1
+2017-03-06,"Georgia","Moldova",1,"H",1
+2017-03-06,"Republic of Ireland","Wales",1,"N",1
+2017-03-06,"Northern Ireland","Slovenia",4,"N",1
+2017-03-06,"Croatia","Bosnia and Herzegovina",0,"H",1
+2017-03-06,"Iceland","Spain",0,"N",1
+2017-03-06,"Norway","Japan",0,"N",1
+2017-03-06,"Sweden","Netherlands",0,"N",1
+2017-03-06,"China PR","Australia",1,"N",1
+2017-03-06,"Czech Republic","Hungary",1,"N",1
+2017-03-06,"Portugal","Canada",0,"H",1
+2017-03-06,"Russia","Denmark",1,"N",1
+2017-03-07,"Germany","England",1,"N",2
+2017-03-07,"USA","France",0,"H",2
+2017-03-07,"Turkey","Poland",1,"H",1
+2017-03-08,"Switzerland","Korea Republic",1,"N",1
+2017-03-08,"Portugal","Norway",0,"H",1
+2017-03-08,"Sweden","Russia",4,"N",1
+2017-03-08,"Australia","Denmark",1,"N",1
+2017-03-08,"Iceland","China PR",2,"N",1
+2017-03-08,"New Zealand","Hungary",3,"N",1
+2017-03-08,"Italy","Czech Republic",6,"N",1
+2017-03-08,"Croatia","Slovenia",3,"H",1
+2017-03-08,"Korea DPR","Republic of Ireland",2,"N",1
+2017-03-08,"Scotland","Wales",0,"N",1
+2017-03-08,"Belgium","Austria",1,"N",1
+2017-03-08,"Slovakia","Bosnia and Herzegovina",2,"N",1
+2017-03-08,"Japan","Netherlands",2,"N",1
+2017-03-08,"Spain","Canada",1,"N",1
+2017-03-09,"United Arab Emirates","Uzbekistan",1,"H",1
+2017-03-12,"Hong Kong","Singapore",2,"H",1
+2017-03-12,"United Arab Emirates","Uzbekistan",0,"H",1
+2017-03-29,"Trinidad and Tobago","Venezuela",1,"H",1
+2017-04-06,"Estonia","Latvia",0,"N",3
+2017-04-06,"Albania","Kosovo",3,"H",3
+2017-04-06,"Moldova","Andorra",4,"N",3
+2017-04-06,"Georgia","Kazakhstan",0,"H",3
+2017-04-06,"Greece","Malta",1,"N",3
+2017-04-06,"Montenegro","Turkey",0,"N",3
+2017-04-06,"Lithuania","Israel",0,"H",3
+2017-04-06,"Faroe Islands","Luxembourg",5,"H",3
+2017-04-08,"Greece","Kosovo",6,"N",3
+2017-04-08,"Kazakhstan","Latvia",2,"N",3
+2017-04-08,"Lithuania","Moldova",0,"H",3
+2017-04-08,"Albania","Malta",0,"H",3
+2017-04-08,"Georgia","Estonia",2,"H",3
+2017-04-08,"Faroe Islands","Montenegro",2,"H",3
+2017-04-08,"Israel","Andorra",7,"N",3
+2017-04-08,"Luxembourg","Turkey",1,"N",3
+2017-04-11,"Kosovo","Malta",1,"N",3
+2017-04-11,"Lithuania","Andorra",2,"H",3
+2017-04-11,"Israel","Moldova",0,"N",3
+2017-04-11,"Faroe Islands","Turkey",2,"H",3
+2017-04-11,"Luxembourg","Montenegro",1,"N",3
+2017-04-11,"Estonia","Kazakhstan",0,"N",3
+2017-04-11,"Georgia","Latvia",1,"H",3
+2017-04-11,"Albania","Greece",2,"H",3
+2017-04-03,"Palestine","Thailand",0,"H",3
+2017-04-03,"Hong Kong","Uzbekistan",1,"N",3
+2017-04-03,"Bahrain","Jordan",0,"N",3
+2017-04-03,"Iran","Myanmar",0,"N",3
+2017-04-03,"Tajikistan","Iraq",1,"H",3
+2017-04-03,"Singapore","Syria",1,"N",3
+2017-04-03,"Philippines","United Arab Emirates",4,"N",3
+2017-04-03,"Korea DPR","India",8,"H",3
+2017-04-05,"India","Korea Republic",0,"N",3
+2017-04-05,"Korea DPR","Hong Kong",5,"H",3
+2017-04-05,"Palestine","Chinese Taipei",0,"H",3
+2017-04-05,"Singapore","Iran",0,"N",3
+2017-04-05,"Philippines","Iraq",4,"N",3
+2017-04-05,"Tajikistan","Bahrain",0,"H",3
+2017-04-05,"Vietnam","Syria",11,"H",3
+2017-04-05,"Jordan","United Arab Emirates",6,"N",3
+2017-04-07,"Uzbekistan","India",7,"N",3
+2017-04-07,"Korea DPR","Korea Republic",1,"H",3
+2017-04-07,"Myanmar","Syria",14,"N",3
+2017-04-07,"United Arab Emirates","Bahrain",1,"N",3
+2017-04-07,"Tajikistan","Philippines",0,"H",3
+2017-04-07,"Vietnam","Singapore",8,"H",3
+2017-04-07,"Thailand","Chinese Taipei",1,"N",3
+2017-04-07,"Jordan","Iraq",10,"N",3
+2017-04-09,"Hong Kong","Korea Republic",0,"N",3
+2017-04-09,"Korea DPR","Uzbekistan",4,"H",3
+2017-04-09,"Myanmar","Singapore",6,"N",3
+2017-04-09,"Vietnam","Iran",6,"H",3
+2017-04-10,"Iraq","United Arab Emirates",0,"N",3
+2017-04-10,"Tajikistan","Jordan",2,"H",3
+2017-04-10,"Philippines","Bahrain",1,"N",3
+2017-04-11,"India","Hong Kong",2,"N",3
+2017-04-11,"Korea Republic","Uzbekistan",4,"N",3
+2017-04-11,"Syria","Iran",0,"N",3
+2017-04-11,"Vietnam","Myanmar",2,"H",3
+2017-04-12,"Jordan","Philippines",5,"N",3
+2017-04-12,"Tajikistan","United Arab Emirates",0,"H",3
+2017-04-12,"Bahrain","Iraq",4,"N",3
+2017-04-05,"Wales","Northern Ireland",3,"H",1
+2017-04-05,"Hungary","Slovenia",2,"H",1
+2017-04-06,"Slovakia","Iceland",0,"H",1
+2017-04-06,"USA","Russia",4,"H",1
+2017-04-06,"China PR","Croatia",2,"H",1
+2017-04-06,"Cyprus","Bulgaria",0,"H",1
+2017-04-06,"Sweden","Canada",0,"H",2
+2017-04-07,"Netherlands","France",1,"H",1
+2017-04-07,"Poland","Finland",1,"H",1
+2017-04-07,"England","Italy",1,"H",1
+2017-04-08,"Belgium","Spain",1,"H",1
+2017-04-09,"China PR","Croatia",2,"H",1
+2017-04-09,"Japan","Costa Rica",3,"H",1
+2017-04-09,"Germany","Canada",2,"H",2
+2017-04-09,"USA","Russia",5,"H",1
+2017-04-09,"Brazil","Bolivia",6,"H",1
+2017-04-10,"Republic of Ireland","Slovakia",1,"H",1
+2017-04-10,"Norway","Switzerland",2,"H",1
+2017-04-10,"England","Austria",3,"H",1
+2017-04-11,"Belarus","Poland",0,"H",1
+2017-04-11,"Netherlands","Iceland",4,"H",1
+2017-04-11,"Denmark","Finland",5,"H",1
+2017-04-11,"Belgium","Scotland",5,"H",1
+2017-05-22,"Malaysia","Nepal",1,"H",1
+2017-05-24,"Malaysia","Nepal",4,"H",1
+2013-01-12,"Malta","Cyprus",1,"A",1
+2013-01-12,"Nepal","Kuwait",8,"A",1
+2013-01-12,"Canada","China PR",1,"A",1
+2013-01-12,"Korea Republic","Norway",0,"N",1
+2013-01-14,"Korea Republic","Canada",3,"N",1
+2013-01-14,"Norway","China PR",1,"A",1
+2013-01-15,"Wales","Greece",3,"A",1
+2013-01-16,"Korea Republic","China PR",0,"A",1
+2013-01-16,"Canada","Norway",0,"N",1
+2013-01-16,"Russia","Spain",1,"A",1
+2013-02-09,"Netherlands","Belgium",3,"A",1
+2013-02-09,"Scotland","USA",1,"A",1
+2013-02-11,"Jordan","Iran",1,"A",1
+2013-02-12,"Denmark","Spain",0,"A",1
+2013-02-13,"Greece","Cyprus",3,"A",1
+2013-02-13,"Jordan","Iran",0,"A",1
+2013-02-13,"Scotland","USA",1,"A",1
+2013-02-13,"Austria","Belgium",0,"A",1
+2013-02-13,"Germany","France",3,"A",2
+2013-02-14,"Russia","Finland",0,"A",1
+2013-02-16,"Lithuania","Latvia",2,"A",1
+2013-03-05,"Zimbabwe","Uruguay",3,"A",1
+2013-03-06,"Brazil","France",2,"A",2
+2013-03-06,"Panama","Guatemala",2,"N",1
+2013-03-06,"Belize","Costa Rica",0,"A",1
+2013-03-06,"El Salvador","Nicaragua",1,"N",1
+2013-03-06,"Norway","Japan",2,"N",1
+2013-03-06,"China PR","Sweden",1,"N",1
+2013-03-06,"Germany","Denmark",0,"N",1
+2013-03-06,"Iceland","USA",0,"N",1
+2013-03-06,"Mexico","Hungary",1,"N",1
+2013-03-06,"Republic of Ireland","Northern Ireland",5,"N",1
+2013-03-06,"Scotland","New Zealand",0,"N",1
+2013-03-06,"Switzerland","Canada",0,"N",1
+2013-03-06,"Korea Republic","South Africa",2,"N",1
+2013-03-06,"Italy","England",2,"N",1
+2013-03-06,"Finland","Netherlands",1,"N",1
+2013-03-06,"Wales","Portugal",0,"A",1
+2013-03-07,"Bosnia and Herzegovina","Russia",0,"N",1
+2013-03-07,"Czech Republic","Croatia",1,"A",1
+2013-03-08,"South Africa","Republic of Ireland",0,"N",1
+2013-03-08,"Bosnia and Herzegovina","Slovakia",4,"N",1
+2013-03-08,"Nicaragua","Costa Rica",0,"A",1
+2013-03-08,"Slovenia","Croatia",2,"A",1
+2013-03-08,"Honduras","Panama",2,"N",1
+2013-03-08,"Northern Ireland","Korea Republic",0,"N",1
+2013-03-08,"Japan","Germany",1,"N",2
+2013-03-08,"USA","China PR",5,"N",1
+2013-03-08,"Sweden","Iceland",6,"N",1
+2013-03-08,"Denmark","Norway",0,"N",1
+2013-03-08,"Belize","El Salvador",0,"N",1
+2013-03-08,"New Zealand","Italy",2,"N",1
+2013-03-08,"Netherlands","Switzerland",1,"N",1
+2013-03-08,"Canada","Finland",2,"N",1
+2013-03-08,"England","Scotland",4,"N",1
+2013-03-08,"Hungary","Portugal",2,"A",1
+2013-03-08,"Wales","Mexico",1,"N",1
+2013-03-09,"Slovakia","Russia",0,"N",1
+2013-03-09,"Brazil","France",1,"A",2
+2013-03-09,"Zimbabwe","Uruguay",2,"A",1
+2013-03-09,"Slovenia","Czech Republic",1,"N",1
+2013-03-10,"Guatemala","Honduras",6,"N",1
+2013-03-10,"El Salvador","Costa Rica",1,"A",1
+2013-03-10,"Nicaragua","Belize",2,"N",1
+2013-03-11,"Bosnia and Herzegovina","Slovenia",0,"N",1
+2013-03-11,"Czech Republic","Russia",0,"N",1
+2013-03-11,"Slovakia","Croatia",0,"A",1
+2013-03-11,"Northern Ireland","South Africa",1,"N",1
+2013-03-11,"Republic of Ireland","Korea Republic",0,"N",1
+2013-03-11,"Mexico","Portugal",3,"A",1
+2013-03-11,"Hungary","Wales",1,"N",1
+2013-03-11,"Japan","Denmark",2,"N",1
+2013-03-11,"Iceland","China PR",0,"N",1
+2013-03-11,"Norway","Germany",0,"N",1
+2013-03-11,"Scotland","Italy",2,"N",1
+2013-03-11,"New Zealand","England",1,"N",1
+2013-03-11,"USA","Sweden",1,"N",2
+2013-03-11,"Canada","Netherlands",1,"N",1
+2013-03-11,"Switzerland","Finland",3,"N",1
+2013-03-12,"Panama","Costa Rica",0,"A",1
+2013-03-12,"Nicaragua","Guatemala",2,"N",1
+2013-03-13,"Northern Ireland","South Africa",1,"N",1
+2013-03-13,"Italy","Korea Republic",1,"N",1
+2013-03-13,"Iceland","Hungary",4,"N",1
+2013-03-13,"USA","Germany",2,"N",2
+2013-03-13,"Finland","Republic of Ireland",1,"N",1
+2013-03-13,"Wales","Portugal",1,"A",1
+2013-03-13,"China PR","Japan",0,"N",1
+2013-03-13,"Sweden","Norway",2,"N",1
+2013-03-13,"Switzerland","New Zealand",1,"N",1
+2013-03-13,"Netherlands","Scotland",0,"N",1
+2013-03-13,"Denmark","Mexico",3,"N",1
+2013-03-13,"Canada","England",0,"N",2
+2013-03-14,"Guatemala","Panama",5,"N",1
+2013-03-15,"Nicaragua","Costa Rica",0,"A",1
+2013-03-20,"Estonia","Luxembourg",1,"A",1
+2013-03-30,"Estonia","Latvia",5,"A",1
+2013-04-04,"Albania","Malta",1,"A",3
+2013-04-04,"Latvia","Luxembourg",0,"N",3
+2013-04-04,"Montenegro","Faroe Islands",3,"N",3
+2013-04-04,"Georgia","Lithuania",4,"A",3
+2013-04-06,"Latvia","Albania",0,"N",3
+2013-04-06,"Luxembourg","Malta",0,"A",3
+2013-04-06,"Montenegro","Georgia",2,"N",3
+2013-04-06,"Faroe Islands","Lithuania",1,"A",3
+2013-04-09,"Albania","Luxembourg",2,"N",3
+2013-04-09,"Latvia","Malta",0,"A",3
+2013-04-09,"Georgia","Faroe Islands",1,"N",3
+2013-04-09,"Montenegro","Lithuania",1,"A",3
+2013-04-01,"Palestine","Jordan",0,"A",1
+2013-04-03,"Palestine","Jordan",2,"A",1
+2013-04-04,"Canada","France",1,"A",2
+2013-04-04,"Finland","Slovakia",0,"A",1
+2013-04-05,"USA","Germany",3,"A",2
+2013-04-05,"Netherlands","Denmark",1,"A",1
+2013-04-06,"Iceland","Sweden",0,"A",1
+2013-04-06,"Norway","Switzerland",1,"A",1
+2013-04-07,"Italy","Austria",3,"A",1
+2013-04-07,"Canada","England",0,"A",2
+2013-04-07,"Wales","Scotland",1,"A",1
+2013-04-07,"Finland","Slovakia",1,"A",1
+2013-04-07,"Swaziland","Mozambique",4,"A",1
+2013-04-08,"Russia","Denmark",1,"A",1
+2013-04-09,"USA","Netherlands",3,"A",1
+2013-04-17,"Hungary","Slovenia",4,"A",1
+2013-04-26,"Jordan","Vietnam",1,"A",1
+2013-04-28,"Jordan","Vietnam",0,"A",1
+2013-05-21,"Philippines","Iran",6,"N",3
+2013-05-21,"Thailand","Bangladesh",9,"A",3
+2013-05-21,"Chinese Taipei","Palestine",6,"A",3
+2013-05-21,"India","Myanmar",0,"N",3
+2013-05-22,"Vietnam","Bahrain",8,"A",3
+2013-05-22,"Kyrgyzstan","Hong Kong",1,"N",3
+2013-05-23,"Thailand","Philippines",1,"N",3
+2013-05-23,"Iran","Bangladesh",2,"A",3
+2013-05-23,"Myanmar","Palestine",9,"A",3
+2013-05-23,"Chinese Taipei","India",2,"N",3
+2013-05-24,"Hong Kong","Bahrain",3,"A",3
+2013-05-24,"Vietnam","Kyrgyzstan",12,"N",3
+2013-05-25,"Iran","Thailand",1,"N",3
+2013-05-25,"Philippines","Bangladesh",4,"A",3
+2013-05-25,"India","Palestine",1,"A",3
+2013-05-25,"Chinese Taipei","Myanmar",0,"N",3
+2013-05-26,"Hong Kong","Vietnam",0,"N",3
+2013-05-26,"Kyrgyzstan","Bahrain",1,"A",3
+2013-05-14,"India","Bahrain",2,"A",1
+2013-05-16,"Vietnam","Jordan",5,"A",1
+2013-05-16,"India","Bahrain",2,"A",1
+2013-05-18,"Vietnam","Jordan",2,"A",1
+2013-05-29,"FYR Macedonia","Albania",4,"A",1
+2013-06-01,"Scotland","Iceland",3,"A",1
+2013-06-01,"Finland","France",0,"A",1
+2013-06-01,"Norway","Sweden",1,"A",1
+2013-06-01,"Greece","Romania",0,"A",1
+2013-06-05,"Kuwait","Uzbekistan",0,"N",3
+2013-06-05,"Lebanon","Jordan",0,"A",3
+2013-06-07,"Uzbekistan","Lebanon",4,"N",3
+2013-06-07,"Kuwait","Jordan",0,"A",3
+2013-06-09,"Kuwait","Lebanon",1,"N",3
+2013-06-09,"Uzbekistan","Jordan",0,"A",3
+2013-06-01,"Scotland","Iceland",3,"A",1
+2013-06-01,"Finland","France",0,"A",1
+2013-06-01,"Norway","Sweden",1,"A",1
+2013-06-01,"Greece","Romania",0,"A",1
+2013-06-02,"USA","Canada",3,"A",2
+2013-06-02,"Ukraine","Belgium",0,"A",1
+2013-06-02,"Austria","Slovenia",3,"A",1
+2013-06-02,"Zimbabwe","Zambia",3,"A",1
+2013-06-09,"Mozambique","South Africa",0,"A",1
+2013-06-13,"New Zealand","Australia",0,"A",1
+2013-06-15,"Korea Republic","USA",1,"A",1
+2013-06-15,"Zimbabwe","South Africa",1,"A",1
+2013-06-15,"Scotland","Germany",0,"A",1
+2013-06-16,"New Zealand","Australia",1,"A",1
+2013-06-17,"Wales","Slovakia",2,"A",1
+2013-06-18,"Austria","Republic of Ireland",2,"A",1
+2013-06-19,"Romania","Serbia",2,"A",1
+2013-06-19,"Canada","Germany",0,"A",2
+2013-06-19,"Switzerland","Finland",2,"A",1
+2013-06-19,"Wales","Slovakia",1,"A",1
+2013-06-19,"Brazil","Sweden",1,"A",2
+2013-06-20,"Korea Republic","USA",0,"A",1
+2013-06-20,"Iceland","Denmark",0,"A",1
+2013-06-20,"New Zealand","Japan",1,"A",1
+2013-06-22,"Czech Republic","Poland",0,"A",1
+2013-06-22,"Ukraine","Russia",0,"A",1
+2013-06-25,"Qatar","Maldives",0,"A",1
+2013-06-26,"Japan","England",1,"A",2
+2013-06-27,"Qatar","Maldives",0,"A",1
+2013-06-27,"Lesotho","Namibia",1,"A",1
+2013-06-28,"Spain","Denmark",2,"A",1
+2013-06-29,"Japan","Germany",2,"A",2
+2013-06-29,"Norway","France",0,"A",1
+2013-06-29,"Lesotho","Namibia",3,"A",1
+2013-06-29,"Australia","Netherlands",1,"A",1
+2013-07-10,"Finland","Italy",0,"N",3
+2013-07-10,"Denmark","Sweden",1,"A",3
+2013-07-11,"Netherlands","Germany",0,"N",3
+2013-07-11,"Iceland","Norway",1,"N",3
+2013-07-12,"Spain","England",3,"N",3
+2013-07-12,"Russia","France",1,"N",3
+2013-07-13,"Denmark","Italy",1,"N",3
+2013-07-13,"Sweden","Finland",5,"H",3
+2013-07-14,"Germany","Iceland",3,"N",3
+2013-07-14,"Netherlands","Norway",0,"N",3
+2013-07-15,"Russia","England",1,"N",3
+2013-07-15,"France","Spain",1,"N",3
+2013-07-16,"Italy","Sweden",1,"A",3
+2013-07-16,"Finland","Denmark",1,"N",3
+2013-07-17,"Iceland","Netherlands",1,"N",3
+2013-07-17,"Norway","Germany",1,"N",3
+2013-07-18,"Spain","Russia",1,"N",3
+2013-07-18,"England","France",0,"N",3
+2013-07-21,"Iceland","Sweden",0,"A",3
+2013-07-21,"Germany","Italy",1,"N",3
+2013-07-22,"Spain","Norway",1,"N",3
+2013-07-22,"Denmark","France",1,"N",3
+2013-07-24,"Germany","Sweden",1,"A",3
+2013-07-25,"Denmark","Norway",1,"N",3
+2013-07-28,"Norway","Germany",0,"N",3
+2013-07-04,"England","Sweden",1,"A",2
+2013-07-05,"Russia","Norway",3,"A",1
+2013-07-06,"Australia","France",2,"A",2
+2013-07-11,"Malaysia","Thailand",2,"A",1
+2013-07-13,"Malaysia","Thailand",0,"A",1
+2013-07-20,"China PR","Japan",0,"N",1
+2013-07-21,"Korea DPR","Korea Republic",2,"A",1
+2013-07-24,"China PR","Korea Republic",2,"A",1
+2013-07-25,"Korea DPR","Japan",0,"N",2
+2013-07-27,"China PR","Korea DPR",0,"N",1
+2013-07-27,"Japan","Korea Republic",1,"A",1
+2013-08-14,"Belgium","Austria",1,"A",1
+2013-08-20,"Poland","Czech Republic",4,"N",1
+2013-08-20,"Slovakia","Hungary",3,"A",1
+2013-08-20,"Bulgaria","FYR Macedonia",4,"A",1
+2013-08-20,"Bosnia and Herzegovina","Slovenia",1,"A",1
+2013-08-21,"Scotland","Serbia",1,"A",1
+2013-08-22,"Bosnia and Herzegovina","Slovenia",3,"A",1
+2013-08-22,"Bulgaria","FYR Macedonia",5,"A",1
+2013-08-22,"Slovakia","Poland",1,"N",1
+2013-08-22,"Czech Republic","Hungary",3,"A",1
+2013-08-23,"Latvia","Lithuania",0,"A",1
+2013-08-24,"Latvia","Estonia",0,"N",1
+2013-08-25,"Estonia","Lithuania",4,"A",1
+2013-09-20,"Romania","FYR Macedonia",9,"A",3
+2013-09-20,"Italy","Estonia",5,"A",3
+2013-09-21,"Russia","Germany",0,"A",3
+2013-09-21,"Serbia","Switzerland",0,"A",3
+2013-09-21,"Poland","Sweden",0,"A",3
+2013-09-21,"Albania","Belgium",0,"A",3
+2013-09-21,"Belarus","England",0,"A",3
+2013-09-21,"Finland","Kazakhstan",2,"A",3
+2013-09-21,"Bulgaria","Austria",0,"A",3
+2013-09-22,"Slovakia","Republic of Ireland",0,"A",3
+2013-09-22,"Scotland","Faroe Islands",7,"A",3
+2013-09-25,"Belgium","Norway",1,"A",3
+2013-09-25,"France","Kazakhstan",4,"A",3
+2013-09-25,"Austria","Finland",1,"A",3
+2013-09-26,"Republic of Ireland","Croatia",1,"A",3
+2013-09-26,"Slovenia","Slovakia",3,"A",3
+2013-09-26,"Romania","Italy",0,"A",3
+2013-09-26,"Switzerland","Iceland",2,"A",3
+2013-09-26,"Faroe Islands","Poland",0,"A",3
+2013-09-26,"Bosnia and Herzegovina","Scotland",0,"A",3
+2013-09-26,"Netherlands","Albania",4,"A",3
+2013-09-26,"Portugal","Greece",5,"A",3
+2013-09-26,"Belarus","Wales",0,"A",3
+2013-09-26,"Turkey","England",0,"A",3
+2013-09-03,"Mexico","USA",0,"A",1
+2013-09-03,"Romania","Hungary",2,"A",1
+2013-09-03,"Jordan","Laos",5,"A",1
+2013-09-05,"Jordan","Laos",3,"A",1
+2013-09-05,"Romania","Hungary",1,"A",1
+2013-09-09,"Vietnam","Thailand",0,"N",1
+2013-09-09,"Malaysia","Jordan",0,"N",1
+2013-09-10,"Wales","Estonia",3,"A",1
+2013-09-10,"Laos","Myanmar",0,"A",1
+2013-09-10,"Philippines","Indonesia",6,"N",1
+2013-09-11,"Thailand","Jordan",4,"N",1
+2013-09-12,"Laos","Indonesia",2,"N",1
+2013-09-13,"Malaysia","Vietnam",0,"N",1
+2013-09-14,"Philippines","Myanmar",1,"A",1
+2013-09-15,"Vietnam","Jordan",4,"N",1
+2013-09-16,"Indonesia","Myanmar",0,"A",1
+2013-09-17,"Thailand","Malaysia",6,"N",1
+2013-09-18,"Laos","Philippines",2,"N",1
+2013-09-20,"Czech Republic","France",0,"A",1
+2013-09-22,"Nigeria","Japan",0,"A",1
+2013-09-22,"New Zealand","Brazil",1,"N",1
+2013-09-22,"Mexico","China PR",0,"N",1
+2013-09-22,"Vietnam","Myanmar",3,"A",1
+2013-09-25,"New Zealand","China PR",4,"N",1
+2013-09-25,"Brazil","Mexico",4,"N",1
+2013-09-25,"Denmark","Hungary",4,"A",1
+2013-09-26,"Nigeria","Japan",0,"A",1
+2013-09-28,"Swaziland","Namibia",0,"A",1
+2013-10-26,"Slovakia","Croatia",1,"A",3
+2013-10-26,"Germany","Slovenia",13,"A",3
+2013-10-26,"Czech Republic","FYR Macedonia",3,"A",3
+2013-10-26,"Denmark","Serbia",1,"A",3
+2013-10-26,"Sweden","Bosnia and Herzegovina",1,"A",3
+2013-10-26,"Northern Ireland","Scotland",0,"A",3
+2013-10-26,"Belgium","Greece",7,"A",3
+2013-10-26,"Albania","Norway",0,"A",3
+2013-10-26,"Netherlands","Portugal",7,"A",3
+2013-10-26,"Montenegro","Belarus",1,"A",3
+2013-10-26,"Wales","England",0,"A",3
+2013-10-26,"Kazakhstan","Bulgaria",1,"A",3
+2013-10-26,"Austria","Hungary",3,"A",3
+2013-10-27,"Estonia","Spain",0,"A",3
+2013-10-27,"Malta","Israel",0,"A",3
+2013-10-30,"Republic of Ireland","Slovenia",3,"A",3
+2013-10-30,"Croatia","Germany",0,"A",3
+2013-10-30,"Estonia","FYR Macedonia",2,"A",3
+2013-10-30,"Czech Republic","Romania",0,"A",3
+2013-10-30,"Bosnia and Herzegovina","Northern Ireland",0,"A",3
+2013-10-30,"Greece","Albania",0,"A",3
+2013-10-30,"Norway","Netherlands",2,"A",3
+2013-10-31,"Russia","Slovakia",2,"A",3
+2013-10-31,"Italy","Spain",0,"A",3
+2013-10-31,"Iceland","Serbia",2,"A",3
+2013-10-31,"Switzerland","Denmark",1,"A",3
+2013-10-31,"Scotland","Poland",4,"A",3
+2013-10-31,"Faroe Islands","Sweden",0,"A",3
+2013-10-31,"Portugal","Belgium",1,"A",3
+2013-10-31,"Ukraine","Montenegro",4,"A",3
+2013-10-31,"England","Turkey",4,"A",3
+2013-10-31,"Kazakhstan","Finland",0,"A",3
+2013-10-31,"Bulgaria","Hungary",0,"A",3
+2013-10-31,"France","Austria",3,"A",3
+2013-10-19,"Singapore","Malaysia",0,"A",1
+2013-10-20,"Australia","USA",0,"A",2
+2013-10-23,"Laos","Malaysia",2,"A",1
+2013-10-24,"Nepal","Qatar",6,"A",1
+2013-10-25,"Poland","France",0,"A",1
+2013-10-25,"Laos","Malaysia",0,"A",1
+2013-10-26,"Nepal","Qatar",3,"A",1
+2013-10-27,"New Zealand","USA",1,"A",1
+2013-10-30,"Korea Republic","Canada",0,"A",1
+2013-10-30,"New Zealand","USA",1,"A",1
+2013-11-01,"Zimbabwe","Lesotho",5,"A",1
+2013-11-23,"Germany","Slovakia",6,"A",3
+2013-11-23,"Romania","Spain",0,"A",3
+2013-11-23,"Poland","Northern Ireland",3,"A",3
+2013-11-23,"Greece","Netherlands",0,"A",3
+2013-11-23,"Wales","Montenegro",3,"A",3
+2013-11-23,"Kazakhstan","Hungary",1,"A",3
+2013-11-23,"France","Bulgaria",10,"A",3
+2013-11-24,"Denmark","Malta",5,"A",3
+2013-11-24,"Serbia","Israel",1,"A",3
+2013-11-27,"Germany","Croatia",8,"A",3
+2013-11-27,"Czech Republic","Spain",2,"A",3
+2013-11-28,"Montenegro","Turkey",1,"A",3
+2013-11-28,"Bulgaria","France",0,"A",3
+2013-11-01,"Zimbabwe","Lesotho",5,"A",1
+2013-11-03,"Zimbabwe","Lesotho",6,"A",1
+2013-11-03,"Bahrain","Qatar",4,"A",1
+2013-11-05,"Bahrain","Qatar",3,"A",1
+2013-11-10,"Brazil","USA",1,"A",2
+2013-11-24,"China PR","Australia",0,"A",1
+2013-11-24,"Mexico","Canada",0,"A",1
+2013-11-27,"China PR","Australia",1,"A",1
+2013-12-09,"Laos","Vietnam",0,"N",1
+2013-12-10,"Philippines","Myanmar",0,"A",1
+2013-12-12,"Malaysia","Laos",3,"N",1
+2013-12-12,"Chile","Brazil",0,"A",1
+2013-12-12,"Scotland","Canada",0,"N",1
+2013-12-13,"Vietnam","Philippines",7,"N",1
+2013-12-14,"Thailand","Malaysia",6,"N",1
+2013-12-15,"Vietnam","Myanmar",1,"A",1
+2013-12-15,"Scotland","Brazil",1,"A",1
+2013-12-15,"Canada","Chile",0,"N",1
+2013-12-16,"Laos","Thailand",0,"N",1
+2013-12-18,"Malaysia","Vietnam",0,"N",1
+2013-12-18,"Thailand","Myanmar",2,"A",1
+2013-12-18,"Canada","Brazil",0,"A",2
+2013-12-18,"Scotland","Chile",3,"N",1
+2013-12-20,"Vietnam","Thailand",1,"N",1
+2013-12-20,"Malaysia","Myanmar",0,"A",1
+2013-12-21,"Lesotho","Zimbabwe",0,"A",1
+2013-12-22,"Scotland","Canada",0,"N",1
+2013-12-22,"Chile","Brazil",0,"A",1
+2014-01-12,"Hong Kong","China PR",0,"A",1
+2014-01-14,"Senegal","Algeria",2,"A",1
+2014-01-14,"Switzerland","Portugal",2,"A",1
+2014-01-14,"Norway","Spain",2,"A",1
+2014-01-15,"Romania","Greece",4,"A",1
+2014-01-16,"Switzerland","Portugal",2,"A",1
+2014-01-17,"Norway","England",1,"N",1
+2014-01-17,"Senegal","Algeria",0,"A",1
+2014-01-22,"Zimbabwe","Egypt",2,"A",1
+2014-01-25,"Zimbabwe","Egypt",2,"A",1
+2014-01-31,"Canada","USA",0,"A",2
+2014-02-12,"Switzerland","Israel",5,"A",3
+2014-02-12,"Belgium","Netherlands",1,"A",3
+2014-02-12,"Albania","Portugal",1,"A",3
+2014-02-13,"Czech Republic","Italy",1,"A",3
+2014-02-13,"FYR Macedonia","Spain",0,"A",3
+2014-02-13,"Serbia","Malta",3,"A",3
+2014-02-13,"Norway","Greece",5,"A",3
+2014-02-13,"Ukraine","Turkey",1,"A",3
+2014-02-14,"Tanzania","Zambia",1,"A",3
+2014-02-14,"Morocco","Algeria",0,"A",3
+2014-02-14,"Zimbabwe","Botswana",1,"A",3
+2014-02-15,"Mali","C担te d'Ivoire",0,"A",3
+2014-02-16,"Tunisia","Egypt",3,"A",3
+2014-02-16,"Kenya","Rwanda",0,"A",3
+2014-02-16,"Ghana","Burkina Faso",3,"A",3
+2014-02-28,"C担te d'Ivoire","Mali",1,"A",3
+2014-02-28,"Zambia","Tanzania",1,"A",3
+2014-02-07,"Botswana","Swaziland",3,"A",1
+2014-02-08,"Botswana","Swaziland",3,"A",1
+2014-02-08,"Sweden","France",0,"A",2
+2014-02-08,"Poland","Belgium",0,"A",1
+2014-02-08,"Russia","USA",0,"A",1
+2014-02-11,"New Zealand","China PR",0,"A",1
+2014-02-11,"Mexico","Korea DPR",0,"N",1
+2014-02-12,"Poland","Luxembourg",12,"A",1
+2014-02-13,"Mexico","China PR",1,"A",1
+2014-02-13,"Korea DPR","New Zealand",1,"N",1
+2014-02-13,"Scotland","Finland",1,"A",1
+2014-02-15,"Korea DPR","China PR",0,"A",1
+2014-02-15,"New Zealand","Mexico",1,"N",1
+2014-03-15,"Venezuela","Costa Rica",3,"N",NA
+2014-03-15,"Zambia","Italy",0,"N",NA
+2014-03-15,"Canada","Germany",2,"N",NA
+2014-03-15,"Korea DPR","Ghana",0,"N",NA
+2014-03-16,"Paraguay","New Zealand",1,"N",NA
+2014-03-16,"Japan","Spain",2,"N",NA
+2014-03-16,"Colombia","Mexico",0,"N",NA
+2014-03-16,"Nigeria","China PR",2,"N",NA
+2014-03-18,"Italy","Costa Rica",1,"N",NA
+2014-03-18,"Zambia","Venezuela",0,"N",NA
+2014-03-18,"Canada","Korea DPR",1,"N",NA
+2014-03-18,"Germany","Ghana",0,"N",NA
+2014-03-19,"Japan","Paraguay",10,"N",NA
+2014-03-19,"Spain","New Zealand",3,"N",NA
+2014-03-19,"Nigeria","Colombia",2,"N",NA
+2014-03-19,"China PR","Mexico",0,"N",NA
+2014-03-22,"Italy","Venezuela",0,"N",NA
+2014-03-22,"Costa Rica","Zambia",1,"N",NA
+2014-03-22,"Germany","Korea DPR",3,"N",NA
+2014-03-22,"Ghana","Canada",1,"N",NA
+2014-03-23,"New Zealand","Japan",0,"N",NA
+2014-03-23,"Spain","Paraguay",7,"N",NA
+2014-03-23,"Mexico","Nigeria",0,"N",NA
+2014-03-23,"China PR","Colombia",3,"N",NA
+2014-03-27,"Spain","Nigeria",3,"N",NA
+2014-03-27,"Canada","Venezuela",2,"N",NA
+2014-03-27,"Italy","Ghana",2,"N",NA
+2014-03-27,"Mexico","Japan",0,"N",NA
+2014-03-31,"Spain","Italy",2,"N",NA
+2014-03-31,"Japan","Venezuela",4,"N",NA
+2014-03-01,"Burkina Faso","Ghana",0,"A",3
+2014-03-01,"Algeria","Morocco",0,"A",3
+2014-03-01,"Egypt","Tunisia",2,"A",3
+2014-03-02,"Rwanda","Kenya",1,"A",3
+2014-03-02,"Botswana","Zimbabwe",1,"A",3
+2014-03-01,"Latvia","Estonia",2,"A",1
+2014-03-03,"Estonia","Northern Ireland",0,"A",1
+2014-03-05,"Estonia","Northern Ireland",0,"A",1
+2014-03-05,"Republic of Ireland","New Zealand",1,"N",1
+2014-03-05,"Denmark","Sweden",0,"N",1
+2014-03-05,"Austria","Portugal",2,"A",1
+2014-03-05,"Iceland","Germany",0,"N",1
+2014-03-05,"USA","Japan",1,"N",2
+2014-03-05,"Korea Republic","Switzerland",1,"N",1
+2014-03-05,"Australia","Netherlands",2,"N",1
+2014-03-05,"Finland","Canada",0,"N",1
+2014-03-05,"Italy","England",0,"N",1
+2014-03-05,"Scotland","France",1,"N",1
+2014-03-05,"Korea DPR","Russia",2,"N",1
+2014-03-05,"China PR","Norway",1,"N",1
+2014-03-06,"Slovakia","Chinese Taipei",4,"N",1
+2014-03-06,"Slovenia","Bosnia and Herzegovina",2,"A",1
+2014-03-07,"New Zealand","Switzerland",1,"N",1
+2014-03-07,"Hungary","Croatia",2,"A",1
+2014-03-07,"Korea Republic","Republic of Ireland",1,"N",1
+2014-03-07,"Denmark","Japan",0,"N",1
+2014-03-07,"USA","Sweden",0,"N",2
+2014-03-07,"China PR","Germany",0,"N",1
+2014-03-07,"Russia","Portugal",3,"A",1
+2014-03-07,"Romania","Wales",1,"A",1
+2014-03-07,"England","Finland",3,"N",1
+2014-03-07,"Netherlands","Scotland",3,"N",1
+2014-03-07,"Iceland","Norway",2,"N",1
+2014-03-07,"France","Australia",3,"N",2
+2014-03-07,"Canada","Italy",3,"N",1
+2014-03-07,"Korea DPR","Austria",2,"N",1
+2014-03-08,"Slovakia","Belarus",2,"N",1
+2014-03-08,"Argentina","Chile",0,"A",1
+2014-03-08,"Venezuela","Colombia",1,"N",1
+2014-03-08,"Uruguay","Brazil",0,"N",1
+2014-03-08,"Liberia","Sierra Leone",0,"A",1
+2014-03-09,"Poland","Croatia",3,"A",1
+2014-03-09,"Romania","Wales",0,"A",1
+2014-03-10,"Germany","Norway",3,"N",2
+2014-03-10,"Sweden","Japan",1,"N",2
+2014-03-10,"Denmark","USA",5,"N",1
+2014-03-10,"Republic of Ireland","Switzerland",2,"N",1
+2014-03-10,"New Zealand","Korea Republic",0,"N",1
+2014-03-10,"Venezuela","Brazil",0,"N",1
+2014-03-10,"Chinese Taipei","Belarus",2,"N",1
+2014-03-10,"Bolivia","Argentina",0,"N",1
+2014-03-10,"Uruguay","Colombia",0,"N",1
+2014-03-10,"Finland","Italy",1,"N",1
+2014-03-10,"Canada","England",0,"N",1
+2014-03-10,"Scotland","Australia",4,"N",1
+2014-03-10,"France","Netherlands",3,"N",1
+2014-03-10,"Korea DPR","Portugal",2,"A",1
+2014-03-10,"Iceland","China PR",1,"N",1
+2014-03-10,"Russia","Austria",2,"N",1
+2014-03-11,"Hungary","Poland",4,"N",1
+2014-03-12,"Colombia","Brazil",1,"N",1
+2014-03-12,"Venezuela","Uruguay",4,"N",1
+2014-03-12,"Cyprus","Greece",0,"A",1
+2014-03-12,"Korea DPR","USA",0,"N",2
+2014-03-12,"Denmark","China PR",1,"N",1
+2014-03-12,"Austria","Portugal",2,"A",1
+2014-03-12,"Japan","Germany",0,"N",2
+2014-03-12,"Russia","Norway",1,"N",1
+2014-03-12,"Italy","Australia",2,"N",1
+2014-03-12,"Finland","New Zealand",0,"N",1
+2014-03-12,"Netherlands","Switzerland",4,"N",1
+2014-03-12,"Sweden","Iceland",1,"N",1
+2014-03-12,"Republic of Ireland","Canada",1,"N",1
+2014-03-12,"Scotland","Korea Republic",1,"N",1
+2014-03-12,"France","England",2,"N",1
+2014-03-12,"Bolivia","Chile",0,"A",1
+2014-03-14,"Argentina","Brazil",0,"N",1
+2014-03-14,"Venezuela","Chile",0,"A",1
+2014-03-16,"Argentina","Chile",2,"A",1
+2014-03-16,"Brazil","Venezuela",2,"N",1
+2014-03-21,"Ghana","Namibia",3,"A",1
+2014-03-25,"Ghana","Namibia",3,"A",1
+2014-03-30,"Ethiopia","Namibia",0,"A",1
+2014-04-04,"Italy","Venezuela",4,"N",NA
+2014-04-04,"Spain","Japan",0,"N",NA
+2014-04-04,"Wales","Turkey",5,"A",3
+2014-04-05,"Germany","Republic of Ireland",3,"A",3
+2014-04-05,"Slovenia","Russia",1,"A",3
+2014-04-05,"Spain","Italy",0,"A",3
+2014-04-05,"Iceland","Israel",1,"A",3
+2014-04-05,"Malta","Switzerland",0,"A",3
+2014-04-05,"Poland","Scotland",0,"A",3
+2014-04-05,"Bosnia and Herzegovina","Faroe Islands",1,"A",3
+2014-04-05,"Sweden","Northern Ireland",4,"A",3
+2014-04-05,"Belgium","Albania",6,"A",3
+2014-04-05,"Netherlands","Greece",6,"A",3
+2014-04-05,"Montenegro","England",0,"A",3
+2014-04-05,"Austria","Bulgaria",6,"A",3
+2014-04-05,"Finland","Hungary",4,"A",3
+2014-04-05,"Kazakhstan","France",0,"A",3
+2014-04-09,"Croatia","Russia",0,"A",3
+2014-04-09,"Greece","Portugal",0,"A",3
+2014-04-09,"Ukraine","Wales",1,"A",3
+2014-04-09,"Austria","France",1,"A",3
+2014-04-10,"Slovenia","Germany",0,"A",3
+2014-04-10,"Spain","FYR Macedonia",10,"A",3
+2014-04-10,"Italy","Romania",2,"A",3
+2014-04-10,"Iceland","Malta",8,"A",3
+2014-04-10,"Denmark","Switzerland",1,"A",3
+2014-04-10,"Scotland","Bosnia and Herzegovina",3,"A",3
+2014-04-10,"Northern Ireland","Faroe Islands",0,"A",3
+2014-04-10,"Albania","Netherlands",1,"A",3
+2014-04-10,"Norway","Belgium",2,"A",3
+2014-04-10,"Belarus","Montenegro",7,"A",3
+2014-04-10,"Hungary","Finland",0,"A",3
+2014-04-26,"Estonia","Czech Republic",0,"A",3
+2014-04-06,"China PR","USA",0,"A",1
+2014-04-06,"Cameroon","Ethiopia",0,"A",1
+2014-04-06,"Brazil","Australia",1,"A",1
+2014-04-08,"Cyprus","Luxembourg",4,"A",1
+2014-04-09,"Brazil","Australia",1,"A",1
+2014-04-10,"China PR","USA",0,"A",1
+2014-04-12,"Zimbabwe","South Africa",2,"A",1
+2014-04-15,"Qatar","Palestine",0,"N",1
+2014-04-15,"Bahrain","Jordan",0,"A",1
+2014-04-17,"Qatar","Jordan",0,"A",1
+2014-04-17,"Palestine","Bahrain",4,"N",1
+2014-04-19,"Palestine","Jordan",0,"A",1
+2014-04-19,"Qatar","Bahrain",2,"N",1
+2014-04-29,"Cameroon","Nigeria",0,"A",1
+2014-04-30,"C担te d'Ivoire","Algeria",3,"A",1
+2014-05-07,"Russia","Republic of Ireland",3,"A",3
+2014-05-07,"Romania","Czech Republic",0,"A",3
+2014-05-07,"Israel","Malta",2,"A",3
+2014-05-07,"Portugal","Norway",0,"A",3
+2014-05-07,"Netherlands","Belgium",2,"A",3
+2014-05-07,"Turkey","Belarus",2,"A",3
+2014-05-07,"Bulgaria","Kazakhstan",1,"A",3
+2014-05-07,"Hungary","France",0,"A",3
+2014-05-08,"Croatia","Slovenia",3,"A",3
+2014-05-08,"Slovakia","Germany",1,"A",3
+2014-05-08,"Italy","FYR Macedonia",11,"A",3
+2014-05-08,"Spain","Estonia",5,"A",3
+2014-05-08,"Iceland","Switzerland",0,"A",3
+2014-05-08,"Serbia","Denmark",1,"A",3
+2014-05-08,"Poland","Faroe Islands",3,"A",3
+2014-05-08,"Northern Ireland","Sweden",0,"A",3
+2014-05-08,"Montenegro","Wales",0,"A",3
+2014-05-08,"Ukraine","England",0,"A",3
+2014-05-14,"Jordan","Vietnam",1,"A",3
+2014-05-14,"Japan","Australia",2,"N",3
+2014-05-15,"Korea Republic","Myanmar",12,"N",3
+2014-05-15,"Thailand","China PR",0,"N",3
+2014-05-16,"Jordan","Australia",1,"N",3
+2014-05-16,"Japan","Vietnam",4,"A",3
+2014-05-17,"Myanmar","China PR",0,"N",3
+2014-05-17,"Thailand","Korea Republic",0,"N",3
+2014-05-18,"Australia","Vietnam",2,"A",3
+2014-05-18,"Jordan","Japan",0,"N",3
+2014-05-19,"Thailand","Myanmar",2,"N",3
+2014-05-19,"Korea Republic","China PR",0,"N",3
+2014-05-21,"Thailand","Vietnam",2,"A",3
+2014-05-22,"China PR","Japan",1,"N",3
+2014-05-22,"Australia","Korea Republic",2,"N",3
+2014-05-25,"Korea Republic","China PR",1,"N",3
+2014-05-25,"Australia","Japan",0,"N",3
+2014-05-23,"South Africa","Comoros",13,"A",3
+2014-05-23,"Equatorial Guinea","C担te d'Ivoire",1,"A",3
+2014-05-23,"Tunisia","Algeria",1,"A",3
+2014-05-24,"Nigeria","Rwanda",4,"A",3
+2014-05-24,"Cameroon","Senegal",1,"A",3
+2014-05-25,"Zambia","Zimbabwe",1,"A",3
+2014-05-25,"Ghana","Ethiopia",2,"A",3
+2014-05-20,"Belize","Honduras",0,"N",3
+2014-05-20,"Panama","Guatemala",0,"A",3
+2014-05-20,"El Salvador","Nicaragua",2,"N",3
+2014-05-22,"Panama","Belize",13,"N",3
+2014-05-22,"Honduras","Guatemala",2,"A",3
+2014-05-22,"Costa Rica","El Salvador",4,"N",3
+2014-05-23,"St. Vincent / Grenadines","Aruba",2,"N",3
+2014-05-23,"US Virgin Islands","Antigua and Barbuda",0,"A",3
+2014-05-23,"Barbados","Martinique",1,"N",3
+2014-05-23,"St. Kitts and Nevis","Cayman Islands",5,"N",3
+2014-05-23,"Bermuda","Turks and Caicos Islands",5,"A",3
+2014-05-24,"Honduras","Panama",1,"N",3
+2014-05-24,"Belize","Guatemala",0,"A",3
+2014-05-24,"Nicaragua","Costa Rica",0,"N",3
+2014-05-25,"US Virgin Islands","St. Vincent / Grenadines",0,"N",3
+2014-05-25,"Aruba","Antigua and Barbuda",0,"A",3
+2014-05-25,"Barbados","Puerto Rico",0,"A",3
+2014-05-25,"Cayman Islands","Bermuda",2,"N",3
+2014-05-25,"St. Kitts and Nevis","Turks and Caicos Islands",4,"A",3
+2014-05-26,"Costa Rica","Guatemala",3,"A",3
+2014-05-27,"Aruba","US Virgin Islands",0,"N",3
+2014-05-27,"St. Vincent / Grenadines","Antigua and Barbuda",0,"A",3
+2014-05-27,"Martinique","Puerto Rico",1,"A",3
+2014-05-27,"Bermuda","St. Kitts and Nevis",3,"N",3
+2014-05-27,"Cayman Islands","Turks and Caicos Islands",3,"A",3
+2014-05-30,"Suriname","Cuba",0,"N",3
+2014-06-01,"Suriname","Haiti",0,"A",3
+2014-05-03,"C担te d'Ivoire","Algeria",2,"A",1
+2014-05-05,"Hong Kong","China PR",0,"A",1
+2014-05-08,"New Zealand","Japan",1,"A",1
+2014-05-08,"USA","Canada",1,"A",2
+2014-05-08,"Vietnam","Korea Republic",0,"A",1
+2014-05-09,"Chinese Taipei","China PR",0,"A",1
+2014-05-10,"Guatemala","El Salvador",1,"A",1
+2014-05-13,"Rwanda","Zambia",0,"A",1
+2014-05-17,"El Salvador","Guatemala",1,"A",1
+2014-06-14,"Croatia","Republic of Ireland",0,"A",3
+2014-06-14,"Russia","Slovenia",2,"A",3
+2014-06-14,"Italy","Czech Republic",4,"A",3
+2014-06-14,"Israel","Switzerland",0,"A",3
+2014-06-14,"Malta","Serbia",0,"A",3
+2014-06-14,"Northern Ireland","Bosnia and Herzegovina",0,"A",3
+2014-06-14,"Sweden","Scotland",3,"A",3
+2014-06-14,"Greece","Norway",0,"A",3
+2014-06-14,"Portugal","Albania",3,"A",3
+2014-06-14,"England","Belarus",3,"A",3
+2014-06-14,"Turkey","Wales",0,"A",3
+2014-06-14,"Montenegro","Ukraine",0,"A",3
+2014-06-14,"Hungary","Kazakhstan",2,"A",3
+2014-06-14,"Finland","Austria",1,"A",3
+2014-06-15,"FYR Macedonia","Estonia",1,"A",3
+2014-06-15,"Iceland","Denmark",1,"A",3
+2014-06-18,"FYR Macedonia","Czech Republic",2,"A",3
+2014-06-18,"Poland","Bosnia and Herzegovina",1,"A",3
+2014-06-18,"Norway","Portugal",2,"A",3
+2014-06-18,"Bulgaria","Finland",0,"A",3
+2014-06-19,"Republic of Ireland","Russia",0,"A",3
+2014-06-19,"Croatia","Slovakia",1,"A",3
+2014-06-19,"Romania","Estonia",2,"A",3
+2014-06-19,"Denmark","Israel",5,"A",3
+2014-06-19,"Switzerland","Serbia",7,"A",3
+2014-06-19,"Malta","Iceland",0,"A",3
+2014-06-19,"Sweden","Faroe Islands",5,"A",3
+2014-06-19,"Scotland","Northern Ireland",2,"A",3
+2014-06-19,"Wales","Belarus",3,"A",3
+2014-06-19,"Turkey","Montenegro",3,"A",3
+2014-06-19,"England","Ukraine",2,"A",3
+2014-06-19,"Austria","Kazakhstan",3,"A",3
+2014-06-07,"C担te d'Ivoire","Equatorial Guinea",2,"A",3
+2014-06-07,"Rwanda","Nigeria",0,"A",3
+2014-06-08,"Zimbabwe","Zambia",0,"A",3
+2014-06-08,"Senegal","Cameroon",0,"A",3
+2014-06-08,"Algeria","Tunisia",3,"A",3
+2014-06-08,"Ethiopia","Ghana",0,"A",3
+2014-06-01,"Suriname","Haiti",0,"A",3
+2014-06-03,"Cuba","Haiti",0,"A",3
+2014-06-18,"St. Lucia","Dominican Republic",0,"A",3
+2014-06-20,"St. Lucia","Jamaica",0,"N",3
+2014-06-22,"Jamaica","Dominican Republic",7,"A",3
+2014-06-06,"Latvia","Lithuania",0,"A",1
+2014-06-07,"Latvia","Estonia",0,"N",1
+2014-06-07,"Botswana","South Africa",0,"A",1
+2014-06-08,"Estonia","Lithuania",3,"A",1
+2014-06-11,"Brazil","France",0,"N",2
+2014-06-14,"France","USA",0,"A",2
+2014-06-16,"Brazil","New Zealand",1,"A",1
+2014-06-18,"Germany","Canada",2,"A",2
+2014-06-19,"France","USA",2,"A",2
+2014-06-19,"Brazil","New Zealand",0,"A",1
+2014-07-02,"Luxembourg","Andorra",4,"N",1
+2014-07-05,"South Africa","Namibia",2,"A",1
+2014-07-06,"Venezuela","Trinidad and Tobago",0,"A",1
+2014-07-08,"Venezuela","Trinidad and Tobago",2,"A",1
+2014-07-11,"South Africa","Zimbabwe",0,"A",1
+2014-07-16,"Estonia","Poland",1,"A",1
+2014-07-22,"Macau","Guam",0,"A",1
+2014-07-23,"Hungary","Romania",1,"A",1
+2014-07-27,"Thailand","Myanmar",0,"A",1
+2014-08-14,"Venezuela","Papua New Guinea",7,"N",NA
+2014-08-14,"Mexico","China PR",0,"A",NA
+2014-08-17,"Slovakia","Venezuela",2,"N",NA
+2014-08-17,"Namibia","Mexico",0,"N",NA
+2014-08-20,"Papua New Guinea","Slovakia",0,"N",NA
+2014-08-20,"China PR","Namibia",10,"H",NA
+2014-08-23,"Mexico","Venezuela",1,"N",NA
+2014-08-23,"Slovakia","China PR",0,"A",NA
+2014-08-25,"Namibia","Papua New Guinea",2,"N",NA
+2014-08-26,"China PR","Venezuela",5,"H",NA
+2014-08-26,"Slovakia","Mexico",1,"N",NA
+2014-08-05,"Ghana","Canada",1,"N",NA
+2014-08-05,"Korea DPR","Finland",2,"N",NA
+2014-08-05,"Brazil","China PR",1,"N",NA
+2014-08-05,"USA","Germany",0,"N",NA
+2014-08-06,"Korea Republic","England",1,"N",NA
+2014-08-06,"Nigeria","Mexico",1,"N",NA
+2014-08-06,"Paraguay","New Zealand",0,"N",NA
+2014-08-06,"Costa Rica","France",1,"N",NA
+2014-08-08,"Finland","Canada",2,"N",NA
+2014-08-08,"Korea DPR","Ghana",3,"N",NA
+2014-08-08,"Brazil","USA",0,"N",NA
+2014-08-08,"China PR","Germany",5,"N",NA
+2014-08-09,"Mexico","England",1,"N",NA
+2014-08-09,"Nigeria","Korea Republic",2,"N",NA
+2014-08-09,"Costa Rica","Paraguay",1,"N",NA
+2014-08-09,"France","New Zealand",4,"N",NA
+2014-08-12,"Canada","Korea DPR",1,"N",NA
+2014-08-12,"Finland","Ghana",1,"N",NA
+2014-08-12,"Germany","Brazil",5,"N",NA
+2014-08-12,"China PR","USA",0,"N",NA
+2014-08-13,"England","Nigeria",1,"N",NA
+2014-08-13,"Mexico","Korea Republic",1,"N",NA
+2014-08-13,"New Zealand","Costa Rica",3,"N",NA
+2014-08-13,"France","Paraguay",3,"N",NA
+2014-08-16,"Canada","Germany",0,"N",NA
+2014-08-16,"USA","Korea DPR",1,"N",NA
+2014-08-17,"New Zealand","Nigeria",1,"N",NA
+2014-08-17,"Korea Republic","France",0,"N",NA
+2014-08-20,"Nigeria","Korea DPR",6,"N",NA
+2014-08-20,"France","Germany",1,"N",NA
+2014-08-24,"France","Korea DPR",3,"N",NA
+2014-08-24,"Germany","Nigeria",1,"N",NA
+2014-08-02,"Belarus","Ukraine",0,"A",3
+2014-08-20,"Slovenia","Republic of Ireland",0,"A",3
+2014-08-20,"Czech Republic","Estonia",4,"A",3
+2014-08-20,"Faroe Islands","Bosnia and Herzegovina",0,"A",3
+2014-08-20,"Ukraine","Belarus",3,"A",3
+2014-08-20,"France","Hungary",4,"A",3
+2014-08-21,"Slovakia","Russia",1,"A",3
+2014-08-21,"FYR Macedonia","Romania",1,"A",3
+2014-08-21,"Israel","Serbia",0,"A",3
+2014-08-21,"Denmark","Iceland",1,"A",3
+2014-08-21,"Sweden","Poland",4,"A",3
+2014-08-21,"England","Wales",4,"A",3
+2014-08-21,"Finland","Bulgaria",8,"A",3
+2014-08-19,"Puerto Rico","Jamaica",1,"N",3
+2014-08-19,"Bermuda","Haiti",1,"N",3
+2014-08-20,"St. Kitts and Nevis","Trinidad and Tobago",0,"A",3
+2014-08-21,"Jamaica","Bermuda",9,"N",3
+2014-08-21,"Haiti","Puerto Rico",4,"N",3
+2014-08-22,"Antigua and Barbuda","Trinidad and Tobago",0,"A",3
+2014-08-23,"Bermuda","Puerto Rico",1,"N",3
+2014-08-23,"Jamaica","Haiti",2,"N",3
+2014-08-24,"St. Kitts and Nevis","Antigua and Barbuda",2,"N",3
+2014-08-26,"Jamaica","Trinidad and Tobago",0,"A",3
+2014-08-03,"Wales","Scotland",1,"A",1
+2014-08-03,"Sweden","England",0,"A",2
+2014-08-10,"Namibia","South Africa",0,"A",1
+2014-08-20,"Brazil","Netherlands",0,"A",1
+2014-08-20,"Switzerland","USA",1,"A",1
+2014-08-20,"Botswana","Namibia",2,"A",1
+2014-08-24,"South Africa","Zambia",4,"A",1
+2014-08-28,"Jordan","Egypt",0,"A",1
+2014-08-30,"Hong Kong","Chinese Taipei",0,"A",1
+2014-08-31,"Jordan","Egypt",2,"A",1
+2014-08-31,"Tanzania","South Africa",1,"A",1
+2014-09-13,"Germany","Russia",4,"A",3
+2014-09-13,"Republic of Ireland","Slovakia",1,"A",3
+2014-09-13,"Slovenia","Croatia",0,"A",3
+2014-09-13,"Spain","Romania",2,"A",3
+2014-09-13,"Estonia","Italy",0,"A",3
+2014-09-13,"Malta","Denmark",0,"A",3
+2014-09-13,"Israel","Iceland",0,"A",3
+2014-09-13,"Bosnia and Herzegovina","Sweden",0,"A",3
+2014-09-13,"Northern Ireland","Poland",0,"A",3
+2014-09-13,"Faroe Islands","Scotland",0,"A",3
+2014-09-13,"Norway","Albania",11,"A",3
+2014-09-13,"Greece","Belgium",0,"A",3
+2014-09-13,"Portugal","Netherlands",2,"A",3
+2014-09-13,"Turkey","Ukraine",0,"A",3
+2014-09-13,"France","Finland",2,"A",3
+2014-09-13,"Hungary","Austria",3,"A",3
+2014-09-17,"Slovakia","Slovenia",1,"A",3
+2014-09-17,"Republic of Ireland","Germany",0,"A",3
+2014-09-17,"Russia","Croatia",3,"A",3
+2014-09-17,"FYR Macedonia","Italy",0,"A",3
+2014-09-17,"Spain","Czech Republic",1,"A",3
+2014-09-17,"Switzerland","Malta",5,"A",3
+2014-09-17,"Israel","Denmark",1,"A",3
+2014-09-17,"Serbia","Iceland",1,"A",3
+2014-09-17,"Scotland","Sweden",0,"A",3
+2014-09-17,"Bosnia and Herzegovina","Poland",1,"A",3
+2014-09-17,"Faroe Islands","Northern Ireland",0,"A",3
+2014-09-17,"Albania","Greece",0,"A",3
+2014-09-17,"Netherlands","Norway",2,"A",3
+2014-09-17,"Belgium","Portugal",1,"A",3
+2014-09-17,"Belarus","Turkey",0,"A",3
+2014-09-17,"Wales","Ukraine",0,"A",3
+2014-09-17,"England","Montenegro",10,"A",3
+2014-09-17,"Hungary","Bulgaria",7,"A",3
+2014-09-17,"Kazakhstan","Austria",1,"A",3
+2014-09-17,"Finland","France",1,"A",3
+2014-09-11,"Peru","Ecuador",0,"A",3
+2014-09-11,"Venezuela","Uruguay",3,"N",3
+2014-09-12,"Bolivia","Brazil",0,"N",3
+2014-09-12,"Chile","Argentina",1,"N",3
+2014-09-13,"Uruguay","Colombia",0,"N",3
+2014-09-13,"Venezuela","Ecuador",0,"A",3
+2014-09-14,"Argentina","Bolivia",6,"N",3
+2014-09-14,"Brazil","Paraguay",4,"N",3
+2014-09-15,"Peru","Uruguay",1,"N",3
+2014-09-15,"Venezuela","Colombia",1,"N",3
+2014-09-16,"Paraguay","Argentina",0,"N",3
+2014-09-16,"Bolivia","Chile",0,"N",3
+2014-09-17,"Peru","Venezuela",0,"N",3
+2014-09-17,"Colombia","Ecuador",1,"A",3
+2014-09-18,"Brazil","Chile",2,"N",3
+2014-09-18,"Paraguay","Bolivia",10,"N",3
+2014-09-19,"Uruguay","Ecuador",2,"A",3
+2014-09-19,"Peru","Colombia",0,"N",3
+2014-09-20,"Chile","Paraguay",2,"N",3
+2014-09-20,"Argentina","Brazil",2,"N",3
+2014-09-24,"Argentina","Colombia",0,"N",3
+2014-09-24,"Ecuador","Brazil",0,"H",3
+2014-09-26,"Ecuador","Colombia",1,"H",3
+2014-09-26,"Argentina","Brazil",0,"N",3
+2014-09-28,"Ecuador","Argentina",3,"H",3
+2014-09-28,"Brazil","Colombia",0,"N",3
+2014-09-05,"Vietnam","China PR",0,"A",1
+2014-09-07,"Bolivia","Ecuador",2,"A",1
+2014-09-09,"Thailand","China PR",2,"A",1
+2014-09-13,"Botswana","South Africa",0,"A",1
+2014-09-13,"Ghana","Japan",0,"A",1
+2014-09-13,"Mexico","USA",0,"A",1
+2014-09-14,"US Virgin Islands","British Virgin Islands",3,"A",1
+2014-09-14,"Maldives","India",0,"N",1
+2014-09-14,"Thailand","Korea Republic",0,"A",1
+2014-09-15,"Chinese Taipei","Jordan",2,"N",1
+2014-09-15,"China PR","Japan",0,"N",1
+2014-09-16,"Vietnam","Korea DPR",0,"N",1
+2014-09-17,"Maldives","Thailand",0,"N",1
+2014-09-17,"India","Korea Republic",0,"A",1
+2014-09-18,"Chinese Taipei","China PR",0,"N",1
+2014-09-18,"Jordan","Japan",0,"N",1
+2014-09-18,"Mexico","USA",0,"A",1
+2014-09-20,"Korea DPR","Hong Kong",5,"N",1
+2014-09-21,"India","Thailand",0,"N",1
+2014-09-21,"Maldives","Korea Republic",0,"A",1
+2014-09-22,"Japan","Chinese Taipei",3,"N",1
+2014-09-22,"Jordan","China PR",0,"N",1
+2014-09-23,"Hong Kong","Vietnam",0,"N",1
+2014-09-24,"C担te d'Ivoire","South Africa",1,"A",1
+2014-09-26,"Hong Kong","Japan",0,"N",1
+2014-09-26,"China PR","Korea DPR",0,"N",1
+2014-09-26,"Vietnam","Thailand",2,"N",1
+2014-09-26,"Chinese Taipei","Korea Republic",0,"A",1
+2014-09-29,"Japan","Vietnam",3,"N",1
+2014-09-29,"Korea DPR","Korea Republic",2,"A",1
+2014-10-25,"Ukraine","Italy",1,"A",3
+2014-10-25,"Netherlands","Scotland",2,"A",3
+2014-10-29,"Italy","Ukraine",2,"A",3
+2014-10-30,"Scotland","Netherlands",0,"A",3
+2014-10-11,"Zambia","Namibia",0,"A",3
+2014-10-11,"C担te d'Ivoire","Nigeria",2,"N",3
+2014-10-12,"Cameroon","South Africa",1,"N",3
+2014-10-12,"Ghana","Algeria",0,"N",3
+2014-10-14,"Nigeria","Zambia",6,"N",3
+2014-10-14,"C担te d'Ivoire","Namibia",3,"A",3
+2014-10-15,"Algeria","Cameroon",0,"N",3
+2014-10-15,"South Africa","Ghana",1,"N",3
+2014-10-17,"C担te d'Ivoire","Zambia",1,"N",3
+2014-10-17,"Nigeria","Namibia",2,"A",3
+2014-10-18,"Algeria","South Africa",1,"N",3
+2014-10-18,"Ghana","Cameroon",1,"N",3
+2014-10-22,"South Africa","Nigeria",1,"N",3
+2014-10-22,"C担te d'Ivoire","Cameroon",1,"N",3
+2014-10-25,"C担te d'Ivoire","South Africa",1,"N",3
+2014-10-25,"Cameroon","Nigeria",0,"N",3
+2014-10-15,"Trinidad and Tobago","USA",0,"A",3
+2014-10-15,"Haiti","Guatemala",1,"N",3
+2014-10-16,"Mexico","Costa Rica",0,"N",3
+2014-10-17,"Guatemala","USA",0,"A",3
+2014-10-17,"Trinidad and Tobago","Haiti",1,"N",3
+2014-10-18,"Jamaica","Costa Rica",1,"N",3
+2014-10-20,"Guatemala","Trinidad and Tobago",1,"N",3
+2014-10-20,"Haiti","USA",0,"A",3
+2014-10-21,"Jamaica","Mexico",1,"N",3
+2014-10-24,"Trinidad and Tobago","Costa Rica",1,"N",3
+2014-10-24,"Mexico","USA",0,"A",3
+2014-10-26,"Mexico","Trinidad and Tobago",4,"N",3
+2014-10-26,"Costa Rica","USA",0,"A",3
+2014-10-25,"Tonga","New Zealand",0,"N",3
+2014-10-25,"Cook Islands","Papua New Guinea",1,"A",3
+2014-10-27,"Cook Islands","Tonga",1,"N",3
+2014-10-27,"New Zealand","Papua New Guinea",3,"A",3
+2014-10-29,"New Zealand","Cook Islands",11,"N",3
+2014-10-29,"Tonga","Papua New Guinea",0,"A",3
+2014-10-01,"Cameroon","Zambia",2,"A",1
+2014-10-01,"Vietnam","Korea Republic",0,"A",1
+2014-10-01,"Korea DPR","Japan",3,"N",1
+2014-10-04,"Cameroon","Zambia",0,"A",1
+2014-10-04,"Algeria","Namibia",1,"A",1
+2014-10-23,"Pakistan","Bahrain",0,"A",1
+2014-10-25,"France","Germany",2,"A",2
+2014-10-25,"Japan","Canada",3,"A",2
+2014-10-26,"Pakistan","Bahrain",1,"A",1
+2014-10-28,"Poland","Czech Republic",1,"A",1
+2014-10-28,"Japan","Canada",3,"A",2
+2014-10-29,"Lithuania","Luxembourg",0,"A",1
+2014-10-29,"Pakistan","Bahrain",1,"A",1
+2014-10-29,"Germany","Sweden",2,"A",2
+2014-10-30,"Slovakia","Poland",1,"A",1
+2014-11-22,"Italy","Netherlands",1,"A",3
+2014-11-27,"Netherlands","Italy",2,"A",3
+2014-11-08,"Trinidad and Tobago","Ecuador",0,"A",3
+2014-11-11,"Sri Lanka","Pakistan",2,"A",1
+2014-11-12,"Korea Republic","Guam",15,"N",1
+2014-11-12,"Hong Kong","Chinese Taipei",0,"A",1
+2014-11-12,"Bhutan","Nepal",0,"N",1
+2014-11-13,"Maldives","India",0,"N",1
+2014-11-13,"Bangladesh","Afghanistan",6,"N",1
+2014-11-14,"Sri Lanka","Bhutan",3,"N",1
+2014-11-14,"Nepal","Pakistan",2,"A",1
+2014-11-15,"Hong Kong","Korea Republic",0,"N",1
+2014-11-15,"Afghanistan","Maldives",0,"N",1
+2014-11-15,"Guam","Chinese Taipei",0,"A",1
+2014-11-15,"India","Bangladesh",5,"N",1
+2014-11-16,"Sri Lanka","Nepal",0,"N",1
+2014-11-16,"Bhutan","Pakistan",1,"A",1
+2014-11-17,"Afghanistan","India",0,"N",1
+2014-11-17,"Maldives","Bangladesh",1,"N",1
+2014-11-17,"Trinidad and Tobago","Haiti",1,"N",1
+2014-11-17,"Colombia","Mexico",1,"A",1
+2014-11-18,"Guam","Hong Kong",0,"N",1
+2014-11-18,"Korea Republic","Chinese Taipei",2,"A",1
+2014-11-18,"Dominican Republic","Nicaragua",0,"N",1
+2014-11-18,"Venezuela","Costa Rica",1,"N",1
+2014-11-19,"Colombia","Haiti",3,"N",1
+2014-11-19,"Sri Lanka","India",0,"N",1
+2014-11-19,"Bangladesh","Nepal",0,"N",1
+2014-11-19,"Trinidad and Tobago","Mexico",0,"A",1
+2014-11-20,"Dominican Republic","Venezuela",2,"N",1
+2014-11-20,"Costa Rica","Nicaragua",3,"N",1
+2014-11-21,"Nepal","India",0,"N",1
+2014-11-21,"Trinidad and Tobago","Colombia",0,"N",1
+2014-11-21,"Haiti","Mexico",0,"A",1
+2014-11-22,"Belgium","Poland",4,"A",1
+2014-11-22,"Nicaragua","Venezuela",0,"N",1
+2014-11-22,"New Zealand","France",1,"A",1
+2014-11-22,"Dominican Republic","Costa Rica",1,"N",1
+2014-11-23,"Bosnia and Herzegovina","Serbia",0,"A",1
+2014-11-23,"Germany","England",3,"A",2
+2014-11-24,"Canada","Sweden",1,"N",2
+2014-11-25,"New Zealand","Norway",1,"A",1
+2014-11-25,"Venezuela","Colombia",0,"N",1
+2014-11-25,"Costa Rica","Mexico",0,"A",1
+2014-11-26,"FYR Macedonia","Hungary",0,"A",1
+2014-11-26,"Brazil","France",0,"A",2
+2014-11-26,"Canada","Sweden",1,"N",2
+2014-11-27,"New Zealand","Norway",0,"A",1
+2014-11-27,"Colombia","Mexico",0,"A",1
+2014-11-27,"Costa Rica","Venezuela",3,"N",1
+2014-12-02,"Ecuador","Trinidad and Tobago",1,"A",3
+2014-12-10,"Argentina","Brazil",0,"A",1
+2014-12-10,"China PR","USA",1,"N",1
+2014-12-11,"Luxembourg","Cyprus",2,"A",1
+2014-12-14,"Argentina","China PR",0,"N",1
+2014-12-14,"USA","Brazil",2,"A",2
+2014-12-18,"China PR","Brazil",1,"A",1
+2014-12-18,"Argentina","USA",0,"N",1
+2014-12-21,"Argentina","China PR",0,"N",1
+2014-12-21,"USA","Brazil",0,"A",2
+2014-12-23,"Grenada","Barbados",1,"A",1
+2015-01-11,"Dominica","Barbados",1,"A",1
+2015-01-11,"Korea Republic","Canada",1,"N",1
+2015-01-11,"Mexico","China PR",0,"A",1
+2015-01-12,"New Zealand","Denmark",1,"N",1
+2015-01-13,"Mexico","Canada",1,"N",1
+2015-01-13,"Korea Republic","China PR",3,"A",1
+2015-01-15,"Mexico","Korea Republic",1,"N",1
+2015-01-15,"Canada","China PR",2,"A",1
+2015-01-15,"New Zealand","Denmark",3,"N",1
+2015-02-05,"Ecuador","Mexico",0,"A",1
+2015-02-06,"Latvia","Estonia",0,"A",1
+2015-02-07,"Thailand","Netherlands",0,"A",1
+2015-02-07,"Ecuador","Mexico",0,"A",1
+2015-02-08,"Uzbekistan","Iran",1,"A",1
+2015-02-08,"Korea DPR","New Zealand",1,"A",1
+2015-02-08,"Scotland","Northern Ireland",4,"A",1
+2015-02-08,"USA","France",0,"A",2
+2015-02-10,"Australia","Korea DPR",2,"N",2
+2015-02-10,"Austria","Spain",2,"A",1
+2015-02-10,"Switzerland","Portugal",1,"A",1
+2015-02-11,"Belgium","Spain",1,"A",1
+2015-02-11,"Poland","Hungary",7,"A",1
+2015-02-12,"Australia","New Zealand",3,"A",1
+2015-02-12,"Switzerland","Portugal",0,"A",1
+2015-02-12,"Sweden","Finland",3,"A",1
+2015-02-13,"USA","England",1,"A",2
+2015-02-22,"Botswana","Madagascar",3,"A",1
+2015-02-23,"Hong Kong","Bahrain",4,"A",1
+2015-02-24,"Georgia","Turkey",2,"A",1
+2015-02-26,"Georgia","Turkey",0,"A",1
+2015-03-11,"Palestine","Uzbekistan",0,"N",3
+2015-03-11,"Myanmar","Sri Lanka",16,"H",3
+2015-03-11,"Hong Kong","Jordan",0,"A",3
+2015-03-13,"Uzbekistan","Hong Kong",1,"N",3
+2015-03-13,"Sri Lanka","India",0,"N",3
+2015-03-13,"Jordan","Palestine",6,"H",3
+2015-03-15,"Palestine","Hong Kong",2,"N",3
+2015-03-15,"India","Myanmar",0,"A",3
+2015-03-15,"Jordan","Uzbekistan",2,"H",3
+2015-03-20,"Chinese Taipei","Laos",4,"H",3
+2015-03-22,"Laos","Iran",1,"N",3
+2015-03-24,"Iran","Chinese Taipei",0,"A",3
+2015-03-01,"Egypt","Kenya",1,"A",1
+2015-03-04,"Northern Ireland","Poland",0,"N",1
+2015-03-04,"Bosnia and Herzegovina","Costa Rica",0,"N",1
+2015-03-04,"Hungary","Republic of Ireland",1,"N",1
+2015-03-04,"Italy","Korea Republic",2,"N",1
+2015-03-04,"England","Finland",3,"N",1
+2015-03-04,"South Africa","Mexico",0,"N",1
+2015-03-04,"Slovakia","Austria",1,"N",1
+2015-03-04,"Romania","Croatia",0,"A",1
+2015-03-04,"Iceland","Switzerland",0,"N",1
+2015-03-04,"Denmark","Japan",2,"N",1
+2015-03-04,"Canada","Scotland",2,"N",1
+2015-03-04,"Australia","Netherlands",1,"N",1
+2015-03-04,"China PR","Brazil",0,"N",1
+2015-03-04,"Belgium","Czech Republic",2,"N",1
+2015-03-04,"Sweden","Germany",4,"N",2
+2015-03-04,"France","Portugal",1,"A",1
+2015-03-04,"USA","Norway",2,"N",1
+2015-03-05,"New Zealand","Spain",0,"A",1
+2015-03-06,"Poland","Croatia",0,"A",1
+2015-03-06,"Wales","Bosnia and Herzegovina",0,"N",1
+2015-03-06,"Romania","Northern Ireland",1,"N",1
+2015-03-06,"Republic of Ireland","Slovakia",0,"N",1
+2015-03-06,"Japan","Portugal",3,"A",1
+2015-03-06,"Korea Republic","Canada",0,"N",1
+2015-03-06,"Netherlands","Finland",0,"N",1
+2015-03-06,"Brazil","Sweden",2,"N",2
+2015-03-06,"South Africa","Belgium",1,"N",1
+2015-03-06,"China PR","Germany",0,"N",1
+2015-03-06,"Hungary","Austria",0,"N",1
+2015-03-06,"Denmark","France",1,"N",1
+2015-03-06,"England","Australia",3,"N",2
+2015-03-06,"Scotland","Italy",2,"N",1
+2015-03-06,"Mexico","Czech Republic",1,"N",1
+2015-03-06,"Madagascar","Botswana",1,"A",1
+2015-03-06,"Switzerland","USA",0,"N",1
+2015-03-06,"Iceland","Norway",0,"N",1
+2015-03-09,"Slovakia","Hungary",3,"N",1
+2015-03-09,"Poland","Romania",2,"N",1
+2015-03-09,"England","Netherlands",1,"N",1
+2015-03-09,"Canada","Italy",1,"N",1
+2015-03-09,"Czech Republic","South Africa",1,"N",1
+2015-03-09,"Northern Ireland","Croatia",1,"A",1
+2015-03-09,"Costa Rica","Wales",0,"N",1
+2015-03-09,"Austria","Republic of Ireland",2,"N",1
+2015-03-09,"Denmark","Portugal",2,"A",1
+2015-03-09,"France","Japan",3,"N",2
+2015-03-09,"Korea Republic","Scotland",1,"N",1
+2015-03-09,"Finland","Australia",0,"N",1
+2015-03-09,"Belgium","Mexico",0,"N",1
+2015-03-09,"Iceland","USA",0,"N",1
+2015-03-09,"China PR","Sweden",0,"N",1
+2015-03-09,"Switzerland","Norway",2,"N",1
+2015-03-09,"Germany","Brazil",3,"N",2
+2015-03-11,"South Africa","Finland",1,"N",1
+2015-03-11,"Belgium","Korea Republic",1,"N",1
+2015-03-11,"Netherlands","Scotland",1,"N",1
+2015-03-11,"Republic of Ireland","Costa Rica",2,"N",1
+2015-03-11,"Romania","Hungary",1,"N",1
+2015-03-11,"Bosnia and Herzegovina","Northern Ireland",0,"N",1
+2015-03-11,"Mexico","Italy",3,"N",1
+2015-03-11,"Iceland","Japan",0,"N",1
+2015-03-11,"Germany","Sweden",2,"N",2
+2015-03-11,"Czech Republic","Australia",2,"N",1
+2015-03-11,"Wales","Croatia",1,"A",1
+2015-03-11,"Poland","Slovakia",2,"N",1
+2015-03-11,"Switzerland","Brazil",1,"N",1
+2015-03-11,"USA","France",2,"N",2
+2015-03-11,"China PR","Portugal",3,"A",1
+2015-03-11,"England","Canada",1,"N",2
+2015-03-11,"Denmark","Norway",2,"N",1
+2015-03-12,"Lebanon","Greece",0,"N",1
+2015-03-12,"United Arab Emirates","Latvia",0,"N",1
+2015-03-12,"Bahrain","Cyprus",0,"A",1
+2015-03-12,"Papua New Guinea","Thailand",1,"A",1
+2015-03-13,"Lebanon","Latvia",0,"N",1
+2015-03-13,"United Arab Emirates","Greece",0,"N",1
+2015-03-13,"Malta","Cyprus",1,"A",1
+2015-03-14,"Papua New Guinea","Thailand",0,"A",1
+2015-03-15,"Malta","Bahrain",1,"N",1
+2015-03-15,"United Arab Emirates","Lebanon",3,"N",1
+2015-03-15,"Latvia","Greece",1,"N",1
+2015-03-17,"Venezuela","Colombia",0,"A",1
+2015-03-18,"Lebanon","Bahrain",1,"N",1
+2015-03-18,"Malta","Latvia",2,"N",1
+2015-03-18,"Greece","Cyprus",2,"A",1
+2015-03-19,"Venezuela","Colombia",1,"A",1
+2015-03-21,"Nigeria","Mali",1,"A",1
+2015-03-21,"Cameroon","Ethiopia",2,"A",1
+2015-03-21,"Swaziland","Namibia",2,"A",1
+2015-03-21,"Senegal","Egypt",0,"A",1
+2015-03-21,"South Africa","Botswana",1,"A",1
+2015-03-21,"Zimbabwe","Ghana",1,"A",1
+2015-03-22,"Tanzania","Zambia",4,"A",1
+2015-03-24,"Albania","Luxembourg",2,"A",1
+2015-04-04,"Faroe Islands","Georgia",0,"N",2
+2015-04-04,"Latvia","Luxembourg",3,"N",2
+2015-04-04,"Andorra","Malta",3,"A",2
+2015-04-04,"Lithuania","Moldova",0,"A",2
+2015-04-06,"Andorra","Faroe Islands",0,"N",2
+2015-04-06,"Luxembourg","Lithuania",0,"N",2
+2015-04-06,"Georgia","Malta",1,"A",2
+2015-04-06,"Latvia","Moldova",1,"A",2
+2015-04-09,"Georgia","Andorra",7,"N",2
+2015-04-09,"Faroe Islands","Malta",4,"A",2
+2015-04-09,"Lithuania","Latvia",1,"N",2
+2015-04-09,"Luxembourg","Moldova",0,"A",2
+2015-04-04,"Netherlands","Iceland",1,"A",1
+2015-04-04,"New Zealand","USA",0,"A",1
+2015-04-05,"Russia","Korea Republic",0,"A",1
+2015-04-05,"Switzerland","Sweden",3,"A",1
+2015-04-06,"Poland","Finland",3,"A",1
+2015-04-07,"Australia","Austria",1,"A",1
+2015-04-08,"Russia","Korea Republic",0,"A",1
+2015-04-08,"Denmark","Sweden",3,"A",1
+2015-04-08,"Netherlands","Norway",3,"A",1
+2015-04-08,"Brazil","Germany",0,"A",2
+2015-04-08,"Republic of Ireland","Spain",0,"A",1
+2015-04-08,"Slovakia","Wales",2,"A",1
+2015-04-09,"Australia","Scotland",1,"A",1
+2015-04-09,"China PR","England",1,"A",1
+2015-04-10,"Mali","Nigeria",0,"A",1
+2015-04-10,"Zambia","Tanzania",3,"A",1
+2015-04-11,"Ethiopia","Cameroon",1,"A",1
+2015-04-11,"Egypt","Senegal",2,"A",1
+2015-04-11,"Botswana","South Africa",0,"A",1
+2015-04-11,"Colombia","Ecuador",4,"A",1
+2015-04-12,"Ghana","Zimbabwe",2,"A",1
+2015-04-15,"Ecuador","Colombia",1,"A",1
+2015-04-18,"Malaysia","Thailand",0,"A",1
+2015-04-28,"Montenegro","FYR Macedonia",7,"A",1
+2015-04-29,"Montenegro","FYR Macedonia",7,"A",1
+2015-05-22,"Kenya","Botswana",1,"A",3
+2015-05-23,"Equatorial Guinea","Congo",3,"A",3
+2015-05-23,"South Africa","Gabon",3,"A",3
+2015-05-23,"Ghana","Egypt",1,"A",3
+2015-05-24,"Zimbabwe","Zambia",1,"A",3
+2015-05-31,"Botswana","Kenya",0,"A",3
+2015-05-31,"Gabon","South Africa",0,"A",3
+2015-05-31,"Zambia","Zimbabwe",0,"A",3
+2015-05-31,"Congo","Equatorial Guinea",0,"A",3
+2015-05-31,"Egypt","Ghana",0,"A",3
+2015-05-01,"Laos","Indonesia",2,"N",1
+2015-05-02,"Philippines","Malaysia",3,"N",1
+2015-05-02,"Myanmar","Vietnam",2,"A",1
+2015-05-03,"Thailand","Indonesia",10,"N",1
+2015-05-04,"Philippines","Myanmar",1,"N",1
+2015-05-04,"Malaysia","Vietnam",0,"A",1
+2015-05-05,"Thailand","Laos",12,"N",1
+2015-05-06,"Malaysia","Myanmar",0,"N",1
+2015-05-06,"Philippines","Vietnam",0,"A",1
+2015-05-08,"Thailand","Vietnam",2,"A",1
+2015-05-10,"Thailand","Myanmar",3,"N",1
+2015-05-10,"Cameroon","C担te d'Ivoire",3,"A",1
+2015-05-10,"Republic of Ireland","USA",0,"A",1
+2015-05-17,"Mexico","USA",1,"A",1
+2015-05-19,"Vietnam","Australia",0,"A",1
+2015-05-20,"Estonia","Netherlands",0,"A",1
+2015-05-21,"Vietnam","Australia",0,"A",1
+2015-05-22,"Kyrgyzstan","Bahrain",0,"A",1
+2015-05-22,"Russia","France",1,"A",1
+2015-05-23,"Norway","Belgium",2,"A",1
+2015-05-24,"New Zealand","Japan",0,"A",1
+2015-05-25,"Costa Rica","Mexico",1,"A",1
+2015-05-25,"Kyrgyzstan","Bahrain",0,"A",1
+2015-05-27,"Germany","Switzerland",3,"A",1
+2015-05-28,"Costa Rica","Mexico",0,"A",1
+2015-05-28,"Italy","Japan",0,"A",1
+2015-05-28,"Scotland","France",0,"A",1
+2015-05-29,"Finland","Norway",0,"A",1
+2015-05-29,"England","Canada",0,"N",2
+2015-05-30,"Netherlands","Sweden",1,"N",1
+2015-05-30,"Korea Republic","USA",0,"A",1
+2015-06-06,"Netherlands","New Zealand",1,"N",4
+2015-06-06,"China PR","Canada",0,"A",4
+2015-06-07,"Thailand","Norway",0,"N",4
+2015-06-07,"C担te d'Ivoire","Germany",0,"N",4
+2015-06-08,"Switzerland","Japan",0,"N",4
+2015-06-08,"Ecuador","Cameroon",0,"N",4
+2015-06-08,"Nigeria","Sweden",3,"N",4
+2015-06-08,"Australia","USA",1,"N",4
+2015-06-09,"Costa Rica","Spain",1,"N",4
+2015-06-09,"Korea Republic","Brazil",0,"N",4
+2015-06-09,"England","France",0,"N",4
+2015-06-09,"Mexico","Colombia",1,"N",4
+2015-06-11,"New Zealand","Canada",0,"A",4
+2015-06-11,"Netherlands","China PR",0,"N",4
+2015-06-11,"Norway","Germany",1,"N",4
+2015-06-11,"Thailand","C担te d'Ivoire",3,"N",4
+2015-06-12,"Cameroon","Japan",1,"N",4
+2015-06-12,"Ecuador","Switzerland",1,"N",4
+2015-06-12,"Sweden","USA",0,"N",4
+2015-06-12,"Nigeria","Australia",0,"N",4
+2015-06-13,"Spain","Brazil",0,"N",4
+2015-06-13,"Costa Rica","Korea Republic",2,"N",4
+2015-06-13,"Colombia","France",2,"N",4
+2015-06-13,"Mexico","England",1,"N",4
+2015-06-15,"Canada","Netherlands",1,"H",4
+2015-06-15,"New Zealand","China PR",2,"N",4
+2015-06-15,"Norway","C担te d'Ivoire",3,"N",4
+2015-06-15,"Germany","Thailand",4,"N",4
+2015-06-16,"Japan","Ecuador",1,"N",4
+2015-06-16,"Cameroon","Switzerland",2,"N",4
+2015-06-16,"Sweden","Australia",1,"N",4
+2015-06-16,"USA","Nigeria",1,"N",4
+2015-06-17,"Spain","Korea Republic",1,"N",4
+2015-06-17,"Brazil","Costa Rica",1,"N",4
+2015-06-17,"France","Mexico",5,"N",4
+2015-06-17,"Colombia","England",1,"N",4
+2015-06-20,"Sweden","Germany",1,"N",4
+2015-06-20,"Cameroon","China PR",0,"N",4
+2015-06-21,"Australia","Brazil",1,"N",4
+2015-06-21,"Korea Republic","France",0,"N",4
+2015-06-21,"Switzerland","Canada",0,"A",4
+2015-06-22,"Colombia","USA",0,"N",4
+2015-06-22,"England","Norway",2,"N",4
+2015-06-23,"Netherlands","Japan",1,"N",4
+2015-06-26,"France","Germany",1,"N",4
+2015-06-26,"USA","China PR",1,"N",4
+2015-06-27,"Japan","Australia",1,"N",4
+2015-06-27,"Canada","England",1,"H",4
+2015-06-30,"Germany","USA",0,"N",4
+2015-06-02,"Croatia","Bosnia and Herzegovina",1,"A",1
+2015-06-04,"Bosnia and Herzegovina","Croatia",1,"A",1
+2015-06-11,"Slovenia","Hungary",1,"N",1
+2015-06-23,"Romania","Serbia",0,"A",1
+2015-06-25,"Romania","Serbia",1,"A",1
+2015-06-25,"Albania","Montenegro",0,"A",1
+2015-07-01,"England","Japan",1,"N",4
+2015-07-04,"England","Germany",1,"N",4
+2015-07-05,"Japan","USA",2,"N",4
+2015-07-18,"Kenya","South Africa",0,"A",3
+2015-07-18,"Ghana","Cameroon",1,"A",3
+2015-07-18,"Equatorial Guinea","Nigeria",1,"A",3
+2015-07-06,"Fiji","Papua New Guinea",1,"A",3
+2015-07-06,"New Caledonia","Solomon Islands",8,"N",3
+2015-07-06,"Samoa","Tonga",1,"N",3
+2015-07-08,"Tonga","Solomon Islands",2,"N",3
+2015-07-08,"Cook Islands","Fiji",1,"N",3
+2015-07-08,"Samoa","New Caledonia",2,"N",3
+2015-07-11,"Cook Islands","Papua New Guinea",0,"A",3
+2015-07-11,"Tonga","New Caledonia",0,"N",3
+2015-07-11,"Solomon Islands","Samoa",1,"N",3
+2015-07-13,"Samoa","Papua New Guinea",0,"A",3
+2015-07-13,"Cook Islands","New Caledonia",1,"N",3
+2015-07-16,"New Caledonia","Papua New Guinea",0,"A",3
+2015-07-16,"Samoa","Cook Islands",0,"N",3
+2015-08-01,"Cameroon","Ghana",2,"A",3
+2015-08-02,"South Africa","Kenya",1,"A",3
+2015-08-02,"Nigeria","Equatorial Guinea",1,"A",3
+2015-08-21,"Grenada","Puerto Rico",0,"A",3
+2015-08-21,"Guyana","St. Kitts and Nevis",8,"N",3
+2015-08-21,"Haiti","Aruba",14,"N",3
+2015-08-21,"Dominica","Dominican Republic",0,"A",3
+2015-08-23,"Cuba","Guyana",1,"N",3
+2015-08-23,"Grenada","Haiti",0,"N",3
+2015-08-23,"Jamaica","Dominican Republic",6,"A",3
+2015-08-23,"Aruba","Puerto Rico",0,"A",3
+2015-08-25,"Haiti","Puerto Rico",2,"A",3
+2015-08-25,"Cuba","St. Kitts and Nevis",6,"N",3
+2015-08-25,"Aruba","Grenada",0,"N",3
+2015-08-25,"Jamaica","Dominica",13,"N",3
+2015-08-01,"Chinese Taipei","Vietnam",2,"A",1
+2015-08-01,"Slovakia","Hungary",4,"A",1
+2015-08-01,"Belarus","Poland",2,"N",1
+2015-08-01,"Japan","Korea DPR",2,"N",2
+2015-08-01,"Korea Republic","China PR",1,"A",1
+2015-08-03,"Slovakia","Poland",1,"N",1
+2015-08-03,"Belarus","Hungary",0,"A",1
+2015-08-04,"Chinese Taipei","Vietnam",0,"A",1
+2015-08-04,"Korea Republic","Japan",2,"N",1
+2015-08-04,"Korea DPR","China PR",3,"A",1
+2015-08-05,"United Arab Emirates","Slovakia",0,"A",1
+2015-08-07,"United Arab Emirates","Slovakia",0,"A",1
+2015-08-08,"Korea DPR","Korea Republic",2,"N",1
+2015-08-08,"Japan","China PR",2,"A",1
+2015-08-16,"Costa Rica","USA",0,"A",1
+2015-08-19,"Costa Rica","USA",2,"A",1
+2015-08-19,"Turkey","Albania",0,"A",1
+2015-08-21,"Turkey","Albania",1,"A",1
+2015-08-23,"Kenya","Tanzania",1,"A",1
+2015-08-24,"Morocco","Jordan",1,"A",1
+2015-08-26,"Morocco","Jordan",2,"A",1
+2015-08-27,"Moldova","Romania",0,"A",1
+2015-08-27,"Slovenia","Serbia",1,"A",1
+2015-08-28,"Latvia","Estonia",0,"A",1
+2015-08-29,"Lithuania","Latvia",3,"N",1
+2015-08-30,"Lithuania","Estonia",1,"A",1
+2015-08-31,"Albania","Croatia",1,"A",1
+2015-09-14,"Vietnam","Chinese Taipei",0,"N",3
+2015-09-14,"Myanmar","Jordan",2,"H",3
+2015-09-16,"Chinese Taipei","Jordan",3,"N",3
+2015-09-16,"Thailand","Myanmar",2,"A",3
+2015-09-18,"Jordan","Thailand",0,"N",3
+2015-09-18,"Myanmar","Vietnam",2,"H",3
+2015-09-20,"Jordan","Vietnam",1,"N",3
+2015-09-20,"Thailand","Chinese Taipei",0,"N",3
+2015-09-22,"Vietnam","Thailand",2,"N",3
+2015-09-22,"Chinese Taipei","Myanmar",1,"A",3
+2015-09-17,"Austria","Kazakhstan",2,"A",2
+2015-09-17,"Sweden","Moldova",3,"A",2
+2015-09-17,"Croatia","Turkey",4,"A",2
+2015-09-17,"Montenegro","Finland",0,"A",2
+2015-09-17,"Serbia","Estonia",1,"A",2
+2015-09-18,"Hungary","Germany",0,"A",2
+2015-09-18,"Georgia","Italy",1,"A",2
+2015-09-21,"England","Estonia",8,"A",2
+2015-09-21,"Finland","Republic of Ireland",2,"A",2
+2015-09-22,"Norway","Kazakhstan",4,"A",2
+2015-09-22,"Scotland","Slovenia",3,"A",2
+2015-09-22,"Czech Republic","Georgia",3,"A",2
+2015-09-22,"Wales","Austria",0,"A",2
+2015-09-22,"Poland","Sweden",0,"A",2
+2015-09-22,"Germany","Croatia",1,"A",2
+2015-09-22,"Belarus","Iceland",0,"A",2
+2015-09-22,"Bosnia and Herzegovina","Belgium",0,"A",2
+2015-09-22,"Romania","France",0,"A",2
+2015-09-30,"El Salvador","Nicaragua",1,"A",3
+2015-09-30,"Costa Rica","Guatemala",2,"N",3
+2015-09-02,"Albania","Croatia",1,"A",1
+2015-09-06,"C担te d'Ivoire","Tanzania",1,"N",1
+2015-09-06,"Nigeria","Congo",5,"A",1
+2015-09-07,"South Africa","Cameroon",1,"N",1
+2015-09-09,"Tanzania","Nigeria",0,"N",1
+2015-09-09,"C担te d'Ivoire","Congo",1,"A",1
+2015-09-10,"Ghana","South Africa",0,"N",1
+2015-09-12,"C担te d'Ivoire","Nigeria",2,"N",1
+2015-09-12,"Tanzania","Congo",1,"A",1
+2015-09-13,"Ghana","Cameroon",1,"N",1
+2015-09-15,"Ghana","C担te d'Ivoire",1,"N",1
+2015-09-15,"Nigeria","Cameroon",1,"N",1
+2015-09-16,"Poland","Belgium",0,"A",1
+2015-09-17,"Denmark","Romania",2,"A",1
+2015-09-17,"Nigeria","C担te d'Ivoire",1,"N",1
+2015-09-17,"Slovakia","Iceland",1,"A",1
+2015-09-17,"Belarus","Netherlands",0,"A",1
+2015-09-17,"Norway","Scotland",4,"A",1
+2015-09-17,"Haiti","USA",0,"A",1
+2015-09-18,"Spain","China PR",3,"A",1
+2015-09-18,"Cameroon","Ghana",0,"N",1
+2015-09-19,"Ukraine","Portugal",1,"A",1
+2015-09-19,"Brazil","France",1,"A",2
+2015-09-20,"Haiti","USA",0,"A",1
+2015-09-21,"Spain","China PR",2,"A",1
+2015-09-21,"Ukraine","Portugal",2,"A",1
+2015-09-22,"Denmark","Switzerland",1,"A",1
+2015-10-03,"Equatorial Guinea","South Africa",0,"A",3
+2015-10-03,"Zimbabwe","Cameroon",1,"A",3
+2015-10-18,"Cameroon","Zimbabwe",0,"A",3
+2015-10-18,"South Africa","Equatorial Guinea",1,"A",3
+2015-10-19,"Belarus","Slovenia",0,"A",2
+2015-10-21,"Turkey","Hungary",0,"A",2
+2015-10-22,"Kazakhstan","Israel",0,"A",2
+2015-10-22,"Iceland","FYR Macedonia",4,"A",2
+2015-10-22,"Greece","Albania",4,"A",2
+2015-10-22,"Russia","Germany",0,"A",2
+2015-10-22,"Slovakia","Poland",0,"A",2
+2015-10-22,"Romania","Ukraine",2,"A",2
+2015-10-22,"Moldova","Denmark",0,"A",2
+2015-10-23,"Estonia","Bosnia and Herzegovina",0,"A",2
+2015-10-23,"Wales","Norway",0,"A",2
+2015-10-23,"Belarus","Scotland",0,"A",2
+2015-10-24,"Switzerland","Italy",3,"A",2
+2015-10-24,"Northern Ireland","Georgia",3,"A",2
+2015-10-25,"Austria","Israel",1,"A",2
+2015-10-25,"Turkey","Germany",0,"A",2
+2015-10-25,"Hungary","Croatia",1,"A",2
+2015-10-26,"Moldova","Slovakia",0,"A",2
+2015-10-26,"Iceland","Slovenia",6,"A",2
+2015-10-27,"Albania","Romania",0,"A",2
+2015-10-27,"Scotland","FYR Macedonia",4,"A",2
+2015-10-27,"Belgium","Bosnia and Herzegovina",5,"A",2
+2015-10-27,"Estonia","Serbia",0,"A",2
+2015-10-27,"Republic of Ireland","Portugal",2,"A",2
+2015-10-27,"Spain","Finland",2,"A",2
+2015-10-27,"Georgia","Switzerland",0,"A",2
+2015-10-27,"Denmark","Sweden",0,"A",2
+2015-10-27,"Italy","Czech Republic",3,"A",2
+2015-10-27,"France","Ukraine",3,"A",2
+2015-10-02,"Guatemala","Nicaragua",2,"A",3
+2015-10-02,"El Salvador","Costa Rica",0,"N",3
+2015-10-04,"Costa Rica","Nicaragua",5,"A",3
+2015-10-04,"Guatemala","El Salvador",2,"N",3
+2015-10-13,"Malta","Estonia",1,"A",1
+2015-10-15,"Malta","Estonia",3,"A",1
+2015-10-21,"Brazil","USA",1,"A",2
+2015-10-23,"England","China PR",1,"A",1
+2015-10-23,"Netherlands","France",2,"A",1
+2015-10-25,"Australia","China PR",1,"A",1
+2015-10-25,"Brazil","USA",1,"A",2
+2015-10-27,"Australia","England",0,"N",2
+2015-11-25,"Russia","Turkey",0,"A",2
+2015-11-25,"Bosnia and Herzegovina","Serbia",1,"A",2
+2015-11-26,"Belarus","FYR Macedonia",2,"A",2
+2015-11-26,"Spain","Republic of Ireland",3,"A",2
+2015-11-26,"Kazakhstan","Wales",0,"A",2
+2015-11-26,"Montenegro","Portugal",1,"A",2
+2015-11-26,"Denmark","Slovakia",1,"A",2
+2015-11-27,"Poland","Moldova",3,"A",2
+2015-11-27,"Romania","Greece",3,"A",2
+2015-11-27,"Switzerland","Northern Ireland",8,"A",2
+2015-11-27,"France","Albania",6,"A",2
+2015-11-29,"Russia","Hungary",1,"A",2
+2015-11-29,"FYR Macedonia","Scotland",0,"A",2
+2015-11-29,"Bosnia and Herzegovina","England",0,"A",2
+2015-11-30,"Serbia","Belgium",1,"A",2
+2015-11-30,"Turkey","Croatia",0,"A",2
+2015-11-13,"St. Lucia","Trinidad and Tobago",0,"A",3
+2015-11-15,"Trinidad and Tobago","St. Lucia",8,"H",3
+2015-11-18,"Guyana","Puerto Rico",0,"N",3
+2015-11-18,"Jamaica","Trinidad and Tobago",1,"A",3
+2015-11-20,"Jamaica","Guyana",1,"N",3
+2015-11-20,"Puerto Rico","Trinidad and Tobago",0,"A",3
+2015-11-07,"Malawi","Tanzania",0,"A",1
+2015-11-26,"England","Germany",0,"A",2
+2015-11-28,"New Zealand","Brazil",1,"A",1
+2015-11-29,"Australia","Korea Republic",1,"A",1
+2015-11-29,"Japan","Netherlands",1,"A",1
+2015-12-01,"Portugal","Spain",0,"A",2
+2015-12-01,"France","Greece",3,"A",2
+2015-12-01,"Czech Republic","Switzerland",1,"A",2
+2015-12-01,"Wales","Israel",2,"A",2
+2015-12-01,"Slovakia","Moldova",4,"A",2
+2015-12-01,"New Zealand","Brazil",1,"A",1
+2015-12-03,"Italy","China PR",1,"A",1
+2015-12-06,"Italy","China PR",0,"A",1
+2015-12-09,"Mexico","Canada",0,"N",1
+2015-12-09,"Trinidad and Tobago","Brazil",0,"A",1
+2015-12-10,"Trinidad and Tobago","USA",0,"A",1
+2015-12-13,"China PR","USA",0,"A",1
+2015-12-13,"Mexico","Brazil",0,"A",1
+2015-12-13,"Canada","Trinidad and Tobago",4,"N",1
+2015-12-15,"Tunisia","Algeria",1,"A",1
+2015-12-16,"China PR","USA",1,"A",1
+2015-12-16,"Mexico","Trinidad and Tobago",3,"N",1
+2015-12-16,"Canada","Brazil",1,"A",1
+2015-12-18,"Tunisia","Algeria",3,"A",1
+2015-12-20,"Trinidad and Tobago","Mexico",1,"N",1
+2015-12-20,"Canada","Brazil",1,"A",1
+2016-01-24,"Spain","Montenegro",7,"A",2
+2016-01-26,"Albania","Greece",2,"A",2
+2016-01-23,"New Zealand","Papua New Guinea",7,"A",3
+2016-01-12,"Burkina Faso","Mali",2,"A",1
+2016-01-19,"Poland","Portugal",0,"A",1
+2016-01-19,"Latvia","Malta",0,"A",1
+2016-01-21,"Mexico","China PR",0,"A",1
+2016-01-21,"Vietnam","Korea Republic",0,"N",1
+2016-01-21,"Ukraine","Israel",0,"A",1
+2016-01-21,"Poland","Portugal",1,"A",1
+2016-01-21,"Latvia","Malta",1,"A",1
+2016-01-22,"Netherlands","Denmark",2,"N",1
+2016-01-22,"Romania","Norway",0,"N",1
+2016-01-23,"Republic of Ireland","USA",0,"A",1
+2016-01-23,"Korea Republic","Mexico",0,"N",1
+2016-01-23,"Vietnam","China PR",0,"A",1
+2016-01-23,"Ukraine","Israel",3,"A",1
+2016-01-24,"Maldives","Bahrain",0,"A",1
+2016-01-25,"Netherlands","Denmark",2,"N",1
+2016-01-26,"Korea Republic","China PR",0,"A",1
+2016-01-26,"Vietnam","Mexico",0,"N",1
+2016-01-26,"Scotland","Sweden",0,"A",1
+2016-01-26,"France","Norway",1,"N",2
+2016-01-28,"Maldives","Bahrain",0,"A",1
+2016-01-29,"Sri Lanka","Singapore",1,"A",1
+2016-02-29,"Vietnam","China PR",0,"N",3
+2016-02-29,"Korea Republic","Korea DPR",1,"N",3
+2016-02-29,"Australia","Japan",3,"A",3
+2016-02-10,"Costa Rica","USA",0,"A",3
+2016-02-10,"Mexico","Puerto Rico",6,"N",3
+2016-02-11,"Guyana","Canada",0,"N",3
+2016-02-11,"Trinidad and Tobago","Guatemala",2,"N",3
+2016-02-13,"Puerto Rico","Costa Rica",0,"N",3
+2016-02-13,"Mexico","USA",0,"A",3
+2016-02-14,"Guatemala","Guyana",1,"N",3
+2016-02-14,"Canada","Trinidad and Tobago",6,"N",3
+2016-02-15,"Puerto Rico","USA",0,"A",3
+2016-02-15,"Costa Rica","Mexico",2,"N",3
+2016-02-16,"Guatemala","Canada",0,"N",3
+2016-02-16,"Guyana","Trinidad and Tobago",1,"N",3
+2016-02-19,"Trinidad and Tobago","USA",0,"A",3
+2016-02-19,"Costa Rica","Canada",1,"N",3
+2016-02-21,"Canada","USA",0,"A",3
+2016-02-02,"Mali","Algeria",2,"A",1
+2016-02-05,"Maldives","India",0,"A",1
+2016-02-05,"Mali","Algeria",0,"A",1
+2016-02-09,"Sri Lanka","India",0,"A",1
+2016-02-11,"Nepal","India",0,"A",1
+2016-02-13,"Bangladesh","India",1,"A",1
+2016-02-14,"Iceland","Poland",1,"A",1
+2016-02-15,"Nepal","India",0,"A",1
+2016-02-24,"Georgia","United Arab Emirates",3,"A",1
+2016-02-27,"Georgia","United Arab Emirates",1,"A",1
+2016-03-02,"Vietnam","Australia",0,"N",3
+2016-03-02,"China PR","Korea DPR",1,"N",3
+2016-03-02,"Korea Republic","Japan",1,"A",3
+2016-03-04,"Korea DPR","Vietnam",1,"N",3
+2016-03-04,"Australia","Korea Republic",2,"N",3
+2016-03-04,"China PR","Japan",2,"A",3
+2016-03-07,"Korea Republic","China PR",0,"N",3
+2016-03-07,"Australia","Korea DPR",2,"N",3
+2016-03-07,"Vietnam","Japan",1,"A",3
+2016-03-09,"Vietnam","Korea Republic",0,"N",3
+2016-03-09,"China PR","Australia",1,"N",3
+2016-03-09,"Korea DPR","Japan",0,"A",3
+2016-03-04,"Ukraine","Albania",4,"A",2
+2016-03-08,"Ukraine","Greece",3,"A",2
+2016-03-02,"Norway","Sweden",0,"N",3
+2016-03-02,"Switzerland","Netherlands",3,"A",3
+2016-03-05,"Norway","Netherlands",4,"A",3
+2016-03-05,"Switzerland","Sweden",0,"N",3
+2016-03-09,"Sweden","Netherlands",1,"A",3
+2016-03-09,"Switzerland","Norway",2,"N",3
+2016-03-04,"Zimbabwe","Tanzania",2,"A",2
+2016-03-05,"Guinea","Senegal",0,"A",2
+2016-03-05,"Mauritius","Botswana",0,"A",2
+2016-03-05,"Tunisia","Burkina Faso",0,"A",2
+2016-03-05,"Morocco","Mali",0,"A",2
+2016-03-06,"Namibia","Zambia",1,"A",2
+2016-03-06,"Egypt","Libya",8,"N",2
+2016-03-06,"Ethiopia","Algeria",0,"A",2
+2016-03-18,"Zambia","Namibia",2,"A",2
+2016-03-19,"Mali","Morocco",2,"A",2
+2016-03-19,"Botswana","Mauritius",4,"A",2
+2016-03-19,"Senegal","Guinea",0,"A",2
+2016-03-19,"Burkina Faso","Tunisia",0,"A",2
+2016-03-20,"Libya","Egypt",0,"A",2
+2016-03-20,"Tanzania","Zimbabwe",1,"A",2
+2016-03-26,"Algeria","Ethiopia",1,"A",2
+2016-03-02,"Republic of Ireland","Austria",0,"N",1
+2016-03-02,"Italy","Hungary",2,"N",1
+2016-03-02,"Finland","Wales",2,"N",1
+2016-03-02,"Northern Ireland","Slovakia",0,"N",1
+2016-03-02,"Czech Republic","Poland",0,"N",1
+2016-03-02,"Belgium","Iceland",1,"N",1
+2016-03-02,"Denmark","Canada",1,"N",1
+2016-03-02,"Russia","Portugal",1,"A",1
+2016-03-02,"New Zealand","Brazil",0,"N",1
+2016-03-03,"Maldives","United Arab Emirates",1,"A",1
+2016-03-03,"France","Germany",0,"N",2
+2016-03-03,"England","USA",0,"A",2
+2016-03-04,"Spain","Romania",0,"A",1
+2016-03-04,"Northern Ireland","Croatia",1,"A",1
+2016-03-04,"Hungary","Austria",1,"N",1
+2016-03-04,"Wales","Poland",1,"N",1
+2016-03-04,"Republic of Ireland","Italy",1,"N",1
+2016-03-04,"Belgium","Canada",0,"N",1
+2016-03-04,"Iceland","Denmark",4,"N",1
+2016-03-04,"Czech Republic","Finland",3,"N",1
+2016-03-04,"Russia","New Zealand",0,"N",1
+2016-03-04,"Brazil","Portugal",3,"A",1
+2016-03-06,"Maldives","United Arab Emirates",0,"A",1
+2016-03-06,"France","USA",0,"A",2
+2016-03-06,"England","Germany",1,"N",2
+2016-03-07,"Poland","Finland",1,"N",1
+2016-03-07,"Wales","Czech Republic",0,"N",1
+2016-03-07,"Slovakia","Croatia",2,"A",1
+2016-03-07,"Austria","Italy",0,"N",1
+2016-03-07,"Russia","Brazil",0,"N",1
+2016-03-07,"New Zealand","Portugal",1,"A",1
+2016-03-07,"Hungary","Republic of Ireland",1,"N",1
+2016-03-07,"Belgium","Denmark",2,"N",1
+2016-03-07,"Iceland","Canada",0,"N",1
+2016-03-08,"Spain","Scotland",1,"A",1
+2016-03-09,"Finland","Republic of Ireland",0,"N",1
+2016-03-09,"Czech Republic","Italy",1,"N",1
+2016-03-09,"Wales","Hungary",1,"N",1
+2016-03-09,"Poland","Austria",1,"N",1
+2016-03-09,"Russia","Belgium",0,"N",1
+2016-03-09,"Denmark","Portugal",3,"A",1
+2016-03-09,"New Zealand","Iceland",1,"N",1
+2016-03-09,"Brazil","Canada",1,"N",1
+2016-03-09,"England","France",0,"N",2
+2016-03-09,"Germany","USA",1,"A",2
+2016-03-10,"Lithuania","Cyprus",1,"A",1
+2016-03-10,"Israel","Malta",1,"N",1
+2016-03-11,"Lithuania","Malta",3,"N",1
+2016-03-11,"Estonia","Cyprus",0,"A",1
+2016-03-13,"Lithuania","Israel",0,"N",1
+2016-03-13,"Malta","Estonia",2,"N",1
+2016-03-15,"Estonia","Israel",0,"N",1
+2016-03-15,"Malta","Cyprus",0,"A",1
+2016-03-16,"Israel","Cyprus",1,"A",1
+2016-03-16,"Lithuania","Estonia",0,"N",1
+2016-03-25,"South Africa","Cameroon",2,"A",1
+2016-03-28,"South Africa","Cameroon",2,"A",1
+2016-04-06,"Norway","Israel",1,"A",2
+2016-04-06,"Kazakhstan","Austria",1,"A",2
+2016-04-07,"Republic of Ireland","Montenegro",5,"A",2
+2016-04-07,"Denmark","Poland",0,"A",2
+2016-04-08,"Germany","Turkey",6,"A",2
+2016-04-08,"Sweden","Slovakia",3,"A",2
+2016-04-08,"Albania","Ukraine",0,"A",2
+2016-04-08,"France","Romania",1,"A",2
+2016-04-08,"Spain","Portugal",4,"A",2
+2016-04-08,"Slovenia","Scotland",1,"A",2
+2016-04-08,"Belgium","England",1,"A",2
+2016-04-08,"Croatia","Hungary",0,"A",2
+2016-04-09,"Italy","Switzerland",1,"A",2
+2016-04-10,"Norway","Austria",1,"A",2
+2016-04-11,"Ukraine","France",0,"A",2
+2016-04-12,"Iceland","Belarus",5,"A",2
+2016-04-12,"Republic of Ireland","Spain",0,"A",2
+2016-04-12,"Wales","Kazakhstan",4,"A",2
+2016-04-12,"Finland","Montenegro",7,"A",2
+2016-04-12,"England","Bosnia and Herzegovina",1,"A",2
+2016-04-12,"Georgia","Czech Republic",1,"A",2
+2016-04-12,"Hungary","Russia",3,"A",2
+2016-04-12,"Poland","Slovakia",1,"A",2
+2016-04-12,"Croatia","Germany",0,"A",2
+2016-04-12,"Northern Ireland","Italy",1,"A",2
+2016-04-12,"FYR Macedonia","Slovenia",1,"A",2
+2016-04-12,"Estonia","Belgium",0,"A",2
+2016-04-06,"Zambia","Zimbabwe",0,"A",2
+2016-04-06,"Ghana","Tunisia",2,"A",2
+2016-04-06,"Equatorial Guinea","Mali",1,"A",2
+2016-04-07,"C担te d'Ivoire","Egypt",0,"A",2
+2016-04-08,"Kenya","Algeria",2,"A",2
+2016-04-08,"Nigeria","Senegal",1,"A",2
+2016-04-09,"South Africa","Botswana",2,"A",2
+2016-04-10,"Zimbabwe","Zambia",3,"A",2
+2016-04-10,"Mali","Equatorial Guinea",1,"A",2
+2016-04-11,"Egypt","C担te d'Ivoire",1,"A",2
+2016-04-12,"Tunisia","Ghana",0,"A",2
+2016-04-12,"Algeria","Kenya",1,"A",2
+2016-04-12,"Senegal","Nigeria",0,"A",2
+2016-04-12,"Botswana","South Africa",0,"A",2
+2016-04-06,"Colombia","USA",0,"A",1
+2016-04-07,"New Zealand","Netherlands",0,"A",1
+2016-04-08,"Cyprus","Bulgaria",1,"A",1
+2016-04-08,"Costa Rica","China PR",1,"A",1
+2016-04-10,"Colombia","USA",0,"A",1
+2016-04-10,"Canada","Netherlands",2,"A",1
+2016-04-11,"Costa Rica","China PR",1,"A",1
+2016-04-26,"Albania","Hungary",0,"A",1
+2016-05-15,"Zimbabwe","South Africa",0,"A",1
+2016-05-17,"United Arab Emirates","Georgia",0,"A",1
+2016-05-20,"United Arab Emirates","Georgia",0,"A",1
+2016-05-25,"Colombia","Venezuela",2,"A",1
+2016-05-27,"Colombia","Venezuela",1,"A",1
+2016-05-31,"Bosnia and Herzegovina","Hungary",0,"A",1
+2016-06-02,"Israel","Kazakhstan",0,"A",2
+2016-06-02,"Romania","Albania",3,"A",2
+2016-06-02,"Turkey","Russia",0,"A",2
+2016-06-02,"Sweden","Poland",4,"A",2
+2016-06-02,"Austria","Norway",2,"A",2
+2016-06-02,"Slovakia","Denmark",0,"A",2
+2016-06-03,"Republic of Ireland","Finland",1,"A",2
+2016-06-03,"Slovenia","FYR Macedonia",9,"A",2
+2016-06-03,"Belgium","Estonia",5,"A",2
+2016-06-03,"Iceland","Scotland",4,"A",2
+2016-06-03,"Portugal","Montenegro",3,"A",2
+2016-06-03,"Georgia","Northern Ireland",0,"A",2
+2016-06-03,"Greece","France",0,"A",2
+2016-06-04,"Switzerland","Czech Republic",5,"A",2
+2016-06-04,"Serbia","England",0,"A",2
+2016-06-06,"Moldova","Sweden",0,"A",2
+2016-06-06,"Hungary","Turkey",1,"A",2
+2016-06-06,"Bosnia and Herzegovina","Estonia",1,"A",2
+2016-06-06,"Israel","Austria",0,"A",2
+2016-06-06,"Russia","Croatia",3,"A",2
+2016-06-07,"Scotland","Belarus",1,"A",2
+2016-06-07,"Italy","Georgia",7,"A",2
+2016-06-07,"England","Serbia",7,"A",2
+2016-06-07,"Portugal","Finland",0,"A",2
+2016-06-07,"Greece","Ukraine",0,"A",2
+2016-06-07,"Norway","Wales",2,"A",2
+2016-06-07,"Poland","Denmark",0,"A",2
+2016-06-07,"Northern Ireland","Czech Republic",0,"A",2
+2016-06-07,"Montenegro","Republic of Ireland",0,"A",2
+2016-06-07,"FYR Macedonia","Iceland",0,"A",2
+2016-06-02,"Thailand","China PR",0,"A",1
+2016-06-02,"Japan","USA",3,"A",2
+2016-06-04,"New Zealand","Australia",0,"A",1
+2016-06-04,"Korea Republic","Myanmar",5,"A",1
+2016-06-04,"Brazil","Canada",2,"A",2
+2016-06-05,"Thailand","China PR",0,"A",1
+2016-06-05,"Japan","USA",0,"A",2
+2016-06-07,"New Zealand","Australia",1,"A",1
+2016-06-07,"Korea Republic","Myanmar",4,"A",1
+2016-06-07,"South Africa","Netherlands",0,"A",1
+2016-06-07,"Brazil","Canada",0,"A",2
+2016-06-24,"El Salvador","Nicaragua",1,"A",1
+2016-06-26,"El Salvador","Nicaragua",1,"A",1
+2016-06-26,"United Arab Emirates","Luxembourg",0,"A",1
+2016-06-29,"Macau","Guam",0,"A",1
+2016-06-29,"United Arab Emirates","Luxembourg",2,"A",1
+2016-07-03,"Uganda","Kenya",0,"A",1
+2016-07-09,"Thailand","Myanmar",0,"A",1
+2016-07-09,"South Africa","USA",0,"A",1
+2016-07-11,"Singapore","Malaysia",0,"A",1
+2016-09-11,"Kenya","Uganda",4,"A",1
+2016-09-12,"Rwanda","Tanzania",2,"N",1
+2016-09-13,"Kenya","Burundi",4,"N",1
+2016-09-14,"Ethiopia","Rwanda",3,"N",1
+2016-09-15,"Burundi","Uganda",0,"A",1
+2016-10-21,"Romania","Portugal",0,"A",2
+2016-10-25,"Portugal","Romania",NA,"A",2
+2016-11-19,"Egypt","Cameroon",0,"A",3
+2016-11-19,"Zimbabwe","South Africa",0,"N",3
+2016-11-20,"Mali","Nigeria",0,"N",3
+2016-11-20,"Kenya","Ghana",1,"N",3
+2016-11-22,"Egypt","Zimbabwe",1,"N",3
+2016-11-22,"South Africa","Cameroon",0,"A",3
+2016-11-23,"Ghana","Nigeria",1,"N",3
+2016-11-23,"Mali","Kenya",3,"N",3
+2016-11-25,"Zimbabwe","Cameroon",0,"A",3
+2016-11-25,"South Africa","Egypt",5,"N",3
+2016-11-26,"Ghana","Mali",3,"N",3
+2016-11-26,"Nigeria","Kenya",4,"N",3
+2016-11-29,"Ghana","Cameroon",0,"A",3
+2016-11-29,"South Africa","Nigeria",0,"N",3
+2016-12-02,"South Africa","Ghana",0,"N",3
+2016-12-03,"Nigeria","Cameroon",1,"A",3
+2016-12-05,"Comoros","Madagascar",0,"A",1
+2016-12-07,"Costa Rica","Brazil",0,"A",1
+2016-12-07,"Italy","Russia",3,"N",1
+2016-12-08,"Comoros","Madagascar",0,"A",1
+2016-12-11,"Costa Rica","Italy",0,"N",1
+2016-12-11,"Russia","Brazil",0,"A",1
+2016-12-14,"Italy","Brazil",1,"A",1
+2016-12-14,"Russia","Costa Rica",3,"N",1
+2016-12-17,"Malaysia","Nepal",0,"A",1
+2016-12-18,"Maldives","United Arab Emirates",1,"A",1
+2016-12-18,"Italy","Brazil",3,"A",1
+2016-12-18,"Costa Rica","Russia",0,"N",1
+2016-12-21,"Maldives","United Arab Emirates",0,"A",1
+2016-12-26,"Bhutan","Nepal",0,"N",1
+2016-12-26,"Maldives","Sri Lanka",5,"N",1
+2016-12-27,"Afghanistan","India",1,"A",1
+2016-12-28,"Sri Lanka","Bhutan",2,"N",1
+2016-12-28,"Nepal","Maldives",9,"N",1
+2016-12-29,"Afghanistan","Bangladesh",0,"N",1
+2016-12-30,"Sri Lanka","Nepal",0,"N",1
+2016-12-30,"Bhutan","Maldives",1,"N",1
+2016-12-31,"Bangladesh","India",0,"A",1
+2017-01-02,"Maldives","Bangladesh",0,"N",1
+2017-01-02,"Nepal","India",1,"A",1
+2017-01-04,"United Arab Emirates","Singapore",4,"A",1
+2017-01-04,"Bangladesh","India",1,"A",1
+2017-01-06,"United Arab Emirates","Singapore",0,"A",1
+2017-01-18,"Finland","Russia",2,"N",1
+2017-01-19,"Sweden","Norway",1,"N",1
+2017-01-19,"Ukraine","Myanmar",4,"N",1
+2017-01-19,"Thailand","China PR",0,"A",1
+2017-01-20,"Romania","Netherlands",1,"N",1
+2017-01-21,"Maldives","Bahrain",1,"A",1
+2017-01-21,"Myanmar","China PR",0,"A",1
+2017-01-21,"Ukraine","Thailand",0,"N",1
+2017-01-22,"Slovakia","Finland",0,"N",1
+2017-01-22,"South Africa","France",0,"N",1
+2017-01-22,"Norway","England",1,"N",1
+2017-01-23,"Scotland","Denmark",1,"N",1
+2017-01-23,"Slovakia","Romania",0,"N",1
+2017-01-24,"Myanmar","Thailand",0,"N",1
+2017-01-24,"China PR","Ukraine",5,"H",1
+2017-01-24,"Netherlands","Russia",4,"N",1
+2017-01-24,"Maldives","Bahrain",1,"A",1
+2017-01-24,"Sweden","England",0,"N",2
+2017-02-04,"Mexico","Canada",2,"A",1
+2017-02-16,"Bangladesh","Singapore",0,"A",1
+2017-02-17,"Bangladesh","Malaysia",1,"N",1
+2017-02-18,"Malaysia","Singapore",4,"A",1
+2017-02-28,"Montenegro","Albania",3,"A",1
+2017-03-01,"Switzerland","Belgium",2,"N",1
+2017-03-01,"Italy","Korea DPR",0,"N",1
+2017-03-01,"Austria","Korea Republic",0,"N",1
+2017-03-01,"Scotland","New Zealand",3,"N",1
+2017-03-01,"France","England",2,"N",2
+2017-03-01,"Germany","USA",0,"A",2
+2017-03-01,"Canada","Denmark",1,"N",1
+2017-03-01,"China PR","Netherlands",0,"N",1
+2017-03-01,"Iceland","Norway",1,"N",1
+2017-03-01,"Sweden","Australia",1,"N",2
+2017-03-01,"Thailand","Myanmar",0,"A",1
+2017-03-01,"Northern Ireland","Slovakia",0,"N",1
+2017-03-01,"Republic of Ireland","Czech Republic",2,"N",1
+2017-03-01,"Slovenia","Chinese Taipei",5,"N",1
+2017-03-01,"Spain","Japan",2,"N",1
+2017-03-01,"Russia","Portugal",1,"A",1
+2017-03-01,"Wales","Hungary",2,"N",1
+2017-03-02,"Azerbaijan","United Arab Emirates",3,"A",1
+2017-03-03,"Hungary","Republic of Ireland",0,"N",1
+2017-03-03,"Belgium","Italy",4,"N",1
+2017-03-03,"Korea DPR","Switzerland",0,"N",1
+2017-03-03,"Denmark","Portugal",6,"A",1
+2017-03-03,"Sweden","China PR",0,"N",1
+2017-03-03,"Slovakia","Slovenia",2,"N",1
+2017-03-03,"Czech Republic","Wales",0,"N",1
+2017-03-03,"New Zealand","Austria",0,"N",1
+2017-03-03,"Chinese Taipei","Northern Ireland",0,"N",1
+2017-03-03,"Kosovo","Romania",0,"N",1
+2017-03-03,"Iceland","Japan",0,"N",1
+2017-03-03,"Netherlands","Australia",2,"N",1
+2017-03-03,"Canada","Russia",2,"N",1
+2017-03-03,"Korea Republic","Scotland",2,"N",1
+2017-03-03,"Norway","Spain",0,"N",1
+2017-03-04,"England","USA",1,"A",2
+2017-03-04,"Germany","France",0,"N",2
+2017-03-05,"Azerbaijan","United Arab Emirates",1,"A",1
+2017-03-05,"Finland","Serbia",1,"A",1
+2017-03-05,"Kosovo","Turkey",2,"A",1
+2017-03-05,"Romania","Poland",2,"N",1
+2017-03-06,"Belgium","Korea DPR",1,"N",1
+2017-03-06,"Switzerland","Italy",6,"N",1
+2017-03-06,"Korea Republic","New Zealand",2,"N",1
+2017-03-06,"Scotland","Austria",3,"N",1
+2017-03-06,"Chinese Taipei","Slovakia",0,"N",1
+2017-03-06,"Moldova","Georgia",1,"A",1
+2017-03-06,"Wales","Republic of Ireland",0,"N",1
+2017-03-06,"Slovenia","Northern Ireland",4,"N",1
+2017-03-06,"Bosnia and Herzegovina","Croatia",0,"A",1
+2017-03-06,"Spain","Iceland",0,"N",1
+2017-03-06,"Japan","Norway",2,"N",1
+2017-03-06,"Netherlands","Sweden",1,"N",1
+2017-03-06,"Australia","China PR",2,"N",1
+2017-03-06,"Hungary","Czech Republic",2,"N",1
+2017-03-06,"Canada","Portugal",0,"A",1
+2017-03-06,"Denmark","Russia",6,"N",1
+2017-03-07,"England","Germany",0,"N",2
+2017-03-07,"France","USA",3,"A",2
+2017-03-07,"Poland","Turkey",2,"A",1
+2017-03-08,"Korea Republic","Switzerland",0,"N",1
+2017-03-08,"Norway","Portugal",2,"A",1
+2017-03-08,"Russia","Sweden",0,"N",1
+2017-03-08,"Denmark","Australia",1,"N",1
+2017-03-08,"China PR","Iceland",1,"N",1
+2017-03-08,"Hungary","New Zealand",1,"N",1
+2017-03-08,"Czech Republic","Italy",2,"N",1
+2017-03-08,"Slovenia","Croatia",1,"A",1
+2017-03-08,"Republic of Ireland","Korea DPR",0,"N",1
+2017-03-08,"Wales","Scotland",0,"N",1
+2017-03-08,"Austria","Belgium",1,"N",1
+2017-03-08,"Bosnia and Herzegovina","Slovakia",0,"N",1
+2017-03-08,"Netherlands","Japan",3,"N",1
+2017-03-08,"Canada","Spain",0,"N",1
+2017-03-09,"Uzbekistan","United Arab Emirates",8,"A",1
+2017-03-12,"Singapore","Hong Kong",0,"A",1
+2017-03-12,"Uzbekistan","United Arab Emirates",5,"A",1
+2017-03-29,"Venezuela","Trinidad and Tobago",3,"A",1
+2017-04-06,"Latvia","Estonia",4,"N",3
+2017-04-06,"Kosovo","Albania",2,"A",3
+2017-04-06,"Andorra","Moldova",0,"N",3
+2017-04-06,"Kazakhstan","Georgia",1,"A",3
+2017-04-06,"Malta","Greece",0,"N",3
+2017-04-06,"Turkey","Montenegro",3,"N",3
+2017-04-06,"Israel","Lithuania",2,"A",3
+2017-04-06,"Luxembourg","Faroe Islands",1,"A",3
+2017-04-08,"Kosovo","Greece",0,"N",3
+2017-04-08,"Latvia","Kazakhstan",2,"N",3
+2017-04-08,"Moldova","Lithuania",2,"A",3
+2017-04-08,"Malta","Albania",0,"A",3
+2017-04-08,"Estonia","Georgia",1,"A",3
+2017-04-08,"Montenegro","Faroe Islands",1,"A",3
+2017-04-08,"Andorra","Israel",0,"N",3
+2017-04-08,"Turkey","Luxembourg",9,"N",3
+2017-04-11,"Malta","Kosovo",3,"N",3
+2017-04-11,"Andorra","Lithuania",0,"A",3
+2017-04-11,"Moldova","Israel",0,"N",3
+2017-04-11,"Turkey","Faroe Islands",1,"A",3
+2017-04-11,"Montenegro","Luxembourg",7,"N",3
+2017-04-11,"Kazakhstan","Estonia",1,"N",3
+2017-04-11,"Latvia","Georgia",1,"A",3
+2017-04-11,"Greece","Albania",1,"A",3
+2017-04-03,"Thailand","Palestine",6,"A",3
+2017-04-03,"Uzbekistan","Hong Kong",2,"N",3
+2017-04-03,"Jordan","Bahrain",6,"N",3
+2017-04-03,"Myanmar","Iran",2,"N",3
+2017-04-03,"Iraq","Tajikistan",0,"A",3
+2017-04-03,"Syria","Singapore",0,"N",3
+2017-04-03,"United Arab Emirates","Philippines",0,"N",3
+2017-04-03,"India","Korea DPR",0,"A",3
+2017-04-05,"Korea Republic","India",10,"N",3
+2017-04-05,"Hong Kong","Korea DPR",0,"A",3
+2017-04-05,"Chinese Taipei","Palestine",5,"A",3
+2017-04-05,"Iran","Singapore",6,"N",3
+2017-04-05,"Iraq","Philippines",0,"N",3
+2017-04-05,"Bahrain","Tajikistan",4,"A",3
+2017-04-05,"Syria","Vietnam",0,"A",3
+2017-04-05,"United Arab Emirates","Jordan",0,"N",3
+2017-04-07,"India","Uzbekistan",1,"N",3
+2017-04-07,"Korea Republic","Korea DPR",1,"A",3
+2017-04-07,"Syria","Myanmar",0,"N",3
+2017-04-07,"Bahrain","United Arab Emirates",1,"N",3
+2017-04-07,"Philippines","Tajikistan",8,"A",3
+2017-04-07,"Singapore","Vietnam",0,"A",3
+2017-04-07,"Chinese Taipei","Thailand",0,"N",3
+2017-04-07,"Iraq","Jordan",0,"N",3
+2017-04-09,"Korea Republic","Hong Kong",6,"N",3
+2017-04-09,"Uzbekistan","Korea DPR",0,"A",3
+2017-04-09,"Singapore","Myanmar",0,"N",3
+2017-04-09,"Iran","Vietnam",1,"A",3
+2017-04-10,"United Arab Emirates","Iraq",3,"N",3
+2017-04-10,"Jordan","Tajikistan",10,"A",3
+2017-04-10,"Bahrain","Philippines",1,"N",3
+2017-04-11,"Hong Kong","India",0,"N",3
+2017-04-11,"Uzbekistan","Korea Republic",0,"N",3
+2017-04-11,"Iran","Syria",12,"N",3
+2017-04-11,"Myanmar","Vietnam",0,"A",3
+2017-04-12,"Philippines","Jordan",1,"N",3
+2017-04-12,"United Arab Emirates","Tajikistan",1,"A",3
+2017-04-12,"Iraq","Bahrain",0,"N",3
+2017-04-05,"Northern Ireland","Wales",1,"A",1
+2017-04-05,"Slovenia","Hungary",2,"A",1
+2017-04-06,"Iceland","Slovakia",2,"A",1
+2017-04-06,"Russia","USA",0,"A",1
+2017-04-06,"Croatia","China PR",0,"A",1
+2017-04-06,"Bulgaria","Cyprus",1,"A",1
+2017-04-06,"Canada","Sweden",1,"A",2
+2017-04-07,"France","Netherlands",2,"A",1
+2017-04-07,"Finland","Poland",0,"A",1
+2017-04-07,"Italy","England",1,"A",1
+2017-04-08,"Spain","Belgium",4,"A",1
+2017-04-09,"Croatia","China PR",1,"A",1
+2017-04-09,"Costa Rica","Japan",0,"A",1
+2017-04-09,"Canada","Germany",1,"A",2
+2017-04-09,"Russia","USA",1,"A",1
+2017-04-09,"Bolivia","Brazil",0,"A",1
+2017-04-10,"Slovakia","Republic of Ireland",0,"A",1
+2017-04-10,"Switzerland","Norway",1,"A",1
+2017-04-10,"Austria","England",0,"A",1
+2017-04-11,"Poland","Belarus",4,"A",1
+2017-04-11,"Iceland","Netherlands",0,"A",1
+2017-04-11,"Finland","Denmark",0,"A",1
+2017-04-11,"Scotland","Belgium",0,"A",1
+2017-05-22,"Nepal","Malaysia",1,"A",1
+2017-05-24,"Nepal","Malaysia",1,"A",1
