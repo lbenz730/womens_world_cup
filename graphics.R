@@ -92,3 +92,29 @@ ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country,
        title = "Expected Group Stage Goal Differential",
        subtitle = "2019 FIFA Women's World Cup") +
   scale_fill_manual(values = c("red", "seagreen"))
+
+
+select(wc_sims, country, group, first_in_group, second_in_group, third_in_group) %>%
+  mutate("fourth_in_group" = 1 - first_in_group - second_in_group - third_in_group) %>%
+  gather(place, pct, -country, -group) %>%
+  mutate("place" = case_when(place == "first_in_group" ~ "1",
+                             place == "second_in_group" ~ "2",
+                             place == "third_in_group" ~ "3",
+                             place == "fourth_in_group" ~ "4")) %>%
+  ggplot(aes(x = fct_relevel(country, 
+                             arrange(wc_sims, desc(first_in_group)) %>% 
+                               pull(country)), y = 100 * pct)) +
+  facet_wrap(~group, scale = "free_x") +
+  geom_bar(aes(fill = place), stat = "identity",
+           position = "dodge") +
+  theme_minimal() +
+  theme(legend.position = "bottom",
+        plot.title = element_text(size = 16, hjust = 0.5),
+        plot.subtitle = element_text(size = 12, hjust = 0.5),
+        axis.title = element_text(size = 14)) +
+  labs(x = "Country",
+       y = "Percent",
+       title = "Group Finish Distributions",
+       subtitle = "2019 FIFA Women's World Cup",
+       fill = "Ladder Postion")
+
