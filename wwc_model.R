@@ -129,15 +129,20 @@ rankings$offense <- c(0, glm.futbol$coefficients[2:team_num]) - off_scale_factor
 rankings$defense <- c(0, glm.futbol$coefficients[(team_num + 1):(2*team_num - 1)]) - def_scale_factor
 rankings$net_rating <- rankings$offense - rankings$defense
 
-
 rankings <- arrange(rankings, desc(net_rating)) %>%
   mutate(rank = 1:team_num)
 write.csv(rankings, "rankings.csv", row.names = F)
+read.csv("rankings_history.csv", as.is = T) %>%
+  mutate("date" = as.Date(date)) %>%
+  filter(date < Sys.Date()) %>%
+  bind_rows(mutate(rankings, "date" = Sys.Date())) %>%
+  write.csv(., "rankings_history.csv", row.names = F)
 
 ########################## World Cup Simulations ##############################
 ### Match Predictions
 fixtures <- mutate(fixtures, "win" = NA, "tie" = NA, "loss" = NA,
-                   "goal_diff" = team_score - opp_score)
+                   "goal_diff" = team_score - opp_score,
+                   "date" = as.Date(date, "%m/%d/%y"))
 index <- !is.na(fixtures$goal_diff)
 fixtures[index & fixtures$goal_diff > 0, c("win", "tie", "loss")] <- rep(c(1,0,0), rep(sum(index & fixtures$goal_diff > 0), 3))
 fixtures[index & fixtures$goal_diff == 0, c("win", "tie", "loss")] <- rep(c(0,1,0), rep(sum(index & fixtures$goal_diff == 0), 3))
@@ -154,6 +159,11 @@ for(i in 1:nrow(fixtures)) {
                                                         lambda_2 = fixtures$opp_score[i])
   }
 }
+
+read.csv("pred_history.csv", as.is = T) %>%
+  mutate("date" = as.Date(date)) %>%
+  bind_rows(filter(fixtures, date == Sys.Date() + 1)) %>%
+  write.csv(., "pred_history.csv", row.names = F)
 
 ### Monte Carlo Sims
 ### See helpers.R for group_sim() function
@@ -271,3 +281,8 @@ for(j in 1:nsims) {
   }
 }
 write.csv(wc_sims, "wc_sims.csv", row.names = F)
+read.csv("wc_sims_history.csv", as.is = T) %>%
+  mutate("date" = as.Date(date)) %>%
+  filter(date < Sys.Date()) %>%
+  bind_rows(mutate(wc_sims, "date" = Sys.Date())) %>%
+  write.csv(., "wc_sim_history.csv", row.names = F)
