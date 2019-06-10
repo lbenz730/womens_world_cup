@@ -94,6 +94,8 @@ x <- select(x, date, team, opponent, team_score, location, match_weight) %>%
 write.csv(x, "womens_soccer_scores.csv", row.names = F)
 
 ### Update w/ Current WC Scores
+x <- read.csv("womens_soccer_scores.csv", as.is = T) %>%
+  mutate("date" = as.Date(date))
 fixtures <- read.csv("fixtures.csv", as.is = T)
 x <- x %>% 
   bind_rows(x, 

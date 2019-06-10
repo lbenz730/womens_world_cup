@@ -1,11 +1,11 @@
 ﻿date,team,opponent,team_score,opp_score,location,group
 6/7/19,France,Korea Republic,4,0,H,A
-6/8/19,Germany,China PR,NA,NA,N,B
-6/8/19,Spain,South Africa,NA,NA,N,B
-6/8/19,Norway,Nigeria,NA,NA,N,A
-6/9/19,Australia,Italy,NA,NA,N,C
-6/9/19,Brazil,Jamaica,NA,NA,N,C
-6/9/19,England,Scotland,NA,NA,N,D
+6/8/19,Germany,China PR,1,0,N,B
+6/8/19,Spain,South Africa,3,1,N,B
+6/8/19,Norway,Nigeria,3,0,N,A
+6/9/19,Australia,Italy,1,2,N,C
+6/9/19,Brazil,Jamaica,3,0,N,C
+6/9/19,England,Scotland,2,1,N,D
 6/10/19,Argentina,Japan,NA,NA,N,D
 6/10/19,Canada,Cameroon,NA,NA,N,E
 6/11/19,New Zealand,Netherlands,NA,NA,N,E
