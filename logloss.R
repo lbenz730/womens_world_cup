@@ -40,7 +40,19 @@ log_loss <- function(d) {
   
 }
 
+modified_log_loss <- function(d) {
+  x <- filter(lsb, date <= d)
+  y <- filter(fte, date <= d)
+  return(c(sum(-log(x$win - x$win * x$loss) * (x$team_score > x$opp_score) -
+                 log(x$loss - x$win * x$loss) * (x$team_score < x$opp_score) -
+                 log(x$tie + x$win * x$loss) * (x$team_score == x$opp_score)),
+           sum(-log(y$prob1 - y$prob1 * y$prob2) * (y$score1 > y$score2) -
+                 log(y$prob2 - y$prob1 * y$prob2) * (y$score2 > y$score1) -
+                 log(y$probtie + y$prob1 * y$prob2) * (y$score1 == y$score2)))) 
+}
+
 ll_mat <- sapply(unique(lsb$date), log_loss)
+
 
 df <- data.frame("date" = unique(lsb$date),
            "log_loss" = c(ll_mat[1,], ll_mat[2,]),
@@ -56,6 +68,6 @@ ggplot(df, aes(x = date, y = log_loss)) +
   labs(x = "Date",
        y = "Log-Loss",
        title = "2019 FIFA Women's World Cup",
-       subtitle = "Cumulative Log Loss",
+       subtitle = "Cumulative Log Loss (Ordinal Version)",
        color = "Model") +
   scale_color_manual(values = c("#ED713B", "seagreen"))

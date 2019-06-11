@@ -287,4 +287,4 @@ read.csv("wc_sims_history.csv", as.is = T) %>%
   mutate("date" = as.Date(date)) %>%
   filter(date < Sys.Date()) %>%
   bind_rows(mutate(wc_sims, "date" = Sys.Date())) %>%
-  write.csv(., "wc_sim_history.csv", row.names = F)
+  write.csv(., "wc_sims_history.csv", row.names = F)
