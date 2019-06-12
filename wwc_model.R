@@ -165,6 +165,7 @@ for(i in 1:nrow(fixtures)) {
 read.csv("pred_history.csv", as.is = T) %>%
   mutate("date" = as.Date(date)) %>%
   bind_rows(filter(fixtures, date == Sys.Date() + 1)) %>%
+  filter(!duplicated(paste(date, team))) %>%
   write.csv(., "pred_history.csv", row.names = F)
 
 ### Monte Carlo Sims
@@ -288,3 +289,7 @@ read.csv("wc_sims_history.csv", as.is = T) %>%
   filter(date < Sys.Date()) %>%
   bind_rows(mutate(wc_sims, "date" = Sys.Date())) %>%
   write.csv(., "wc_sims_history.csv", row.names = F)
+
+
+
+

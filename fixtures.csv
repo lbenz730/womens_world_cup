@@ -8,12 +8,12 @@
 6/9/19,England,Scotland,2,1,N,D
 6/10/19,Argentina,Japan,0,0,N,D
 6/10/19,Canada,Cameroon,1,0,N,E
-6/11/19,New Zealand,Netherlands,NA,NA,N,E
-6/11/19,Chile,Sweden,NA,NA,N,F
-6/11/19,USA,Thailand,NA,NA,N,F
-6/12/19,Nigeria,Korea Republic,NA,NA,N,A
-6/12/19,France,Norway,NA,NA,H,A
-6/12/19,Germany,Spain,NA,NA,N,B
+6/11/19,New Zealand,Netherlands,0,1,N,E
+6/11/19,Chile,Sweden,0,2,N,F
+6/11/19,USA,Thailand,13,0,N,F
+6/12/19,Nigeria,Korea Republic,2,0,N,A
+6/12/19,France,Norway,2,1,H,A
+6/12/19,Germany,Spain,1,0,N,B
 6/13/19,Australia,Brazil,NA,NA,N,C
 6/13/19,South Africa,China PR,NA,NA,N,B
 6/14/19,Japan,Scotland,NA,NA,N,D

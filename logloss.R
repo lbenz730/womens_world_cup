@@ -52,11 +52,15 @@ modified_log_loss <- function(d) {
 }
 
 ll_mat <- sapply(unique(lsb$date), log_loss)
-
+ll_mat2 <- sapply(unique(lsb$date), modified_log_loss)
 
 df <- data.frame("date" = unique(lsb$date),
            "log_loss" = c(ll_mat[1,], ll_mat[2,]),
            "model" = rep(c("LSB", "538"), each = length(unique(lsb$date))))
+
+df2 <- data.frame("date" = unique(lsb$date),
+                 "log_loss" = c(ll_mat2[1,], ll_mat2[2,]),
+                 "model" = rep(c("LSB", "538"), each = length(unique(lsb$date))))
 
 ggplot(df, aes(x = date, y = log_loss)) +
   geom_line(aes(color = model), size = 2) +
@@ -68,6 +72,20 @@ ggplot(df, aes(x = date, y = log_loss)) +
   labs(x = "Date",
        y = "Log-Loss",
        title = "2019 FIFA Women's World Cup",
-       subtitle = "Cumulative Log Loss (Ordinal Version)",
+       subtitle = "Cumulative Log Loss (Multinomial)",
+       color = "Model") +
+  scale_color_manual(values = c("#ED713B", "seagreen"))
+
+ggplot(df2, aes(x = date, y = log_loss)) +
+  geom_line(aes(color = model), size = 2) +
+  theme_fivethirtyeight() +
+  theme(legend.position = "bottom",
+        plot.title = element_text(size = 16, hjust = 0.5),
+        plot.subtitle = element_text(size = 12, hjust = 0.5),
+        axis.title = element_text(size = 14)) +
+  labs(x = "Date",
+       y = "Log-Loss",
+       title = "2019 FIFA Women's World Cup",
+       subtitle = "Cumulative Log Loss (Ordinal)",
        color = "Model") +
   scale_color_manual(values = c("#ED713B", "seagreen"))
