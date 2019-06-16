@@ -297,3 +297,86 @@ gather(deltas, round, prob, -country, -group) %>%
         axis.title = element_text(size = 14)) +
   scale_y_continuous(labels = scales::percent_format(accuracy = 1))
 
+grid.arrange(
+  ggplot(filter(wc_sims_history, group == "A"), 
+         aes(x = as.Date(date), y = qtrs)) + 
+    geom_line(aes(color = country), size = 1.1) +
+    theme_bw() +
+    guides(color = guide_legend(ncol=2)) +
+    theme(legend.position = "bottom",
+          plot.title = element_text(size = 16, hjust = 0.5),
+          plot.subtitle = element_text(size = 12, hjust = 0.5),
+          axis.title = element_text(size = 14)) +
+    labs(x = "", y = "", subtitle = "Group A", color = "Country") +
+    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
+    scale_color_manual(values = c("dodgerblue", "navy", "forestgreen", "red")),
+  
+  ggplot(filter(wc_sims_history, group == "B"), 
+         aes(x = as.Date(date), y = qtrs)) + 
+    geom_line(aes(color = country), size = 1.1) +
+    theme_bw() +
+    guides(color = guide_legend(ncol=2)) +
+    theme(legend.position = "bottom",
+          plot.title = element_text(size = 16, hjust = 0.5),
+          plot.subtitle = element_text(size = 12, hjust = 0.5),
+          axis.title = element_text(size = 14)) +
+    labs(x = "", y = "", subtitle = "Group B", color = "Country") +
+    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
+    scale_color_manual(values = c("red", "black", "forestgreen", "red4")),
+  
+  ggplot(filter(wc_sims_history, group == "C"), 
+         aes(x = as.Date(date), y = qtrs)) + 
+    geom_line(aes(color = country), size = 1.1) +
+    theme_bw() +
+    guides(color = guide_legend(ncol=2)) +
+    theme(legend.position = "bottom",
+          plot.title = element_text(size = 16, hjust = 0.5),
+          plot.subtitle = element_text(size = 12, hjust = 0.5),
+          axis.title = element_text(size = 14)) +
+    labs(x = "", y = "", subtitle = "Group C", color = "Country") +
+    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
+    scale_color_manual(values = c("forestgreen", "goldenrod1", "blue", "green")),
+  
+  ggplot(filter(wc_sims_history, group == "D"), 
+         aes(x = as.Date(date), y = qtrs)) + 
+    geom_line(aes(color = country), size = 1.1) +
+    theme_bw() +
+    guides(color = guide_legend(ncol=2)) +
+    theme(legend.position = "bottom",
+          plot.title = element_text(size = 16, hjust = 0.5),
+          plot.subtitle = element_text(size = 12, hjust = 0.5),
+          axis.title = element_text(size = 14)) +
+    labs(x = "", y = "", subtitle = "Group D", color = "Country") +
+    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
+    scale_color_manual(values = c("dodgerblue", "red", "navy", "blue")),
+  
+  ggplot(filter(wc_sims_history, group == "E"), 
+         aes(x = as.Date(date), y = qtrs)) + 
+    geom_line(aes(color = country), size = 1.1) +
+    theme_bw() +
+    guides(color = guide_legend(ncol=2)) +
+    theme(legend.position = "bottom",
+          plot.title = element_text(size = 16, hjust = 0.5),
+          plot.subtitle = element_text(size = 12, hjust = 0.5),
+          axis.title = element_text(size = 14)) +
+    labs(x = "", y = "", subtitle = "Group E", color = "Country") +
+    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
+    scale_color_manual(values = c("forestgreen", "red", "orange", "navy")),
+  
+  ggplot(filter(wc_sims_history, group == "F"), 
+         aes(x = as.Date(date), y = qtrs)) + 
+    geom_line(aes(color = country), size = 1.1) +
+    theme_bw() +
+    guides(color = guide_legend(ncol=2)) +
+    theme(legend.position = "bottom",
+          plot.title = element_text(size = 16, hjust = 0.5),
+          plot.subtitle = element_text(size = 12, hjust = 0.5),
+          axis.title = element_text(size = 14)) +
+    labs(x = "", y = "", subtitle = "Group F", color = "Country") +
+    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
+    scale_color_manual(values = c("dodgerblue", "yellow", "red", "navy")),
+  top = textGrob("Evolations of WWC Progression Probability", gp=gpar(fontsize=20)), 
+  left = textGrob("Odds of Advancing Past Group Stage", gp=gpar(fontsize=14), rot = 90), 
+  bottom = textGrob("Date", gp=gpar(fontsize=14)), ncol = 3
+)
+
