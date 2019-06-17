@@ -164,7 +164,7 @@ for(i in 1:nrow(fixtures)) {
 
 read.csv("pred_history.csv", as.is = T) %>%
   mutate("date" = as.Date(date)) %>%
-  bind_rows(filter(fixtures, date == Sys.Date() + 1)) %>%
+  bind_rows(filter(fixtures, date == Sys.Date())) %>%
   filter(!duplicated(paste(date, team))) %>%
   write.csv(., "pred_history.csv", row.names = F)
 
