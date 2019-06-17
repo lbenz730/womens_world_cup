@@ -71,7 +71,7 @@ sim_group_stage <- function(fixtures) {
     }
     ### Simulate Group Stage
     for(i in 1:6) {
-      sim_ladder <- sim_group(groups[i])
+      sim_ladder <- sim_group_lev(groups[i])
       
       ### Aggregate E(pts), E(GF), and E(GD)
       index <- unname(sapply(sim_ladder$country, grep, wc_sims$country))
@@ -105,7 +105,7 @@ sim_group_stage <- function(fixtures) {
 m <- min(which(is.na(fixtures$win)))
 
 for(i in m:36) {
-  cat("Game:", 1 - m + i, "of", 36-m, "\n")
+  cat("Game:", 1 - m + i, "of", 36-m+1, "\n")
   sim_team <- fixtures$team[i]
   sim_opp <- fixtures$opponent[i]
   for(j in 1:3) {

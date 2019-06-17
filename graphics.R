@@ -40,8 +40,11 @@ select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
          "finals" = ifelse(as.numeric(finals) < 0.1, "< 0.1%", paste0(finals, "%")),
          "semis" = ifelse(as.numeric(semis) < 0.1, "< 0.1%", paste0(semis, "%")),
          "qtrs" = ifelse(as.numeric(qtrs) < 0.1, "< 0.1%", paste0(qtrs, "%")),
-         "r16" = ifelse(as.numeric(r16) < 0.1, "< 0.1%", ifelse(as.numeric(r16) > 99, "> 99%", 
-                                                                paste0(r16, "%")))) %>%
+         "r16" = ifelse(as.numeric(r16) < 0.1, "< 0.1%", 
+                        ifelse(as.numeric(r16) > 99 & as.numeric(r16) < 100, "> 99%", 
+                                  ifelse(as.numeric(r16) == 100, emo::ji("check"),
+                                         ifelse(as.numeric(r16) == 0, emo::ji("x"),
+                                         paste0(r16, "%")))))) %>%
   mutate(champ = cell_spec(
     champ, color = "white", bold = T,
     background = spec_color(as.numeric(gsub("[%<]", "", champ)), end = 0.9, option = "C", direction = 1,
@@ -64,8 +67,10 @@ select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
   )) %>%
   mutate(r16 = cell_spec(
     r16, color = "white", bold = T,
-    background = spec_color(as.numeric(gsub("[>%<]", "", r16)), end = 0.9, option = "C", direction = 1,
-                            scale_from = c(0,100))
+    background = ifelse(as.numeric(gsub("[>%<]", "", gsub("\u2705", "100", r16))) %in% c(0, 100), "white", 
+                        spec_color(as.numeric(gsub("[>%<]", "", gsub("\u2705", "100", r16))), 
+                                   end = 0.9, option = "C", direction = 1,
+                            scale_from = c(0,100)))
   )) %>%
   rename("Country" = country,
          "Group" = group, 

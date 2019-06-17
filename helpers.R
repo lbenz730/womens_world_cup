@@ -77,6 +77,56 @@ sim_group <- function(group_name) {
   return(ladder)
 }
 
+### Simulate a group at the World Cup
+sim_group_lev <- function(group_name) {
+  games <- filter(fixtures, group == group_name) %>% 
+    mutate("team_goals" = NA, "opp_goals" = NA, "team_gd" = NA, "opp_gd" = NA,
+           "team_points" = 0, "opp_points" = 0)
+  for(i in 1:nrow(games)) {
+    if(!is.na(games$win[i])) {
+      games$team_goals[i] <- games$team_score[i]
+      games$opp_goals[i] <- games$opp_score[i]
+      games$team_gd[i] <- games$goal_diff[i]
+      games$opp_gd[i] <- -games$goal_diff[i]
+      games$team_points[i] <- 3*games$win[i] + games$tie[i]
+      games$opp_points[i] <- 3*games$loss[i] + games$tie[i]
+    } else{
+      lambda_1 <- games$team_score[i]
+      lambda_2 <- games$opp_score[i]
+      games$team_goals[i] <- rpois(1, lambda_1)
+      games$opp_goals[i] <- rpois(1, lambda_2)
+      games$team_gd[i] <- games$team_goals[i] - games$opp_goals[i]
+      games$opp_gd[i] <- games$opp_goals[i] - games$team_goals[i]
+      if(games$team_gd[i] > 0) {
+        games$team_points[i] <- 3
+      }
+      if(games$opp_gd[i] > 0) {
+        games$opp_points[i] <- 3
+      }
+      if(games$team_gd[i] == 0) {
+        games$team_points[i] <- 1
+        games$opp_points[i] <- 1
+      }
+    }
+  }
+  ladder <- data.frame("country" = unique(c(games$team, games$opponent)),
+                       "pts" = rep(NA, 4),
+                       "goals_forced" = rep(NA, 4),
+                       "goal_diff" = rep(NA, 4),
+                       stringsAsFactors = F)
+  for(i in 1:4) {
+    ladder$pts[i] <- sum(games$team_points[games$team == ladder$country[i]]) + 
+      sum(games$opp_points[games$opponent == ladder$country[i]])
+    ladder$goal_diff[i] <- sum(games$team_gd[games$team == ladder$country[i]]) + 
+      sum(games$opp_gd[games$opponent == ladder$country[i]])
+    ladder$goals_forced[i] <- sum(games$team_goals[games$team == ladder$country[i]]) + 
+      sum(games$opp_goals[games$opponent == ladder$country[i]])
+  }
+  
+  ladder <- arrange(ladder, desc(pts), desc(goal_diff), desc(goals_forced))
+  return(ladder)
+}
+
 ### Find Group for a team
 find_group <- function(country) {
   group <- filter(fixtures, team == country | opponent == country) %>%
