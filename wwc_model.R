@@ -227,6 +227,15 @@ for(j in 1:nsims) {
   ### Find 4 best 3rd place teams
   third <- order_thirds(third_place)
   
+  if(j == 1) {
+    third_history <- filter(third_place, country %in% third) %>%
+      mutate("place" = 1:4)
+  } else {
+    third_history <- bind_rows(third_history,
+                               filter(third_place, country %in% third) %>%
+                                 mutate("sim" = j))
+  }
+  
   ###  ### Knock-Out Stage
   teams_left <- 16
   ko_round <- 1
@@ -284,6 +293,7 @@ for(j in 1:nsims) {
   }
 }
 write.csv(wc_sims, "wc_sims.csv", row.names = F)
+write.csv(third_history, "third_place.csv", row.names = F)
 read.csv("wc_sims_history.csv", as.is = T) %>%
   mutate("date" = as.Date(date)) %>%
   filter(date < Sys.Date()) %>%

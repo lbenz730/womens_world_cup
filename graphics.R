@@ -11,7 +11,7 @@ library(grid)
 
 wc_sims <- read.csv("wc_sims.csv", as.is = T)
 
-
+### Exp Points
 ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country, 
                                     arrange(wc_sims, desc(exp_pts)) %>% 
                                       pull(country)), 
@@ -28,7 +28,7 @@ ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country,
        title = "Expected Group Stage Points",
        subtitle = "2019 FIFA Women's World Cup")
 
-
+### Odds Chart
 select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
   arrange(round(desc(champ), 2), round(desc(finals), 2), desc(semis), desc(qtrs), desc(r16)) %>%
   mutate("champ" = sprintf("%.1f", 100 * champ),
@@ -84,6 +84,7 @@ select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
   row_spec(0, bold = T, font_size = 12) %>%
   add_header_above(c("2019 FIFA Women's World Cup" = 7), bold = T, font_size = 24)
 
+### Exp GD
 ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country, 
                                     arrange(wc_sims, desc(exp_gd)) %>% 
                                       pull(country)), 
@@ -102,6 +103,7 @@ ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country,
   scale_fill_manual(values = c("red", "seagreen"))
 
 
+### Group Stage Distributions
 select(wc_sims, country, group, first_in_group, second_in_group, third_in_group) %>%
   mutate("fourth_in_group" = 1 - first_in_group - second_in_group - third_in_group) %>%
   gather(place, pct, -country, -group) %>%
@@ -126,7 +128,7 @@ select(wc_sims, country, group, first_in_group, second_in_group, third_in_group)
        subtitle = "2019 FIFA Women's World Cup",
        fill = "Ladder Postion")
 
-
+### Goal Plot Function
 goal_plot <- function(team1, team2, location, col1, col2, m,  knockout = F) {
   lambda1 <- suppressWarnings(predict(glm.futbol, newdata = data.frame("team" = team1,
                                                                        "opponent" = team2,
@@ -188,11 +190,10 @@ goal_plot <- function(team1, team2, location, col1, col2, m,  knockout = F) {
   return(p)
 }
 
-goal_plot("Thailand", "USA", "N", "red", "navy", 10)
-
 
 wc_sims_history <- read.csv("wc_sims_history.csv", as.is = T)
 
+### Evoluation of Advancement
 grid.arrange(
   ggplot(filter(wc_sims_history, group == "A"), 
          aes(x = as.Date(date), y = r16)) + 
@@ -271,11 +272,12 @@ grid.arrange(
     labs(x = "", y = "", subtitle = "Group F", color = "Country") +
     scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
     scale_color_manual(values = c("dodgerblue", "yellow", "red", "navy")),
-  top = textGrob("Evolations of WWC Progression Probability", gp=gpar(fontsize=20)), 
+  top = textGrob("Evolutions of WWC Progression Probability", gp=gpar(fontsize=20)), 
   left = textGrob("Odds of Advancing Past Group Stage", gp=gpar(fontsize=14), rot = 90), 
   bottom = textGrob("Date", gp=gpar(fontsize=14)), ncol = 3
 )
 
+### Deltas
 deltas <- filter(wc_sims_history, date %in% c("2019-06-06", "2019-06-11")) %>%
   group_by(country, group) %>%
   summarise("R16" = r16[date == "2019-06-11"]- r16[date == "2019-06-06"],
@@ -302,86 +304,24 @@ gather(deltas, round, prob, -country, -group) %>%
         axis.title = element_text(size = 14)) +
   scale_y_continuous(labels = scales::percent_format(accuracy = 1))
 
-grid.arrange(
-  ggplot(filter(wc_sims_history, group == "A"), 
-         aes(x = as.Date(date), y = qtrs)) + 
-    geom_line(aes(color = country), size = 1.1) +
-    theme_bw() +
-    guides(color = guide_legend(ncol=2)) +
-    theme(legend.position = "bottom",
-          plot.title = element_text(size = 16, hjust = 0.5),
-          plot.subtitle = element_text(size = 12, hjust = 0.5),
-          axis.title = element_text(size = 14)) +
-    labs(x = "", y = "", subtitle = "Group A", color = "Country") +
-    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
-    scale_color_manual(values = c("dodgerblue", "navy", "forestgreen", "red")),
-  
-  ggplot(filter(wc_sims_history, group == "B"), 
-         aes(x = as.Date(date), y = qtrs)) + 
-    geom_line(aes(color = country), size = 1.1) +
-    theme_bw() +
-    guides(color = guide_legend(ncol=2)) +
-    theme(legend.position = "bottom",
-          plot.title = element_text(size = 16, hjust = 0.5),
-          plot.subtitle = element_text(size = 12, hjust = 0.5),
-          axis.title = element_text(size = 14)) +
-    labs(x = "", y = "", subtitle = "Group B", color = "Country") +
-    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
-    scale_color_manual(values = c("red", "black", "forestgreen", "red4")),
-  
-  ggplot(filter(wc_sims_history, group == "C"), 
-         aes(x = as.Date(date), y = qtrs)) + 
-    geom_line(aes(color = country), size = 1.1) +
-    theme_bw() +
-    guides(color = guide_legend(ncol=2)) +
-    theme(legend.position = "bottom",
-          plot.title = element_text(size = 16, hjust = 0.5),
-          plot.subtitle = element_text(size = 12, hjust = 0.5),
-          axis.title = element_text(size = 14)) +
-    labs(x = "", y = "", subtitle = "Group C", color = "Country") +
-    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
-    scale_color_manual(values = c("forestgreen", "goldenrod1", "blue", "green")),
-  
-  ggplot(filter(wc_sims_history, group == "D"), 
-         aes(x = as.Date(date), y = qtrs)) + 
-    geom_line(aes(color = country), size = 1.1) +
-    theme_bw() +
-    guides(color = guide_legend(ncol=2)) +
-    theme(legend.position = "bottom",
-          plot.title = element_text(size = 16, hjust = 0.5),
-          plot.subtitle = element_text(size = 12, hjust = 0.5),
-          axis.title = element_text(size = 14)) +
-    labs(x = "", y = "", subtitle = "Group D", color = "Country") +
-    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
-    scale_color_manual(values = c("dodgerblue", "red", "navy", "blue")),
-  
-  ggplot(filter(wc_sims_history, group == "E"), 
-         aes(x = as.Date(date), y = qtrs)) + 
-    geom_line(aes(color = country), size = 1.1) +
-    theme_bw() +
-    guides(color = guide_legend(ncol=2)) +
-    theme(legend.position = "bottom",
-          plot.title = element_text(size = 16, hjust = 0.5),
-          plot.subtitle = element_text(size = 12, hjust = 0.5),
-          axis.title = element_text(size = 14)) +
-    labs(x = "", y = "", subtitle = "Group E", color = "Country") +
-    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
-    scale_color_manual(values = c("forestgreen", "red", "orange", "navy")),
-  
-  ggplot(filter(wc_sims_history, group == "F"), 
-         aes(x = as.Date(date), y = qtrs)) + 
-    geom_line(aes(color = country), size = 1.1) +
-    theme_bw() +
-    guides(color = guide_legend(ncol=2)) +
-    theme(legend.position = "bottom",
-          plot.title = element_text(size = 16, hjust = 0.5),
-          plot.subtitle = element_text(size = 12, hjust = 0.5),
-          axis.title = element_text(size = 14)) +
-    labs(x = "", y = "", subtitle = "Group F", color = "Country") +
-    scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
-    scale_color_manual(values = c("dodgerblue", "yellow", "red", "navy")),
-  top = textGrob("Evolations of WWC Progression Probability", gp=gpar(fontsize=20)), 
-  left = textGrob("Odds of Advancing Past Group Stage", gp=gpar(fontsize=14), rot = 90), 
-  bottom = textGrob("Date", gp=gpar(fontsize=14)), ncol = 3
-)
+third_history$sim <- rep(1:10000, each = 4)
 
+third_tab <- group_by(third_history, sim) %>%
+  summarise("min_pts" = min(pts),
+            "min_gd" = min(goal_diff[pts == min(pts)]), 
+            "min_gf" = min(goals_forced[pts == min(pts) &
+                                          goal_diff == min(goal_diff[pts ==min(pts)])]))
+
+
+
+ggplot(third_tab, aes(x = min_gd, y = ..density..)) +
+  geom_histogram(bins = 12, fill = "seagreen") +
+  facet_wrap(~paste(min_pts, "Points")) +
+  theme_bw() +
+  theme(legend.position = "bottom",
+        plot.title = element_text(size = 16, hjust = 0.5),
+        plot.subtitle = element_text(size = 12, hjust = 0.5),
+        axis.title = element_text(size = 14)) +
+  labs(x = "Goal Differential",
+       y = "Density",
+       title = "Points and Goal Differenttial for Worst Advancing Third Place Country")
