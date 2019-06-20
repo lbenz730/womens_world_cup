@@ -28,7 +28,27 @@ ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country,
        title = "Expected Group Stage Points",
        subtitle = "2019 FIFA Women's World Cup")
 
+clean <- function(x) { 
+  return(as.numeric(gsub("[>%<]", "",gsub("\u2705", "100", gsub("\u274c", "0", x)))))
+}
+
+fix <- function(x) {
+  ifelse(as.numeric(x) < 0.11 & as.numeric(x) > 0 , "< 0.1%", 
+         ifelse(as.numeric(x) > 99 & as.numeric(x) < 100, "> 99%", 
+                ifelse(as.numeric(x) == 100, emo::ji("check"),
+                       ifelse(as.numeric(x) == 0, emo::ji("x"),
+                              paste0(x, "%")))))
+}
+
 ### Odds Chart
+wc_sims$qtrs[wc_sims$r16 > 0] <- ifelse(wc_sims$qtrs[wc_sims$r16 > 0] > 0.001, 
+                                         wc_sims$qtrs[wc_sims$r16 > 0], 0.001)
+wc_sims$semis[wc_sims$r16 > 0] <- ifelse(wc_sims$semis[wc_sims$r16 > 0] > 0.001, 
+                                         wc_sims$semis[wc_sims$r16 > 0], 0.001)
+wc_sims$finals[wc_sims$r16 > 0] <- ifelse(wc_sims$finals[wc_sims$r16 > 0] > 0.001, 
+                                         wc_sims$finals[wc_sims$r16 > 0], 0.001)
+wc_sims$champ[wc_sims$r16 > 0] <- ifelse(wc_sims$champ[wc_sims$r16 > 0] > 0.001, 
+                                         wc_sims$champ[wc_sims$r16 > 0], 0.001)
 select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
   arrange(round(desc(champ), 2), round(desc(finals), 2), desc(semis), desc(qtrs), desc(r16)) %>%
   mutate("champ" = sprintf("%.1f", 100 * champ),
@@ -36,41 +56,45 @@ select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
          "semis" = sprintf("%.1f", 100 * semis),
          "qtrs" = sprintf("%.1f", 100 * qtrs),
          "r16" = sprintf("%.1f", 100 * r16)) %>%
-  mutate("champ" = ifelse(as.numeric(champ) < 0.1, "< 0.1%", paste0(champ, "%")),
-         "finals" = ifelse(as.numeric(finals) < 0.1, "< 0.1%", paste0(finals, "%")),
-         "semis" = ifelse(as.numeric(semis) < 0.1, "< 0.1%", paste0(semis, "%")),
-         "qtrs" = ifelse(as.numeric(qtrs) < 0.1, "< 0.1%", paste0(qtrs, "%")),
-         "r16" = ifelse(as.numeric(r16) < 0.1, "< 0.1%", 
-                        ifelse(as.numeric(r16) > 99 & as.numeric(r16) < 100, "> 99%", 
-                                  ifelse(as.numeric(r16) == 100, emo::ji("check"),
-                                         ifelse(as.numeric(r16) == 0, emo::ji("x"),
-                                         paste0(r16, "%")))))) %>%
+  mutate("champ" = fix(champ),
+         "finals" = fix(finals),
+         "semis" = fix(semis),
+         "qtrs" = fix(qtrs),
+         "r16" = fix(r16)) %>%
   mutate(champ = cell_spec(
     champ, color = "white", bold = T,
-    background = spec_color(as.numeric(gsub("[%<]", "", champ)), end = 0.9, option = "C", direction = 1,
-                            scale_from = c(0,100))
+    background = ifelse(clean(champ) %in% c(0, 100), "white", 
+                        spec_color(clean(champ), 
+                                   end = 0.9, option = "C", direction = 1,
+                                   scale_from = c(0,100)))
   )) %>%  
   mutate(finals = cell_spec(
     finals, color = "white", bold = T,
-    background = spec_color(as.numeric(gsub("[%<]", "", finals)), end = 0.9, option = "C", direction = 1,
-                            scale_from = c(0,100))
+    background = ifelse(clean(finals) %in% c(0, 100), "white", 
+                        spec_color(clean(finals), 
+                                   end = 0.9, option = "C", direction = 1,
+                                   scale_from = c(0,100)))
   )) %>%
   mutate(semis = cell_spec(
     semis, color = "white", bold = T,
-    background = spec_color(as.numeric(gsub("[%<]", "", semis)), end = 0.9, option = "C", direction = 1,
-                            scale_from = c(0,100))
+    background = ifelse(clean(semis) %in% c(0, 100), "white", 
+                        spec_color(clean(semis), 
+                                   end = 0.9, option = "C", direction = 1,
+                                   scale_from = c(0,100)))
   )) %>%
   mutate(qtrs = cell_spec(
     qtrs, color = "white", bold = T,
-    background = spec_color(as.numeric(gsub("[%<]", "", qtrs)), end = 0.9, option = "C", direction = 1,
-                            scale_from = c(0,100))
+    background = ifelse(clean(qtrs) %in% c(0, 100), "white", 
+                        spec_color(clean(qtrs), 
+                                   end = 0.9, option = "C", direction = 1,
+                                   scale_from = c(0,100)))
   )) %>%
   mutate(r16 = cell_spec(
     r16, color = "white", bold = T,
-    background = ifelse(as.numeric(gsub("[>%<]", "", gsub("\u2705", "100", r16))) %in% c(0, 100), "white", 
-                        spec_color(as.numeric(gsub("[>%<]", "", gsub("\u2705", "100", r16))), 
+    background = ifelse(clean(r16) %in% c(0, 100), "white", 
+                        spec_color(clean(r16), 
                                    end = 0.9, option = "C", direction = 1,
-                            scale_from = c(0,100)))
+                                   scale_from = c(0,100)))
   )) %>%
   rename("Country" = country,
          "Group" = group, 
@@ -83,6 +107,9 @@ select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
   kable_styling("striped", full_width = F, position = "center") %>%
   row_spec(0, bold = T, font_size = 12) %>%
   add_header_above(c("2019 FIFA Women's World Cup" = 7), bold = T, font_size = 24)
+
+
+
 
 ### Exp GD
 ggplot(wc_sims, aes(x = fct_relevel(wc_sims$country, 
@@ -196,7 +223,7 @@ wc_sims_history <- read.csv("wc_sims_history.csv", as.is = T)
 ### Evoluation of Advancement
 grid.arrange(
   ggplot(filter(wc_sims_history, group == "A"), 
-         aes(x = as.Date(date), y = r16)) + 
+         aes(x = as.Date(date), y = qtrs)) + 
     geom_line(aes(color = country), size = 1.1) +
     theme_bw() +
     guides(color = guide_legend(ncol=2)) +
@@ -209,7 +236,7 @@ grid.arrange(
     scale_color_manual(values = c("dodgerblue", "navy", "forestgreen", "red")),
   
   ggplot(filter(wc_sims_history, group == "B"), 
-         aes(x = as.Date(date), y = r16)) + 
+         aes(x = as.Date(date), y = qtrs)) + 
     geom_line(aes(color = country), size = 1.1) +
     theme_bw() +
     guides(color = guide_legend(ncol=2)) +
@@ -222,7 +249,7 @@ grid.arrange(
     scale_color_manual(values = c("red", "black", "forestgreen", "red4")),
   
   ggplot(filter(wc_sims_history, group == "C"), 
-         aes(x = as.Date(date), y = r16)) + 
+         aes(x = as.Date(date), y = qtrs)) + 
     geom_line(aes(color = country), size = 1.1) +
     theme_bw() +
     guides(color = guide_legend(ncol=2)) +
@@ -235,7 +262,7 @@ grid.arrange(
     scale_color_manual(values = c("forestgreen", "goldenrod1", "blue", "green")),
   
   ggplot(filter(wc_sims_history, group == "D"), 
-         aes(x = as.Date(date), y = r16)) + 
+         aes(x = as.Date(date), y = qtrs)) + 
     geom_line(aes(color = country), size = 1.1) +
     theme_bw() +
     guides(color = guide_legend(ncol=2)) +
@@ -248,7 +275,7 @@ grid.arrange(
     scale_color_manual(values = c("dodgerblue", "red", "navy", "blue")),
   
   ggplot(filter(wc_sims_history, group == "E"), 
-         aes(x = as.Date(date), y = r16)) + 
+         aes(x = as.Date(date), y = qtrs)) + 
     geom_line(aes(color = country), size = 1.1) +
     theme_bw() +
     guides(color = guide_legend(ncol=2)) +
@@ -261,7 +288,7 @@ grid.arrange(
     scale_color_manual(values = c("forestgreen", "red", "orange", "navy")),
   
   ggplot(filter(wc_sims_history, group == "F"), 
-         aes(x = as.Date(date), y = r16)) + 
+         aes(x = as.Date(date), y = qtrs)) + 
     geom_line(aes(color = country), size = 1.1) +
     theme_bw() +
     guides(color = guide_legend(ncol=2)) +
@@ -273,7 +300,7 @@ grid.arrange(
     scale_y_continuous(limits = c(0,1), labels = scales::percent_format(accuracy = 1)) +
     scale_color_manual(values = c("dodgerblue", "yellow", "red", "navy")),
   top = textGrob("Evolutions of WWC Progression Probability", gp=gpar(fontsize=20)), 
-  left = textGrob("Odds of Advancing Past Group Stage", gp=gpar(fontsize=14), rot = 90), 
+  left = textGrob("Odds of Advancing to Quarterfinals", gp=gpar(fontsize=14), rot = 90), 
   bottom = textGrob("Date", gp=gpar(fontsize=14)), ncol = 3
 )
 
@@ -285,14 +312,14 @@ deltas <- filter(wc_sims_history, date %in% c("2019-06-06", "2019-06-11")) %>%
             "Semis" = semis[date == "2019-06-11"]- semis[date == "2019-06-06"],
             "Finals" = finals[date == "2019-06-11"]- finals[date == "2019-06-06"],
             "Champ" = champ[date == "2019-06-11"]- champ[date == "2019-06-06"]
-            ) %>%
+  ) %>%
   ungroup()
 
 
 gather(deltas, round, prob, -country, -group) %>%
   ggplot(aes(x = country, y = prob)) +
   geom_bar(aes(fill = fct_relevel(round, "R16", "Quarters", "Semis", "Finals", "Champ")),
-               stat = "identity", position = "dodge") +
+           stat = "identity", position = "dodge") +
   facet_wrap(~group, scales = "free_x") +
   labs(x = "Country", y = "Change in Round Advancement Probability",
        fill = "Round", title = "Women's World Cup Change in Round Advancement Probability",

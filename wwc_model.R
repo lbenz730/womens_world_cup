@@ -164,7 +164,7 @@ for(i in 1:nrow(fixtures)) {
 
 read.csv("pred_history.csv", as.is = T) %>%
   mutate("date" = as.Date(date)) %>%
-  bind_rows(filter(fixtures, date == Sys.Date())) %>%
+  bind_rows(filter(fixtures, date == Sys.Date() + 1)) %>%
   filter(!duplicated(paste(date, team))) %>%
   write.csv(., "pred_history.csv", row.names = F)
 
@@ -243,6 +243,8 @@ for(j in 1:nsims) {
                   winners[3], winners[5], winners[2], runners_up[6],
                   runners_up[3], third[1], third[2], winners[6],
                   third[3], runners_up[4], third[4], runners_up[5])
+  
+  
   wc_sims$r16[wc_sims$country %in% ko_winners] <- 
     wc_sims$r16[wc_sims$country %in% ko_winners] + 1/nsims
   

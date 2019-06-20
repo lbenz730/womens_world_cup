@@ -29,9 +29,17 @@
 6/17/19,Korea Republic,Norway,1,2,N,A
 6/18/19,Italy,Brazil,0,1,N,C
 6/18/19,Jamaica,Australia,1,4,N,C
-6/19/19,Japan,England,NA,NA,N,D
-6/19/19,Argentina,Scotland,NA,NA,N,D
-6/20/19,Cameroon,New Zealand,NA,NA,N,E
-6/20/19,Netherlands,Canada,NA,NA,N,E
-6/20/19,Sweden,USA,NA,NA,N,F
-6/20/19,Thailand,Chile,NA,NA,N,F
+6/19/19,Japan,England,0,2,N,D
+6/19/19,Argentina,Scotland,3,3,N,D
+6/20/19,Cameroon,New Zealand,,,N,E
+6/20/19,Netherlands,Canada,,,N,E
+6/20/19,Sweden,USA,,,N,F
+6/20/19,Thailand,Chile,,,N,F
+6/22/19,Norway,Australia,,,N,R16
+6/22/19,Germany,Nigeria,,,N,R16
+6/23/19,England,Cameroon,,,N,R16
+6/23/19,France,Brazil,,,H,R16
+6/24/19,Spain,USA,,,N,R16
+6/24/19,Sweden,Canada,,,N,R16
+6/25/19,Italy,China PR,,,N,R16
+6/25/19,Netherlands,Japan,,,N,R16
