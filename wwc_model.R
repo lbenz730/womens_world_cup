@@ -158,7 +158,8 @@ fixtures$goal_diff <- fixtures$team_score - fixtures$opp_score
 for(i in 1:nrow(fixtures)) {
   if(is.na(fixtures$win[i])) {
     fixtures[i, c("win", "tie", "loss")] <- match_probs(lambda_1 = fixtures$team_score[i],
-                                                        lambda_2 = fixtures$opp_score[i])
+                                                        lambda_2 = fixtures$opp_score[i],
+                                                        group = fixtures$group[i])
   }
 }
 
@@ -202,43 +203,50 @@ for(j in 1:nsims) {
   if(j %% 100 == 0) {
     cat("Sim", j, "of", nsims, "\n")
   }
-  ### Simulate Group Stage
-  for(i in 1:6) {
-    sim_ladder <- sim_group(groups[i])
-    
-    ### Aggregate E(pts), E(GF), and E(GD)
-    index <- unname(sapply(sim_ladder$country, grep, wc_sims$country))
-    wc_sims$exp_pts[index] <- wc_sims$exp_pts[index] + sim_ladder$pts/nsims
-    wc_sims$exp_gf[index] <- wc_sims$exp_gf[index] + sim_ladder$goals_forced/nsims
-    wc_sims$exp_gd[index] <- wc_sims$exp_gd[index] + sim_ladder$goal_diff/nsims
-    
-    ### Top 3 in Group
-    index_1 <- wc_sims$country == sim_ladder$country[1]
-    index_2 <- wc_sims$country == sim_ladder$country[2]
-    index_3 <- wc_sims$country == sim_ladder$country[3]
-    wc_sims$first_in_group[index_1] <- wc_sims$first_in_group[index_1] + 1/nsims
-    wc_sims$second_in_group[index_2] <- wc_sims$second_in_group[index_2] + 1/nsims
-    wc_sims$third_in_group[index_3] <- wc_sims$third_in_group[index_3] + 1/nsims
-    winners[i] <- sim_ladder$country[1]
-    runners_up[i] <- sim_ladder$country[2]
-    third_place[i,-2] <- sim_ladder[3,]
-  }
-  
-  ### Find 4 best 3rd place teams
-  third <- order_thirds(third_place)
-  
-  if(j == 1) {
-    third_history <- filter(third_place, country %in% third) %>%
-      mutate("place" = 1:4)
-  } else {
-    third_history <- bind_rows(third_history,
-                               filter(third_place, country %in% third) %>%
-                                 mutate("sim" = j))
-  }
+  # ### Simulate Group Stage
+  # for(i in 1:6) {
+  #   sim_ladder <- sim_group(groups[i])
+  #   
+  #   ### Aggregate E(pts), E(GF), and E(GD)
+  #   index <- unname(sapply(sim_ladder$country, grep, wc_sims$country))
+  #   wc_sims$exp_pts[index] <- wc_sims$exp_pts[index] + sim_ladder$pts/nsims
+  #   wc_sims$exp_gf[index] <- wc_sims$exp_gf[index] + sim_ladder$goals_forced/nsims
+  #   wc_sims$exp_gd[index] <- wc_sims$exp_gd[index] + sim_ladder$goal_diff/nsims
+  #   
+  #   ### Top 3 in Group
+  #   index_1 <- wc_sims$country == sim_ladder$country[1]
+  #   index_2 <- wc_sims$country == sim_ladder$country[2]
+  #   index_3 <- wc_sims$country == sim_ladder$country[3]
+  #   wc_sims$first_in_group[index_1] <- wc_sims$first_in_group[index_1] + 1/nsims
+  #   wc_sims$second_in_group[index_2] <- wc_sims$second_in_group[index_2] + 1/nsims
+  #   wc_sims$third_in_group[index_3] <- wc_sims$third_in_group[index_3] + 1/nsims
+  #   winners[i] <- sim_ladder$country[1]
+  #   runners_up[i] <- sim_ladder$country[2]
+  #   third_place[i,-2] <- sim_ladder[3,]
+  # }
+  # 
+  # ### Find 4 best 3rd place teams
+  # third <- order_thirds(third_place)
+  # 
+  # if(j == 1) {
+  #   third_history <- filter(third_place, country %in% third) %>%
+  #     mutate("place" = 1:4)
+  # } else {
+  #   third_history <- bind_rows(third_history,
+  #                              filter(third_place, country %in% third) %>%
+  #                                mutate("sim" = j))
+  # }
   
   ###  ### Knock-Out Stage
   teams_left <- 16
   ko_round <- 1
+  runners_up <- c("Norway", "Spain", "Australia", "Japan", 
+                  "Canada", "Sweden")
+  winners <- c("France", "Germany", "Italy", "England", "Netherlands", "USA")
+  third <- c("Cameroon", "Brazil", "China PR", "Nigeria")
+  qtrs <- c("Norway", "France", "England", "Germany", "USA", "Sweden", "Netherlands", "Italy")
+  semis <- c("England")
+  finals <- c()
   ko_winners <- c(runners_up[1], winners[4], winners[1], runners_up[2],
                   winners[3], winners[5], winners[2], runners_up[6],
                   runners_up[3], third[1], third[2], winners[6],
@@ -269,6 +277,38 @@ for(j in 1:nsims) {
     ko_winners <- rep(NA, teams_left/2)
     
     for(i in 1:nrow(knockout)) {
+      if(teams_left == 16) {
+        if(knockout$team[i] %in% qtrs) {
+          knockout$winner[i] <- knockout$team[i]
+          next
+        }
+        else if(knockout$opponent[i] %in% qtrs) {
+          knockout$winner[i] <- knockout$opponent[i]
+          next
+        }
+      }
+      if(teams_left == 8) {
+        if(knockout$team[i] %in% semis) {
+          knockout$winner[i] <- knockout$team[i]
+          next
+        }
+        else if(knockout$opponent[i] %in% semis) {
+          knockout$winner[i] <- knockout$opponent[i]
+          next
+        }
+      }
+      if(teams_left == 4) {
+        if(knockout$team[i] %in% finals) {
+          knockout$winner[i] <- knockout$team[i]
+          next
+        }
+        else if(knockout$opponent[i] %in% finals) {
+          knockout$winner[i] <- knockout$opponent[i]
+          next
+        }
+      }
+      team_goals <- rpois(1, knockout$team_goals[i])
+      opp_goals <- rpois(1, knockout$opp_goals[i])
       team_goals <- rpois(1, knockout$team_goals[i])
       opp_goals <- rpois(1, knockout$opp_goals[i])
       if(team_goals > opp_goals) {
@@ -295,7 +335,7 @@ for(j in 1:nsims) {
   }
 }
 write.csv(wc_sims, "wc_sims.csv", row.names = F)
-write.csv(third_history, "third_place.csv", row.names = F)
+#write.csv(third_history, "third_place.csv", row.names = F)
 read.csv("wc_sims_history.csv", as.is = T) %>%
   mutate("date" = as.Date(date)) %>%
   filter(date < Sys.Date()) %>%

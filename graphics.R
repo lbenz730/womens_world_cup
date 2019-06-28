@@ -41,14 +41,6 @@ fix <- function(x) {
 }
 
 ### Odds Chart
-wc_sims$qtrs[wc_sims$r16 > 0] <- ifelse(wc_sims$qtrs[wc_sims$r16 > 0] > 0.001, 
-                                         wc_sims$qtrs[wc_sims$r16 > 0], 0.001)
-wc_sims$semis[wc_sims$r16 > 0] <- ifelse(wc_sims$semis[wc_sims$r16 > 0] > 0.001, 
-                                         wc_sims$semis[wc_sims$r16 > 0], 0.001)
-wc_sims$finals[wc_sims$r16 > 0] <- ifelse(wc_sims$finals[wc_sims$r16 > 0] > 0.001, 
-                                         wc_sims$finals[wc_sims$r16 > 0], 0.001)
-wc_sims$champ[wc_sims$r16 > 0] <- ifelse(wc_sims$champ[wc_sims$r16 > 0] > 0.001, 
-                                         wc_sims$champ[wc_sims$r16 > 0], 0.001)
 select(wc_sims, country, group, r16, qtrs, semis, finals, champ) %>%
   arrange(round(desc(champ), 2), round(desc(finals), 2), desc(semis), desc(qtrs), desc(r16)) %>%
   mutate("champ" = sprintf("%.1f", 100 * champ),

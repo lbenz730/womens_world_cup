@@ -17,13 +17,26 @@ invert <- function(data, score = F) {
 stripwhite <- function(x) gsub("\\s*$", "", gsub("^\\s*", "", x))
 
 ### Obtain W, L, T probabilities
-match_probs <- function(lambda_1, lambda_2) {
+match_probs <- function(lambda_1, lambda_2, group = "Z") {
+ 
   max_goals <- 20
   score_matrix <- dpois(0:max_goals, lambda_1) %o% dpois(0:max_goals, lambda_2)
   tie_prob <- sum(diag(score_matrix))
   win_prob <- sum(score_matrix[lower.tri(score_matrix)])
   loss_prob <- sum(score_matrix[upper.tri(score_matrix)])
+  
+  if(group %in% LETTERS[1:6]) {
+    return(c(win_prob, tie_prob, loss_prob))
+  }
+  
+  probs <- match_probs(lambda_1/3, lambda_2/3, "A")
+  
+  win_prob <- win_prob + tie_prob * probs[1] + 1/2 * tie_prob * probs[2]
+  loss_prob <- loss_prob + tie_prob * probs[3] + 1/2 * tie_prob * probs[2]
+  tie_prob <- 0
+  
   return(c(win_prob, tie_prob, loss_prob))
+  
 }
 
 

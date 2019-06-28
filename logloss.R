@@ -8,13 +8,15 @@ fte <- filter(fte, !is.na(score1)) %>%
   mutate("date" = as.Date(date))
 
 ### 538 Log Loss
+fte$score1[38] <- 2
 fte_log_loss <- sum(-log(fte$prob1) * (fte$score1 > fte$score2) -
   log(fte$prob2) * (fte$score2 > fte$score1) -
-  log(fte$probtie) * (fte$score1 == fte$score2))
+  log(fte$probtie + 0.000001) * (fte$score1 == fte$score2))
 
 
 ### My Log Loss
 fixtures <- read.csv("fixtures.csv", as.is = T)
+fixtures$team_score[37] <- 2
 pred_history <- read.csv("pred_history.csv", as.is = T)
 lsb <- select(fixtures, date, team, opponent, team_score, opp_score) %>%
   filter(!is.na(team_score)) %>%
@@ -24,7 +26,7 @@ lsb <- select(fixtures, date, team, opponent, team_score, opp_score) %>%
 
 lsb_log_loss <- sum(-log(lsb$win) * (lsb$team_score > lsb$opp_score) -
                       log(lsb$loss) * (lsb$team_score < lsb$opp_score) -
-                      log(lsb$tie) * (lsb$team_score == lsb$opp_score))
+                      log(lsb$tie + 0.000001) * (lsb$team_score == lsb$opp_score))
 
 
 log_loss <- function(d) {
@@ -33,10 +35,10 @@ log_loss <- function(d) {
   
   return(c(sum(-log(x$win) * (x$team_score > x$opp_score) -
         log(x$loss) * (x$team_score < x$opp_score) -
-        log(x$tie) * (x$team_score == x$opp_score)),
+        log(x$tie + 0.000001) * (x$team_score == x$opp_score)),
   sum(-log(y$prob1) * (y$score1 > y$score2) -
         log(y$prob2) * (y$score2 > y$score1) -
-        log(y$probtie) * (y$score1 == y$score2))))
+        log(y$probtie + 0.000001) * (y$score1 == y$score2))))
   
 }
 
@@ -87,5 +89,23 @@ ggplot(df2, aes(x = date, y = log_loss)) +
        y = "Log-Loss",
        title = "2019 FIFA Women's World Cup",
        subtitle = "Cumulative Log Loss (Ordinal)",
+       color = "Model") +
+  scale_color_manual(values = c("#ED713B", "seagreen"))
+
+
+rbind(mutate(df, "method" = "Multinomial"), 
+      mutate(df2, "method" = "Ordinal")) %>%
+  ggplot(aes(x = date, y = log_loss)) +
+  facet_wrap(~method) +
+  geom_line(aes(color = model), size = 2) +
+  theme_bw() +
+  theme(legend.position = "bottom",
+        plot.title = element_text(size = 16, hjust = 0.5),
+        plot.subtitle = element_text(size = 12, hjust = 0.5),
+        axis.title = element_text(size = 14)) +
+  labs(x = "Date",
+       y = "Log-Loss",
+       title = "2019 FIFA Women's World Cup",
+       subtitle = "Cumulative Log Loss",
        color = "Model") +
   scale_color_manual(values = c("#ED713B", "seagreen"))
